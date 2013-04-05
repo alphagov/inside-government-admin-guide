@@ -11,3 +11,5 @@ You'll receive two emails inviting you to create these accounts.
 
 
 ![Get an account](get-an-account.png)
+
+![Get an account 2](get-an-account-2.png)
