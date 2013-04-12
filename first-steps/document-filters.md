@@ -5,4 +5,4 @@ title: Inside Government Admin Guide - Document filters
 
 ## Document filters
 
-TODO
+Document filters are great!
