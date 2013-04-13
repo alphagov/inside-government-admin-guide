@@ -209,8 +209,15 @@ ul li {
 }
 
 ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
+  list-style: decimal outside;
+  padding-left: 0px;
+  font-weight: bold;
+  font-size: 200%;
+}
+
+ol li p {
+  font-weight: normal;
+  font-size: 50%;
 }
 
 dl dt {
