@@ -6,7 +6,7 @@ title: Inside Government Admin Guide - Logging in
 ## Logging in
 
 
-1. We have two separate publisher environments
+1. We have two separate publisher environments:
 
    Use Preview if you're practicising - [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
 
