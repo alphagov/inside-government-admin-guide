@@ -22,10 +22,9 @@ title: Inside Government Admin Guide - Start screen
    ![Start screen 3](start-screen-3.png)
    
 4. You can filter any documents by any author or organisation.
-
-   Click on 'Me' for your documents.
-      Click on 'My department' for anyone in your team. Use the dropdown menu for other organisations.
-   Click on 'Everyone' to see all documents. Use the dropdown menu for other authors.
+   * Click on 'Me' for your documents.
+      * Click on 'My department' for anyone in your team. Use the dropdown menu for other organisations.
+   * Click on 'Everyone' to see all documents. Use the dropdown menu for other authors.
    ![Start screen 4](start-screen-4.png)
 5. You can search for authors and organisations.
    Start typing the author or organisation name and suggestions will appear. Just pick the name you want.   Alternatively, don't type anything and just scroll up and down the list looking for the name you want.
