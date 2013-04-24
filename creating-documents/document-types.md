@@ -5,12 +5,12 @@ title: Inside Government Admin Guide - Document types
 
 ## Document types
 
-### Use the 'Create new document' button for these types
+Use the 'Create new document' button for these types
 
 ![Document types 1](document-types-1.png) 
    
 
-#### News article
+### News article
    
 There are currently three types:
 
