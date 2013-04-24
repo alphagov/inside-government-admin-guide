@@ -220,6 +220,12 @@ ol li p {
   font-size: 50%;
 }
 
+ol ul li {
+  font-size: 50%;
+  list-style: disc inside;
+  font-weight: normal;
+}
+
 dl dt {
   font-weight: bold;
 }
