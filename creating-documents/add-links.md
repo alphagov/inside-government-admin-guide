@@ -19,11 +19,11 @@ title: Inside Government Admin Guide - Add links
 	
 ### How to link to pages on GOV.UK
 
-1. Use the live url when linking to…
+#### Use the live url when linking to…
 
-	* an anchor within a page
+* an anchor within a page
 	
-	* any page accessed via the top navigation
+* any page accessed via the top navigation
 	
-	Make sure you go to the public version of GOV.UK to get the correct url. Don’t use any urls accessed via the admin site.2. Use the admin url when linking to...
-	* any document made by the ‘create new document’ button
+Make sure you go to the public version of GOV.UK to get the correct url. Don’t use any urls accessed via the admin site.#### Use the admin url when linking to...
+* any document made by the ‘create new document’ button
