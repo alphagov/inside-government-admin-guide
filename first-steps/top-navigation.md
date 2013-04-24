@@ -16,3 +16,14 @@ title: Inside Government Admin Guide - Top navigation
 	'Document series' let you collect related content together (eg ‘spending over £25,000’ or ‘statutory guidance for headmasters on admissions’)
 	
 	Click on your organisation's name to manage your homepage etc. If the wrong organisation is shown here please get in touch and we’ll fix it.
+	
+	
+2. Click the 'More V' link to see more content managed sections.
+
+	![Top navigation 2](top-navigation-2.png)
+	
+	![Top navigation 3](top-navigation-3.png)
+	
+	Click any of these links to see lists of content in each section. Some of this content is edited by you, other parts by GDS.
+	
+	
