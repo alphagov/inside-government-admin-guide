@@ -5,14 +5,15 @@ title: Inside Government Admin Guide - Add associations
 
 ## Add associations
 
-1. You can associate your document with  organisations, topics, policies, ministers and international locations (depending on content format).
+1. You can associate your document with  organisations, topics, policies, ministers and international locations (depending on content format).
+
 	Use associations sparingly. On topics, for example, 1 topic is best. Any more than 3 is too many.
 	
 	![Add associations 1](add-associations-1.png)
 	
 	Click on any of these fields.
 	
-	A drop down menu appears showing all the possible values you can enter into this field.  	Start typing and it will narrow down your available options.
+	A drop down menu appears showing all the possible values you can enter.  	Start typing and it will narrow down your available options.
 	
 	![Add associations 2](add-associations-2.png)
 	
