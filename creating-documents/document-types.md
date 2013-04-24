@@ -59,9 +59,9 @@ For all kinds of consultation including discussion documents and calls for evide
    
 Stand-alone documents, or collections of documents, of the following types:
 * 'Policy paper' for anything about setting or delivering a government policy
-* 'Impact assessment' for assessments of proposed initatives or regulatory changes
-* 'Guidance' for manuals, handbooks and any other stand-alone documents that offer advice
-* 'Forms' for any documents that need to be completed by users* 'Research and analysis' for any research relevant to government policy* 'Corporate reports' for publications about what your organisation does* 'Transparency data' for spending, salaries, contracts let, meetings with Ministers etc* 'FOI release' for responses to Freedom of information requests* 'Independent reports' for reports commissioned about government from third parties* 'Correspondence' for letters to individuals or organisations. Also use for newsletters* 'Promotional material' for leaflets, PR and posters* 'Maps'* For statistics	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
+* 'Impact assessment' for assessments of proposed initatives or regulatory changes
+* 'Guidance' for manuals, handbooks and any other stand-alone documents that offer advice
+* 'Forms' for any documents that need to be completed by users* 'Research and analysis' for any research relevant to government policy* 'Corporate reports' for publications about what your organisation does* 'Transparency data' for spending, salaries, contracts let, meetings with Ministers etc* 'FOI release' for responses to Freedom of information requests* 'Independent reports' for reports commissioned about government from third parties* 'Correspondence' for letters to individuals or organisations. Also use for newsletters* 'Promotional material' for leaflets, PR and posters* 'Maps'* For statistics	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
 
 [Example](https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report)
 
