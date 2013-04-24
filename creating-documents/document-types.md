@@ -14,11 +14,11 @@ Use the 'Create new document' button for these types
    
 There are currently three types.
 
-Use 'Press release' for statements aimed at the media or statements not made in parliament.
+* Use 'Press release' for statements aimed at the media or statements not made in parliament
 
-'News story' digital first stories written specifically for the site.
+* 'News story' digital first stories written specifically for the site
 
-'Government response' for a government response to media coverage.
+* 'Government response' for a government response to media coverage
 
 [Example](https://www.gov.uk/government/news/royal-navy-destroyer-to-join-ballistic-defence-trial)
 
