@@ -5,7 +5,7 @@ title: Inside Government Admin Guide - Markdown
 
 ## Markdown
 
-1. Most pages in the publisher use 'Markdown' to format content.	Rather than pushing lots of buttons or coding in html, you can add simple commands to create the formatting you want.	Wherever you can use Markdown in the Publisher, you'll see a 'how to' guide like the one opposite.	You can cut and paste the text if you get stuck.
+1. Most pages in the publisher use 'Markdown' to format content.	Rather than pushing lots of buttons or coding in html, you can add simple commands to create the formatting you want.	Wherever you can use Markdown in the Publisher, you'll see a 'how to' guide like the one below.	You can cut and paste the text if you get stuck.
 
    ![Markdown 1](markdown-1.png)
    

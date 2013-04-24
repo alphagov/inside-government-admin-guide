@@ -24,6 +24,6 @@ title: Inside Government Admin Guide - Top navigation
 	
 	![Top navigation 3](top-navigation-3.png)
 	
-	Click any of these links to see lists of content in each section. Some of this content is edited by you, other parts by GDS.
+	Click any of these links to see lists of content in each section. Some of this content is edited by you, [other parts by GDS](gds-only-tasks.html).
 	
 	
