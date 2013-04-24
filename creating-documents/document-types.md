@@ -5,12 +5,12 @@ title: Inside Government Admin Guide - Document types
 
 ## Document types
 
-Use the 'Create new document' button for these types
+### Use the 'Create new document' button for these types
 
 ![Document types 1](document-types-1.png) 
    
 
-### News article
+#### News article
    
 There are currently three types:
 
@@ -81,7 +81,9 @@ Stand-alone documents, or collections of documents, of the following types:
 
 * 'Promotional material' for leaflets, PR and posters
 
-* 'Maps'* For statistics	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
+* 'Maps'
+
+* For statistics	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
 
 [Example](https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report)
 
