@@ -25,9 +25,12 @@ title: Inside Government Admin Guide - Add links
 * an anchor within a page
 	
 * any page accessed via the top navigation
+
+	![Add links 3](add-links-3.png)
 	
-Make sure you go to the public version of GOV.UK to get the correct url. Don’t use any urls accessed via the admin site.
+Make sure you go to the [https://gov.uk/government](public version of GOV.UK) to get the correct url. Don’t use any urls accessed via the admin site.
 
 
 #### Use the admin url when linking to...
 * any document made by the ‘create new document’ button
+	![Add links 4](add-links-4.png)
