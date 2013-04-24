@@ -9,9 +9,9 @@ title: Inside Government Admin Guide - Add attachments
 
 	Upload a single attachment by clicking the 'choose file' button. 
 	
-	The following formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
-	
 	![Add attachments 1](add-attachments-1.png)
+	
+	The following formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
 	
 2. If your attachment is fully accessible then tick this box.
 
