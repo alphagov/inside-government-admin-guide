@@ -26,10 +26,12 @@ title: Inside Government Admin Guide - Document filters
    Click on 'Everyone' to see all documents. Use the dropdown menu for other authors.
    
    ![Document filters 3](document-filters-3.png)
-4. You can search for authors and organisations.
-   Start typing the author or organisation name and suggestions will appear. Just pick the name you want.
-   Alternatively, don't type anything and just scroll up and down the list looking for the name you want.
-   
+
+4. You can search for authors and organisations.
+   * Start typing the author or organisation name and suggestions will appear. Just pick the name you want.
+   * Alternatively, don't type anything and just scroll up and down the list looking for the name you want.
+
+   
    ![Document filters 4](document-filters-4.png)
    
    ![Document filters 5](document-filters-5.png)
