@@ -12,7 +12,7 @@ Use the 'Create new document' button for these types
 
 ### News article
    
-There are currently three types.
+There are currently three types:
 
 * Use 'Press release' for statements aimed at the media or statements not made in parliament
 
@@ -25,12 +25,14 @@ There are currently three types.
 [Instructions](creating-a-new-doc.html)
 ### Speech
    
-There are five types.
+There are five types:
 
-Use 'Transcript' for verbatim reports of what the speaker said (ie ‘checked against delivery’).
+* Use 'Transcript' for verbatim reports of what the speaker said (ie ‘checked against delivery’).
 
-'Draft' for what the speaker was supposed to say (ie ‘check against delivery’).'Speaking notes' if only notes are available.
-'Written statement' for statements submitted in writing to Parliament.
-'Oral statement' for statements given verbally to Parliament.
-[Example](https://www.gov.uk/government/speeches/2012-uk-bus-awards-lunch-speech)
-[Instructions](creating-a-new-doc.html)
+* 'Draft' for what the speaker was supposed to say (ie ‘check against delivery’).* 'Speaking notes' if only notes are available.
+* 'Written statement' for statements submitted in writing to Parliament.
+* 'Oral statement' for statements given verbally to Parliament.
+[Example](https://www.gov.uk/government/speeches/2012-uk-bus-awards-lunch-speech)
+
+[Instructions](creating-a-new-doc.html)
+
