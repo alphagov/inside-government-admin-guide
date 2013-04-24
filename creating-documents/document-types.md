@@ -83,7 +83,11 @@ Stand-alone documents, or collections of documents, of the following types:
 
 * 'Maps'
 
-* For statistics	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
+* For statistics
+	
+	Use 'Statistics' for data produced by members of the Government Statistical Service (if the data is regularly updated then use the separate Statistical Data Set content type instead)
+	
+	Use 'National statistics' for anything that meets the Code of Practice for National Statistics
 
 [Example](https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report)
 
