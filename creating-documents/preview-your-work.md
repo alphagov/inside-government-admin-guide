@@ -5,6 +5,7 @@ title: Inside Government Admin Guide - Preview your work
 
 ## Preview your work
 
+
 1. You can preview the body copy of your document. Click on the 'preview' link at the top of the body field.
 
 	![Preview your work 1](preview-your-work-1.png)
