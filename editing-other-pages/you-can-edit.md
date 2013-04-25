@@ -32,11 +32,11 @@ A page for each department that includes headings for what we do, responsibiliti
 
 Single pages designed specifically for the following information:
 
-* [Personal information charter](https://www.gov.uk/government/organisations/department-for-transport/about/personal-information-charter)for standards followed by orgs when asking for info (required)
+* [Personal information charter](https://www.gov.uk/government/organisations/department-for-transport/about/personal-information-charter) for standards followed by orgs when asking for info (required)
 
-* [Publication scheme](https://www.gov.uk/government/organisations/department-for-transport/about/publication-scheme) ists the information the org routinely makes available (required)
+* [Publication scheme](https://www.gov.uk/government/organisations/department-for-transport/about/publication-scheme) lists the information the org routinely makes available (required)
 
-* [Complaints procedure](https://www.gov.uk/government/organisations/department-for-transport/about/complaints-procedure)(required)
+* [Complaints procedure](https://www.gov.uk/government/organisations/department-for-transport/about/complaints-procedure) (required)
 
 * [Our governance](https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/our-governance) describes the boards and committees that run the organisation
 
@@ -51,7 +51,8 @@ Single pages designed specifically for the following information:
 * [Welsh language scheme](https://www.gov.uk/government/organisations/wales-office/about/welsh-language-scheme) for orgs providing services in Wales
 
 * Office access and opening times
-[Instructions](homepage.html)
+
+[Instructions](homepage.html)
 
 
 ### Document series
