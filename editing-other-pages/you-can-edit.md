@@ -14,7 +14,7 @@ Use the top nav to create and edit these types
 
 Collects together featured stories, latest content, ‘what we do’ description, policies, topics, key people and contact information.
 
-[Example](https://www.gov.uk/government/organisations/department-for-transport/about)
+[Example](https://www.gov.uk/dft)
 
 [Instructions](homepage.html)
 
@@ -23,7 +23,7 @@ Collects together featured stories, latest content, ‘what we do’ description
 
 A page for each department that includes headings for what we do, responsibilities, priorities, who we are, corporate information and corporate reports.
 
-[Example](https://www.gov.uk/government/news/royal-navy-destroyer-to-join-ballistic-defence-trial)
+[Example](https://www.gov.uk/government/organisations/department-for-transport/about)
 
 [Instructions](homepage.html)
 
