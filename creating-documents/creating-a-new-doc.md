@@ -3,7 +3,7 @@ layout: default
 title: Inside Government Admin Guide - Creating a new doc
 ---
 
-## Creating a new doc
+## Creating a new document
 
 1. Click the ‘Create new document’ button.
 

@@ -34,7 +34,7 @@ title: Inside Government Admin Guide - Index
 
 
 ## Editing other pages
-* [You can edit](editing-other-pages/you-can-edit.html)
+* [Other content you can edit](editing-other-pages/you-can-edit.html)
 * [Homepage](editing-other-pages/homepage.html)
 * [People and roles](editing-other-pages/people-and-roles.html)
 * [Document series](editing-other-pages/document-series.html)
