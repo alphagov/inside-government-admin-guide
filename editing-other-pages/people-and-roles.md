@@ -7,9 +7,9 @@ title: Inside Government Admin Guide - People and roles
 
 1. People and roles are covered by two separate sections of the Publisher.
 
-	Click 'Create person' to create a new person.
-	
 	Click the 'People' tab to see a list of every person featured on GOV.UK.
+		
+	Click 'Create person' to create a new person.
 
 	![People and roles 1](people-and-roles-1.png)
 
@@ -21,9 +21,9 @@ title: Inside Government Admin Guide - People and roles
 	
 3. When a person is created, you can associate it to a role.
 
-	Click 'Create role' to create a new role.
-	
 	Click the 'Roles' tab to see a list of every role featured on GOV.UK.
+	
+	Click 'Create role' to create a new role.
 	
 	Please check with GDS before creating any ministerial roles or people.
 	
