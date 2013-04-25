@@ -37,9 +37,10 @@ title: Inside Government Admin Guide - Homepage
 
 	![Homepage 6](homepage-6.png)
 	
+
 ### Top right links, What we do, Topics, Ministers and Managers
 
-1. The controls for these homepage sections are all in the same place.
+1. All these sections can be edited via the Publisher. 
 
 	![Homepage 7](homepage-7.png)
 	
@@ -47,7 +48,7 @@ title: Inside Government Admin Guide - Homepage
 	
 	![Homepage 9](homepage-9.png)
 	
-	Click on your organisation's name in the top nav.
+	The controls for these homepage sections are all in the same place. Click on your organisation's name in the top nav.
 	
 	![Homepage 2](homepage-2.png)
 	
