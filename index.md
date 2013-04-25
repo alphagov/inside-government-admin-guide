@@ -19,17 +19,17 @@ title: Inside Government Admin Guide - Index
 
 ## Creating documents
 * [Document types](creating-documents/document-types.html)
-* [Creating a new doc](creating-documents/creating-a-new-doc.html)
+* [Creating a new document](creating-documents/creating-a-new-doc.html)
 * [Add images](creating-documents/add-images.html)
 * [Add attachments](creating-documents/add-attachments.html)
 * [Add associations](creating-documents/add-associations.html)
 * [Add links](creating-documents/add-links.html)
 * [Preview your work](creating-documents/preview-your-work.html)
-* [Editing a doc](creating-documents/editing-a-doc.html)
+* [Editing a document](creating-documents/editing-a-doc.html)
 * [Fact checking](creating-documents/fact-checking.html)
 * [Second pair of eyes](creating-documents/second-pair-of-eyes.html)
 * [Scheduled publishing](creating-documents/scheduled-publishing.html)
-* [Local gov alerts](creating-documents/local-gov-alerts.html)
+* [Local government alerts](creating-documents/local-gov-alerts.html)
 * [Limiting access](creating-documents/limiting-access.html)
 
 
