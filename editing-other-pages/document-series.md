@@ -17,7 +17,7 @@ title: Inside Government Admin Guide - Document series
 	
 2. 	Next give your series a name and description. When you’re done click ‘Save’.
 
-	Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
+	Any changes made to these pages will go live as soon as you save them. So double check everything before you save it.
 
 	![Document series 4](document-series-4.png)
 	
