@@ -11,7 +11,9 @@ title: Inside Government Admin Guide - Policy advisory group
 	
 	![Policy advisory group 1](policy-advisory-group-1.png)
 	
-	Then click on ‘Create policy advisory group’.	![Policy advisory group 2](policy-advisory-group-2.png)
+	Then click on ‘Create policy advisory group’.
+	
+	![Policy advisory group 2](policy-advisory-group-2.png)
 2. Enter the name, email address, summary, description of the group and add any attachments.
 	Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
 	![Policy advisory group 3](policy-advisory-group-3.png)
