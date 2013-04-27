@@ -47,6 +47,7 @@ title: Inside Government Admin Guide - Index
 ## Worldwide network
 * [Translating docs](worldwide-network/translating-docs.html)
 * [World locations](worldwide-network/world-locations.html)
+* [World location news article](worldwide-network/world-location-news-article.html)
 * [Worldwide organisations](worldwide-network/worldwide-organisations.html)
 
 
