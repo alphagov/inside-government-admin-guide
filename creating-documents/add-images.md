@@ -28,3 +28,8 @@ title: Inside Government Admin Guide - Add images
 4. Save the document and your images will be automatically uploaded to our server.
 
 	![Create new document 4](creating-a-new-doc-4.png)
+
+<iframe width="420" height="315" src="http://www.youtube-nocookie.com/embed/aBVD1JmKgIw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<object width="420" height="315"><param name="movie" value="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+	
