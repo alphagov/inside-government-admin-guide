@@ -5,9 +5,9 @@ title: Inside Government Admin Guide - Add images
 
 ## Add images
 
-1. Images can be added to news articles, speeches, case studies, detailed guides and supporting detail pages on policies.
-
 <object width="420" height="315"><param name="movie" value="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+1. Images can be added to news articles, speeches, case studies, detailed guides and supporting detail pages on policies.
 
 	Upload an image by clicking the 'choose file' button. All images should be 960 x 640 px.
 	
