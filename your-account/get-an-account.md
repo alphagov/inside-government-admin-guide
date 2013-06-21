@@ -12,6 +12,8 @@ title: Inside Government Admin Guide - Get an account
    Click on the 'Accept invitation' link in each email and follow the steps below for each account.
 
    ![Get an account](get-an-account.png)
+   
+   If you have not received an email, check your spam/junk folder. If you still can't find it but believe that you have been registered, follow the steps for [forgot password](http://alphagov.github.io/inside-government-admin-guide/your-account/forgot-your-password.html) to trigger an email. 
 
 2. Set a password that’s strong but memorable.
 
