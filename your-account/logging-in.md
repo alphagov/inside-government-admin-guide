@@ -8,7 +8,7 @@ title: Inside Government Admin Guide - Logging in
 
 1. We have two separate publisher environments:
 
-   Use Preview if you're practicising - [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
+   Use Preview if you're practising - [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
 
    Use Production if you want the content to go live - [https://signon.production.alphagov.co.uk](https://signon.production.alphagov.co.uk)
 
@@ -21,7 +21,7 @@ title: Inside Government Admin Guide - Logging in
 
    ![Get an account 5](get-an-account-5.png)
    
-3. Next enter your GOV.UK email and password for the environment you’re working on, either Preview or Production.
+3. Next enter your your official government email address email and password for the environment you’re working on, either Preview or Production.
 
    ![Logging in 1](logging-in.png)
   
