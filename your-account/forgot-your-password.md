@@ -7,7 +7,7 @@ title: Inside Government Admin Guide - Forgot your password?
 
 This is also useful if you want to trigger a welcome email so you can get started.
 
-1. Go to the Preview or Production environment, depending on which one you’ve forgotten the password for.
+1. Go to the Preview (practice/mock-ups) or Production (live) environment, depending on which one you’ve forgotten the password for.
 
    [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
 
