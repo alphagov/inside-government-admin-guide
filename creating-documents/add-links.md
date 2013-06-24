@@ -7,7 +7,7 @@ title: Inside Government Admin Guide - Add links
 
 1. Links can be added to any document format.
 
-	Put the text you want to click in [square brackets], the web address in (curved brackets together with any hover text in "quote marks").
+	Put the text you want to click in \[square brackets\], the web address in (curved brackets together with any hover text in "quote marks").
 
 	![Add links 1](add-links-1.png)
 
@@ -16,21 +16,21 @@ title: Inside Government Admin Guide - Add links
 	An external link icon appears automatically on any non GOV.UK web addresses.
 
 	![Add links 2](add-links-2.png)
-	
+
 ### How to link to pages on GOV.UK
 
 
 #### Use the live url when linking to…
 
 * an anchor within a page
-	
+
 * any page accessed via the top navigation
 
 	![Add links 3](add-links-3.png)
-	
-Make sure you go to the [https://gov.uk/government](public version of GOV.UK) to get the correct url. Don’t use any urls accessed via the admin site.
+
+Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct url. Don’t use any urls accessed via the admin site.
 
 
 #### Use the admin url when linking to...
-* any document made by the ‘create new document’ button
-![Add links 4](add-links-4.png)
+* any document made by the ‘create new document’ button
+![Add links 4](add-links-4.png)
