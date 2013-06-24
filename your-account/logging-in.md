@@ -6,7 +6,7 @@ title: Inside Government Admin Guide - Logging in
 ## Logging in
 
 
-1. We have two separate publisher environments:
+1. We have two separate environments in Publisher:
 
    Use Preview if you're practising - [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
 
@@ -25,6 +25,6 @@ title: Inside Government Admin Guide - Logging in
 
    ![Logging in 1](logging-in.png)
   
-4. Scroll down to the foot of the page and click on the 'Whitehall' link. Whitehall is the name of our publishing tool.
+4. Scroll down to the foot of the page and click on the 'Whitehall' link. 
 
 	![Get an account 4](get-an-account-4.png)
