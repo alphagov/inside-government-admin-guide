@@ -47,7 +47,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 ### Call to action
 
-*  Use \$CTA to make a tinted box to draw attention to a call to action.
+*  Use $CTA to make a tinted box to draw attention to a call to action.
 *  This is only for short links to purposeful actions like applying for a licence.
 
 See the [style guide, section 2.15](https://www.gov.uk/designprinciples/styleguide#links) for more advice about writing links.
@@ -60,13 +60,16 @@ Acronyms like Rural Payments Agency (RPA) should be spelt out on the first menti
 The full name will show when the user hovers over the acronym where it appears in the text.
 
 *  Leave 1 empty line space then list every acronym on a new line at the base of the document.
-*  Use an asterisk, square brackets and a colon to create acronym expanders.
+*  Use an asterisk, square brackets and a colon (\*[RPA]: Rural Payments Agency) to create acronym expanders.
 *  Make sure there is no space between the asterisk and the square brackets.
 *  List both plurals and singulars, but not possessives like DFT's.
 *  List plurals ahead of singulars (eg HGVs must be before HGV).
 *  No need to list acronyms that appear only once.
 
-Using Markdown to position images and attachments is covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
+
+### Images and attachments
+
+Covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
 
 
 
