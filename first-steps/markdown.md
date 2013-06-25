@@ -28,10 +28,11 @@ The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating
 
 ### Bullets
 
-*  Use asterisks (\*) to make a bulleted list.
+*  Use asterisks (\*) to make a bulleted list (hyphens also work).
 *  You need 1 empty line space before the bullets start, and 1 at the end.
-*  Make sure there is 1 space after the asterisk and all the bullets line up correctly. 
+*  Make sure there is 1 space after the asterisk and that all the bullets line up correctly. 
 *  Sub-items need an indent of 2 spaces.
+*  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
 See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguide#bullet-points-and-steps) to check how to punctuate bullets.
 
