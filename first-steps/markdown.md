@@ -23,7 +23,7 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 *  Use square brackets for the link text and round brackets for the link URL.
 *  Make sure there are no spaces between the brackets.
 
-The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to make internal and external linking.
+The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links.
 
 
 ### Bullets
