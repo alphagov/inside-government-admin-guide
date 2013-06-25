@@ -20,8 +20,7 @@ This is also useful if you want to trigger a welcome email so you can get starte
 
    ![Get an account 5](get-an-account-5.png)
 
-3. Next click the 'Forgot your passphrase?'
-link.
+3. Next click the 'Forgot your passphrase?' link (clicking more than once will delay your access to Publisher).
 
    ![Forgot your password 1](forgot-your-password-1.png)
 
