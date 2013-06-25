@@ -16,6 +16,7 @@ This is also useful if you want to trigger a welcome email so you can get starte
 2. You may be prompted for the ‘betademo’ username and password.
 
    Username: betademo
+   
    Password: -----
 
    ![Get an account 5](get-an-account-5.png)
