@@ -43,7 +43,7 @@ See the [style guide on bullets](https://www.gov.uk/designprinciples/styleguide#
 *  Make sure every row has the same number of dividers - use \| | for an empty cell.
 *  Use \|---|---| to create a tinted header row at the top.
 *  No Markdown within a table, but you can use html if you need links in your table.
-*  
+
 
 ### Call to action
 
