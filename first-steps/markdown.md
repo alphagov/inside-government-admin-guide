@@ -66,4 +66,9 @@ The full name will show when the user hovers over the acronym where it appears i
 *  List plurals ahead of singulars (eg HGVs must be before HGV).
 *  No need to list acronyms that appear only once.
 
+Using Markdown to position images and attachments is covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
+
+
+
+
 *[RPA]: Rural Payments Agency
