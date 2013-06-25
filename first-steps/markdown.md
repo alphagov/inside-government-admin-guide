@@ -57,7 +57,7 @@ See the [style guide, section 2.15](https://www.gov.uk/designprinciples/stylegui
 
 Acronyms like Rural Payments Agency (RPA) should be spelt out on the first mention with the acronym in round brackets. Use the acronym on its own throughout the rest of the document - RPA - and put your Markdown at the end. 
 
-The full name will show when the user hovers over the acronym where it appears in the text.
+The full name will show as alt text when the user hovers over the acronym where it appears in the text.
 
 *  Leave 1 empty line space then list every acronym on a new line at the base of the document.
 *  Use an asterisk, square brackets and a colon (\*[RPA]: Rural Payments Agency) to create acronym expanders.
