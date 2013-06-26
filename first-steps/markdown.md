@@ -25,7 +25,7 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 *  Make sure there are no spaces between the brackets.
 ![Markdown 3](markdown-3.png)
 
-The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links.
+The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links. 
 
 
 ### Bullets
