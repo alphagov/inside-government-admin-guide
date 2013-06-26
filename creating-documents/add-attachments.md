@@ -24,16 +24,23 @@ You can add attachments individually or you can bulk-upload a zip file containin
 Once your document is saved, the attachments will be uploaded to the server. 
 
 * For publications and consultations, the attachments will be added to the page in the order they were uploaded - they can't be re-ordered later. 
-* For news and HTML publications, the attachments are all given 2 alternative Markdown codes and you can use either of these codes to position the attachment where you like in your document.
+* For news, detailed guides and HTML publications, the attachments are all given 2 alternative Markdown codes and you can use either of these codes to position the attachment where you like in your document.
 
+IMAGE 2
 
-### Position the attachments in the text
+### Position the first attachment 
 
-* Use \[InlineAttachment:n\] for a text link.
-* Use !@n for a tinted publications box.
+* Use \[InlineAttachment:1\] for a text link.
+* Use !@1 for a tinted publications box.
 
 	![Add attachments 3](add-attachments-3.png)
+	
+The first attachment is number 1, the other attachments are numbered according to the order in which they’re uploaded. 
 
+* [InlineAttachment:n] pulls in the attachment title as hypertext, adding the file type and size in brackets. You can also list these with bullet points (useful for several related attachments).
+* !@n creates a grey tint box with the front cover of the attached document, and adds the file type and size under the title.
+
+It’s easy to re-order or reposition the attachments by where you choose to place the Markdown code on the page. The number given to an attachment will not change.
 
 5. You can also upload files in bulk.
 
