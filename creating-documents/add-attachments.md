@@ -1,25 +1,21 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Add attachments
+title: Inside Government Admin Guide - Adding attachments
 ---
 
-## Add attachments
+## Adding attachments
 
-1. You can add attachments individually or in bulk.
+You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
 
-	Upload a single attachment by clicking the 'choose file' button.
+
+### Upload attachments individually
+
+* Select and upload a single attachment by clicking the 'Choose file' button.
 
 	![Add attachments 1](add-attachments-1.png)
 
-	The following formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
-
-2. If your attachment is fully accessible then tick this box.
-
-	![Add attachments 2](add-attachments-2.png)
-
-	In the run up to your site going live, this checkbox will default to unchecked.
-
-	If you're uncertain if a document is fully accessible, leave it unchecked and we'll tackle this post launch.
+* If your attachment is fully accessible then tick the box.
+  * The [style guide 13](https://www.gov.uk/designprinciples/accessiblepdfs) explains how to check if a document is accessible. If the box is left unchecked, users are prompted to request a different format from an email address supplied by the page's owning organisation.
 
 3. Once your document is saved, you can position attachments where you like.
 
