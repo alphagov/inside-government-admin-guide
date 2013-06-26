@@ -11,7 +11,7 @@ Images can be added to news articles, speeches, case studies, detailed guides an
 
 ### Add the first image
 
-* Upload an image by clicking the 'choose file' button. 
+* Upload an image by clicking the 'Choose file' button. 
 * All images should be 960x640 pixels, 72dpi, landscape. [Pixlr.com](http://www.pixlr.com) is a good place to go to resize images.
 * Use alt text where you need to help users understand the visual content. If an image is not essential to understanding the content, use “”. For more details about alt tags and captions, see the [style guide 4.2](https://www.gov.uk/designprinciples/insidegovernment#images).
 * When you've picked an image to use, another ‘new image’ box automatically appears so you can pick more.
@@ -31,12 +31,12 @@ Images can be added to news articles, speeches, case studies, detailed guides an
 You can position images where you like within a document.
 
 * Just type \!! and the image's number at the point in the text where you’d like it to appear, with an empty line space above and below. 	
-* Save the document again and your images will be automatically placed in the text, and can be seen on Preview.
+* Save the document again and your images will be placed in the text automatically, and can be seen on Preview.
 * If you see a box with a cross in it, then your image is being virus checked, but it has uploaded correctly.
 
 	![Add images 3](add-images-3.png)
 	
-Note that news stories and speeches behave differently from other documents: the first image (!!1) is automatically placed in the left margin of the page. Any subsequent images can be positioned using !!2, !!3 etc.
+Note that for news stories, the first image (!!1) will appear in the left margin of the page so you can't place it in your text. The subsequent images can be positioned using !!2, !!3 etc.
 
 
 ## Videos
