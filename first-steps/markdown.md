@@ -7,13 +7,16 @@ title: Inside Government Admin Guide - Markdown
 
 *  The publishing system uses ‘Markdown’ to format the content. Rather than using editor tools or coding in html, you can type simple commands within the copy to create the formatting you want. 
 *  Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
+
 ![Markdown 1](markdown-1.png)
    
 ### Headers and sub-headers
 
 *  Use 2 hashtags (\##) for a main heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document. The box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+
 ![Markdown 2](markdown-2.png)
+
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
 The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/creating-a-new-doc.html) section has more about titles, summaries and sub-headers.
