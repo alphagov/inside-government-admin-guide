@@ -16,22 +16,24 @@ You can add attachments individually or you can bulk-upload a zip file containin
 
 * If your attachment is fully accessible then tick the box.
   * The [style guide 13](https://www.gov.uk/designprinciples/accessiblepdfs) explains how to check if a document is accessible. If the box is left unchecked, users are prompted to request a different format from an email address supplied by the page's owning organisation.
+* Each attachment needs a title: use the title of the document as it appears on the cover. If you leave a title box blank, the upload wll fail. 
 
-3. Once your document is saved, you can position attachments where you like.
+
+### Save the page
+
+Once your document is saved, the attachments will be uploaded to the server. 
+
+* For publications and consultations, the attachments will be added to the page in the order they were uploaded - they can't be re-ordered later. 
+* For news and HTML publications, the attachments are all given 2 alternative Markdown codes and you can use either of these codes to position the attachment where you like in your document.
+
+
+### Position the attachments in the text
+
+* Use \[InlineAttachment:n\] for a text link.
+* Use !@n for a tinted publications box.
 
 	![Add attachments 3](add-attachments-3.png)
 
-	Either either of these markdown commands to place the attachment at the right place.
-
-	Use !@n for a big publications box.
-
-	Use \[InlineAttachment:n\] for a text link.
-
-	The number corresponds to the order in which you've uploaded attachments.
-
-4. Save the document and your attachments will be automatically uploaded to our server.
-
-	![Create new document 4](creating-a-new-doc-4.png)
 
 5. You can also upload files in bulk.
 
