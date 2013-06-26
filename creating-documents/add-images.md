@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Add images
+title: Inside Government Admin Guide - Adding images and videos
 ---
 
-## Add images and videos
+## Addding images and videos
 
 <object width="420" height="315"><param name="movie" value="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/aBVD1JmKgIw?version=3&amp;hl=en_GB&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
