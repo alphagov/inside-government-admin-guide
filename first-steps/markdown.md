@@ -14,6 +14,7 @@ title: Inside Government Admin Guide - Markdown
 
 *  Use 2 hashtags (\##) for a main heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document. The box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+*  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
 The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/creating-a-new-doc.html) section has more about titles, summaries and sub-headers.
 
@@ -32,7 +33,6 @@ The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating
 *  You need 1 empty line space before the bullets start, and 1 at the end.
 *  Make sure there is 1 space after the asterisk and that all the bullets line up correctly. 
 *  Sub-items need an indent of 2 spaces.
-*  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
 See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguide#bullet-points-and-steps) to check how to punctuate bullets.
 
