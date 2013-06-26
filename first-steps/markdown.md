@@ -9,12 +9,12 @@ title: Inside Government Admin Guide - Markdown
 *  Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
 
 ![Markdown 1](markdown-1.png)
+
    
 ### Headers and sub-headers
 
 *  Use 2 hashtags (\##) for a main heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document. The box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
-
 ![Markdown 2](markdown-2.png)
 
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
@@ -35,6 +35,7 @@ The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating
 
 *  Use asterisks (\*) to make a bulleted list (hyphens also work).
 ![Markdown 4](markdown-4.png)
+
 *  You need 1 empty line space before the bullets start, and 1 at the end.
 *  Make sure there is 1 space after the asterisk and that all the bullets line up correctly. 
 *  Sub-items need an indent of 2 spaces.
@@ -68,8 +69,9 @@ Acronyms like Rural Payments Agency (RPA) should be spelt out on the first menti
 The full name will show as alt text when the user hovers over the acronym where it appears in the text.
 
 *  Leave 1 empty line space then list every acronym on a new line at the base of the document.
-*  Use an asterisk, square brackets and a colon (\*[RPA]: Rural Payments Agency) to create acronym expanders.
+*  Use an asterisk, square brackets and a colon (\*[SAD]: Single Administrative Document) to create acronym expanders.
 ![Markdown 7](markdown-7.png)
+
 *  Make sure there is no space between the asterisk and the square brackets.
 *  List both plurals and singulars, but not possessives like DFT's.
 *  List plurals ahead of singulars (eg HGVs must be before HGV).
