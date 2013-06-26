@@ -12,11 +12,9 @@ title: Inside Government Admin Guide - Markdown
    
 ### Headers and sub-headers
 
-![Markdown 2](markdown-2.png)
-
-
 *  Use 2 hashtags (\##) for a main heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document. The box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+![Markdown 2](markdown-2.png)
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
 The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/creating-a-new-doc.html) section has more about titles, summaries and sub-headers.
@@ -24,19 +22,17 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 
 ### Links
 
-![Markdown 3](markdown-3.png)
-
 *  Use square brackets for the link text and round brackets for the link URL.
 *  Make sure there are no spaces between the brackets.
+![Markdown 3](markdown-3.png)
 
 The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links.
 
 
 ### Bullets
 
-![Markdown 4](markdown-4.png)
-
 *  Use asterisks (\*) to make a bulleted list (hyphens also work).
+![Markdown 4](markdown-4.png)
 *  You need 1 empty line space before the bullets start, and 1 at the end.
 *  Make sure there is 1 space after the asterisk and that all the bullets line up correctly. 
 *  Sub-items need an indent of 2 spaces.
@@ -46,28 +42,24 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 ### Tables
 
-![Markdown 5](markdown-5.png)
-
 *  Use dividers (\|) to make tables.
 *  You need 1 empty line space before the table starts and 1 at the end.
 *  Make sure every row has the same number of dividers - use \| | for an empty cell.
+![Markdown 5](markdown-5.png)
 *  Use \|---|---| as the second row to create a tinted header row at the top.
 *  No Markdown within a table, but you can use html if you need links in your table.
 
 
 ### Call to action
 
-![Markdown 6](markdown-6.png)
-
 *  Use $CTA to make a tinted box to draw attention to a call to action.
 *  This is only for short links to purposeful actions like applying for a licence.
+![Markdown 6](markdown-6.png)
 
 See the [style guide, section 2.15](https://www.gov.uk/designprinciples/styleguide#links) for more advice about writing links.
 
 
 ### Acronyms
-
-![Markdown 7](markdown-7.png)
 
 Acronyms like Rural Payments Agency (RPA) should be spelt out on the first mention with the acronym in round brackets. Use the acronym on its own throughout the rest of the document - RPA - and put your Markdown at the end. 
 
@@ -75,6 +67,7 @@ The full name will show as alt text when the user hovers over the acronym where 
 
 *  Leave 1 empty line space then list every acronym on a new line at the base of the document.
 *  Use an asterisk, square brackets and a colon (\*[RPA]: Rural Payments Agency) to create acronym expanders.
+![Markdown 7](markdown-7.png)
 *  Make sure there is no space between the asterisk and the square brackets.
 *  List both plurals and singulars, but not possessives like DFT's.
 *  List plurals ahead of singulars (eg HGVs must be before HGV).
