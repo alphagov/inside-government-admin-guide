@@ -83,6 +83,3 @@ The full name will show as alt text when the user hovers over the acronym where 
 Covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
 
 
-
-
-*[RPA]: Rural Payments Agency
