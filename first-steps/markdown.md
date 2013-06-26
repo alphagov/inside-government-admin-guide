@@ -21,6 +21,8 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 
 ### Links
 
+![Markdown 2](markdown-2.png)
+
 *  Use square brackets for the link text and round brackets for the link URL.
 *  Make sure there are no spaces between the brackets.
 
