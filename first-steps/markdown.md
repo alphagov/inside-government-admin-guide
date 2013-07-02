@@ -49,7 +49,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 *  You need 1 empty line space before the table starts and 1 at the end.
 *  Make sure every row has the same number of dividers - use \| | for an empty cell.
 ![Markdown 5](markdown-5.png)
-*  Use \|---|---| as the second row to create a tinted header row at the top.
+*  Use \|---|---| as the second row to create a bold header row at the top.
 *  No Markdown within a table, but you can use html if you need links in your table.
 
 
