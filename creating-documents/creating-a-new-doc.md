@@ -9,7 +9,7 @@ title: Inside Government Admin Guide - Creating a new doc
 
 	![Create new document 1](creating-a-new-doc-1.png)
 	
-Or use the plus sign in the top navigation.
+	Or use the plus sign in the top navigation.
 
 	![Create new document 5](creating-a-new-doc-5.png)
 	
