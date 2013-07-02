@@ -68,8 +68,8 @@ Acronyms like Rural Payments Agency (RPA) should be spelt out on the first menti
 
 The full name will show as alt text when the user hovers over the acronym where it appears in the text.
 
-*  Leave 1 empty line space then list every acronym on a new line at the base of the document.
-*  Use an asterisk, square brackets and a colon (\*[SAD]: Single Administrative Document) to create acronym expanders.
+*  Leave 1 empty line space then list acronyms, each one on a new line at the base of the document.
+*  For each acronym, type an asterisk, square brackets and a colon - \*[SAD]: Single Administrative Document - and then the full name.
 ![Markdown 7](markdown-7.png)
 
 *  Make sure there is no space between the asterisk and the square brackets.
