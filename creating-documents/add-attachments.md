@@ -17,9 +17,9 @@ You can add attachments individually or you can bulk-upload a zip file containin
 * If your attachment is fully accessible then tick the box.
    * The [style guide section 13](https://www.gov.uk/designprinciples/accessiblepdfs) explains how to check if a document is accessible. 
    * If the attachment is not accessible you leave the box unticked - users are then given an email contact for requesting an alternative format.
-* Each attachment needs a title: use the title of the document as it appears on the cover. 
+* Fill in the title: use the title of the document as it appears on the cover. 
 * Each time you fill in a title another box appears so you can upload another attachment.
-* If you leave a title box blank, the upload wll fail. 
+* All the attachments need titles: if you leave a title box blank, the upload wll fail. 
 
 
 ### Save the page
