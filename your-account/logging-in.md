@@ -15,9 +15,8 @@ Content will not be copied from Preview to Production under any circumstances, s
 
 * You should be prompted for the ‘betademo’ username and password (same for all users).
 
-   Username: betademo
-   
-   Password: -----
+   * Username: betademo
+   * Password: -----
 
    ![Get an account 5](get-an-account-5.png)
    
