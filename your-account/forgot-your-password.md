@@ -5,7 +5,7 @@ title: How to publish content on GOV.UK - Forgot your passphrase?
 
 ## Forgot your passphrase?
 
-This is also useful if you want to trigger a welcome email so you can get started.
+There is a simple passphrase reset request on the login screen. It is also useful if you can't find your welcome email and want to get started.
 
 * Go to the Preview (practice/mock-ups) or Production (live) environment, depending on which one you’ve forgotten the password for.
 
