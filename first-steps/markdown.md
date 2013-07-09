@@ -5,8 +5,9 @@ title: Inside Government Admin Guide - Markdown
 
 ## Markdown
 
-*  The publishing system uses ‘Markdown’ to format the content. Rather than using editor tools or coding in html, you can type simple commands within the copy to create the formatting you want. 
-*  Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
+The publishing system uses ‘Markdown’ to format the content. Rather than using editor tools or coding in html, you can type simple commands within the copy to create the formatting you want. 
+
+Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
 
 ![Markdown 1](markdown-1.png)
    
@@ -59,7 +60,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 *  Use $CTA to make a tinted box to draw attention to a call to action.
 *  This is only for short links to purposeful actions like applying for a licence.
-*  
+
 ![Markdown 6](markdown-6.png)
 
 See the [style guide, section 2.15](https://www.gov.uk/designprinciples/styleguide#links) for more advice about writing links.
