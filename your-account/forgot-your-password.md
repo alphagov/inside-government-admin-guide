@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Forgot your password?
+title: How to publish content on GOV.UK - Forgot your passphrase?
 ---
 
-## Forgot your password?
+## Forgot your passphrase?
 
 This is also useful if you want to trigger a welcome email so you can get started.
 
@@ -20,6 +20,8 @@ This is also useful if you want to trigger a welcome email so you can get starte
 
    ![Forgot your password 1](forgot-your-password-1.png)
 
-* Finally enter the email address you signed up to GOV.UK with and click the blue button. Password reset instructions will be sent to the email address you entered.
+* Finally enter the email address you signed up to GOV.UK with and click the blue button. 
 
    ![Forgot your password 2](forgot-your-password-2.png)
+
+Password reset instructions will be sent to the email address if it is registered with us.
