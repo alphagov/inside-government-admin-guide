@@ -24,7 +24,7 @@ If you have not received an email, check your spam/junk folder. If you still can
    
 * Click on 'Whitehall' - this is the part of Publisher where all government content is created and edited. 
 
-   ![Logging in 4](get-an-account-4.png)
+   ![Get an account 4](get-an-account-4.png)
    
 * You will be prompted for the ‘betademo’ username and password that you have been given (the same for all users).
 
