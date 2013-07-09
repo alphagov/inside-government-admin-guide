@@ -15,9 +15,6 @@ Content will not be copied from Preview to Production under any circumstances, s
 
 * You should be prompted for the ‘betademo’ username and password (same for all users).
 
-   * Username: betademo
-   * Password: -----
-
    ![Get an account 5](get-an-account-5.png)
    
 * Next enter your your official government email address email and password for the environment you’re working on, either Preview or Production.
