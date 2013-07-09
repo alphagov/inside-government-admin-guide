@@ -11,7 +11,8 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
    ![Get an account](get-an-account.png)
    
-* If you have not received an email, check your spam/junk folder. If you still can't find it but believe that you have been registered, follow the steps for [forgot passphrase](http://alphagov.github.io/inside-government-admin-guide/your-account/forgot-your-passphrase.html) to trigger an email. 
+* If you have not received an email, check your spam/junk folder. 
+* If you still can't find it but believe that you have been registered, follow the steps for [forgot passphrase](http://alphagov.github.io/inside-government-admin-guide/your-account/forgot-your-passphrase.html) to trigger an email. 
 * Set a passphrase that’s strong but memorable.
 
    ![Get an account 2](get-an-account-2.png)
