@@ -8,13 +8,13 @@ title: Inside Government Admin Guide - Markdown
 *  The publishing system uses ‘Markdown’ to format the content. Rather than using editor tools or coding in html, you can type simple commands within the copy to create the formatting you want. 
 *  Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
 
-![Markdown 1](markdown-1.png)
-
+![Markdown 1](markdown-1.png)f
    
 ### Headers and sub-headers
 
-*  Use 2 hashtags (\##) for a main heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
-*  Don't use 1 hashtag or you will get a title heading in the middle of your document. The box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+*  Use 2 hashtags (\##) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
+*  Don't use 1 hashtag or you will get a title heading in the middle of your document - the box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+
 ![Markdown 2](markdown-2.png)
 
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
@@ -26,6 +26,7 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 
 *  Use square brackets for the link text and round brackets for the link URL.
 *  Make sure there are no spaces between the brackets.
+
 ![Markdown 3](markdown-3.png)
 
 The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links. 
@@ -33,11 +34,12 @@ The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating
 
 ### Bullets
 
-*  Use asterisks (\*) to make a bulleted list (hyphens also work).
+*  Use asterisks (\*) to make bullets (hyphens also work).
+
 ![Markdown 4](markdown-4.png)
 
+*  Make sure there is 1 space after the asterisk and that all the bullets line up. 
 *  You need 1 empty line space before the bullets start, and 1 at the end.
-*  Make sure there is 1 space after the asterisk and that all the bullets line up correctly. 
 *  Sub-items need an indent of 2 spaces.
 
 See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguide#bullet-points-and-steps) to check how to punctuate bullets.
@@ -57,6 +59,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 *  Use $CTA to make a tinted box to draw attention to a call to action.
 *  This is only for short links to purposeful actions like applying for a licence.
+*  
 ![Markdown 6](markdown-6.png)
 
 See the [style guide, section 2.15](https://www.gov.uk/designprinciples/styleguide#links) for more advice about writing links.
@@ -70,6 +73,7 @@ The full name will show as alt text when the user hovers over the acronym where 
 
 *  Leave 1 empty line space then list acronyms, each one on a new line at the base of the document.
 *  For each acronym, type an asterisk, square brackets and a colon - \*[SAD]: Single Administrative Document - and then the full name.
+
 ![Markdown 7](markdown-7.png)
 
 *  Make sure there is no space between the asterisk and the square brackets.
