@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Get an account
+title: How to publish content on GOV.UK - Get an account
 ---
 
 ## Get an account
