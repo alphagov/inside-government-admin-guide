@@ -23,4 +23,4 @@ All content on Preview is overwritten every week, so it is not a good place to c
   
 * Click on 'Whitehall', which is the home of government content on Publisher.
 
-
+   ![Logging in 4](logging-in-4.png)
