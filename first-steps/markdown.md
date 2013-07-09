@@ -8,7 +8,7 @@ title: Inside Government Admin Guide - Markdown
 *  The publishing system uses ‘Markdown’ to format the content. Rather than using editor tools or coding in html, you can type simple commands within the copy to create the formatting you want. 
 *  Wherever you are editing, you’ll see a ‘how to’ guide like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
 
-![Markdown 1](markdown-1.png)f
+![Markdown 1](markdown-1.png)
    
 ### Headers and sub-headers
 
