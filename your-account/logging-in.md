@@ -17,7 +17,7 @@ All content on Preview is overwritten every week, so it is not a good place to c
 
    ![Get an account 5](get-an-account-5.png)
    
-* Next enter your your official government email address and your chosen passphrase.
+* Next enter your official government email address and your chosen passphrase.
 
    ![Logging in 1](logging-in.png)
   
