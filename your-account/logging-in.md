@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Logging in
+title: How to publish content on GOV.UK - Logging in
 ---
 
 ## Logging in
