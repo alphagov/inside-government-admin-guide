@@ -84,4 +84,4 @@ File.open("index.md", "w") do |f|
 
     f.write("\n\n")
   end
-end
+end 
