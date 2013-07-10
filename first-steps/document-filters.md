@@ -7,22 +7,22 @@ title: Inside Government Admin Guide - Document filters
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list of documents to find the document you want.
 
-   ![Document filters 1a](document-filters-1a.png)
+   ![Document filters 1a](document-filters-1.png)
    
-You can turn on just one filter or several - they will all act together.
+You can use just one filter or several - they will all act together.
 
    
-### Title or slug
+### Filter by title or slug
 
 You can filter using consecutive words from the document's title or the slug of the public-facing URL. 
 
    ![Document filters 2](document-filters-2.png)
 
    * Type in a word or phrase and hit return.
-   * Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer')
+   * Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer').
    
 
-### Author or organisation.
+### Filter by author or organisation.
 
 You can filter documents by any department or agency, or you can find documents that have been created or edited by yourself or other colleagues.
 
@@ -34,12 +34,12 @@ You can filter documents by any department or agency, or you can find documents 
    * Click on 'Everyone' to see all documents. 
    * Use the dropdown menu for other authors, or start typing a colleague's name to find them more quickly.
 
- ![Document filters 4](document-filters-4.png)
+   ![Document filters 4](document-filters-4.png)
    
    ![Document filters 5](document-filters-5.png)
 
 
-### World location   
+### Filter by world location   
 
 Government offices overseas can filter documents by their world location (generally a country).
 
@@ -61,20 +61,20 @@ You can filter documents by their type (publication, policy, news article etc).
 
 ### Filter by state
 
-You can filter documents by their state (draft, submitted, scheduled, published etc).
+You can filter documents by their state (draft, scheduled, published etc).
 
    ![Document filters 8](document-filters-8.png)
    
-   ‘All’ shows every document.
+   * ‘All’ shows every document.
    
-   'Imported (pre-draft)' is used by  in transition. Click on it to see documents that have been imported that you need to tag and tidy.
+   * 'Imported (pre-draft)' is used by departments and agencies in transition. Click on it to see documents that have been imported that you need to tag and tidy.
    
-   'Drafts' shows documents that are a work in progress.
+   * 'Drafts' shows documents that are a work in progress.
    
-   'Submitted' shows documents waiting for a second pair of eyes to look at. You should ordinarily submit documents rather than publish them yourself.
+   * 'Submitted' shows documents waiting for a second pair of eyes to look at them. You should ordinarily submit documents rather than publish them yourself.
    
-   'Rejected' shows documents that have been rejected by a second pair of eyes.
+   * 'Rejected' shows documents that have been rejected by a second pair of eyes.
    
-   'Scheduled' lists documents that are scheduled to be published at a specified date and time.
+   * 'Scheduled' lists documents that are scheduled to be published at a specified date and time.
    
-   'Published' shows every document that’s live on Inside Government.
+   * 'Published' shows every document that’s live on GOV.UK.
