@@ -9,6 +9,8 @@ Before you can create a document on GOV.UK, you need to know which document type
 
 There are around 10 document types; some of these types have sub-types. 
 
+Once you have created a document it will stick to the type you have created (eg you cannot change a news article to a speech). However the sub-type is assigned within the document and can be changed (eg a news story could be changed to a government response).
+
 During transition, your 'content analysis' spreadsheet will map existing content to GOV.UK document types.
    
 
@@ -27,9 +29,9 @@ News stories are not for promoting speeches or publications that are published e
 
 #### Press release
 
-This format is for reproducing press releases once they have been sent out from departments or agencies. It should be unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy.
+This format is for reproducing press releases once they have been sent out from departments or agencies. It should be unedited, as sent out. A press release can be uploaded as PDFs or cut and pasted into body copy.
 
-You can use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format).
+You can use the press release format for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format).
 
 
 #### Government response
