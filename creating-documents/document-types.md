@@ -5,16 +5,41 @@ title: Inside Government Admin Guide - Document types
 
 ## Document types
 
-Use the 'Create new document' button for these types
+Before you can create a document on GOV.UK, you need to know which document type to assign it to. This page will help you decide.
 
-![Document types 1](document-types-1.png) 
+There are around 10 document types; some of these types have sub-types. 
+
+During transition, your 'content analysis' spreadsheet will map existing content to GOV.UK document types.
    
 
 ### News article
    
-There are currently three types:
+News is found in the 'Announcements' section of the site. Our blog [explains why news comes under 'Announcements'](http://inside-inside-gov.tumblr.com/post/34783661077/announcements).
 
-* Use 'Press release' for statements aimed at the media or statements not made in parliament
+It has 3 sub-types: news story, press release and government response. 
+
+#### News story
+
+News stories are written for the web and must keep to GOV.UK style. In particular this means jargon-free, plain English, with a logical structure and helpful sub-headers. See the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) for more guidance, such as structure, length etc.
+
+News stories are not for promoting speeches or publications that are published elsewhere on GOV.UK. You can promote the speech or publication itself in feeds, on your [home page](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/homepage.html) and in topical events. Creating 2 URLs for a single piece of content will confuse users in the search. 
+
+
+#### Press release
+
+This format is for reproducing press releases once they have been sent out from departments or agencies. It should be unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy.
+
+You can use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format).
+
+
+#### Government response
+
+Government response to coverage in the media, including through a press statement or departmental statement (but not a parliamentary statement, which should use speech format).
+
+
+
+
+
 
 * 'News story' digital first stories written specifically for the site
 
@@ -23,16 +48,24 @@ There are currently three types:
 [Example](https://www.gov.uk/government/news/royal-navy-destroyer-to-join-ballistic-defence-trial)
 
 [Instructions](creating-a-new-doc.html)
-### Speech
+
+
+### Speech
    
 There are five types:
 
 * Use 'Transcript' for verbatim reports of what the speaker said (ie ‘checked against delivery’).
 
-* 'Draft' for what the speaker was supposed to say (ie ‘check against delivery’)* 'Speaking notes' if only notes are available
-* 'Written statement' for statements submitted in writing to Parliament
-* 'Oral statement' for statements given verbally to Parliament
-[Example](https://www.gov.uk/government/speeches/2012-uk-bus-awards-lunch-speech)
+* 'Draft' for what the speaker was supposed to say (ie ‘check against delivery’)
+
+* 'Speaking notes' if only notes are available
+
+* 'Written statement' for statements submitted in writing to Parliament
+
+* 'Oral statement' for statements given verbally to Parliament
+
+
+[Example](https://www.gov.uk/government/speeches/2012-uk-bus-awards-lunch-speech)
 
 [Instructions](creating-a-new-doc.html)
 
