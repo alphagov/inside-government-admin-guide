@@ -16,3 +16,13 @@ You can also ask GDS to:
 * create topical events
 * create new organisations or ministerial roles
 * create worldwide organisations
+
+You can also ask us (or tell us) about your needs for Publisher:
+
+* tell us about new user needs
+* request new features
+* report bugs or issues
+* request analytics reports
+* general feedback
+
+Basically, anything which you think requires an action on our part should be raised through that form.
