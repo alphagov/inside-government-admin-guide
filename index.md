@@ -6,7 +6,7 @@ title: Inside Government Admin Guide - Index
 ## Your account
 * [Get an account](your-account/get-an-account.html)
 * [Logging in](your-account/logging-in.html)
-* [Forgot your password?](your-account/forgot-your-password.html)
+* [Forgot your passphrase?](your-account/forgot-your-password.html)
 
 
 ## First steps
@@ -14,7 +14,7 @@ title: Inside Government Admin Guide - Index
 * [Document filters](first-steps/document-filters.html)
 * [Top navigation](first-steps/top-navigation.html)
 * [Markdown](first-steps/markdown.html)
-* [GDS only tasks](first-steps/gds-only-tasks.html)
+* [Help from GDS](first-steps/gds-only-tasks.html)
 
 
 ## Creating documents
