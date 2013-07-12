@@ -41,7 +41,7 @@ A news story is written especially for GOV.UK so must keep to GOV.UK style. In p
 
 This sub-type is for reproducing press releases once they have been sent out from departments or agencies. It should be published unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy. This sub-type is intended only for keeping a record of an organisation's press releases.
 
-You can also use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format). <!--this will change soon-->
+You can also use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format). 
 
 
 #### Government response
