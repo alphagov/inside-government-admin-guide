@@ -5,7 +5,7 @@ title: Inside Government Admin Guide - Document types
 
 ## Document types
 
-Before you can create a document on GOV.UK, you need to know which document type to assign it to. This page will help you decide.
+Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
 
 There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria and some further explanation about the format. 
 
@@ -22,7 +22,7 @@ News is found in the 'Announcements' section of the site. Our blog [explains why
 
 When creating a news article:
 
-* make sure it stands alone (ie is not simply promotion of a speech or publication)
+* make sure it stands alone (ie is not simply promotion of a speech or publication - in which case use just those content types)
 * tag it to policies
 * tag it to ministers where they are directly involved in the story
 * tag it to document series ONLY rarely - if the news story is permanently relevant to that series
@@ -54,7 +54,7 @@ This is for a press statement responding to coverage in the media (but not a par
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
 
 
-#### Speech
+#### Speech (transcript/draft/speaking notes) sub type
 
 A speech is delivered to a specific audience and often asserts the government's message or position on an issue. When creating a speech:
 
@@ -62,13 +62,17 @@ A speech is delivered to a specific audience and often asserts the government's 
 * specify the audience in the title or summary (eg Soldiers, Sailors, Airmen and Families Association)
 * specify the message of the speech in the title and summary, keeping the title concise (65 characters)
 * tag to a specific minister or director (if the speaker doesn't exist in the system you can [create a page for that person](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/people-and-roles.html))
-* assign a sub-type - draft, speaking notes or transcript as delivered (this currently appears in the summary, but will soon be shown in brackets after the date)
+* assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date)
+   * 'draft' is for the draft the speaker uses
+   * 'speaking notes' (cue cards, PowerPoint notes) may be used if no draft is available
+   * 'transcript' is for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’)
 * specify a location (eg The Banqueting House, Whitehall, London)
 * never be given in Parliament (these are oral statements to Parliament - see below)
 * give a date for when the speech was delivered
 * never use the blockquote markdown as the speech is a quote throughout
 
-#### Statement
+
+#### Written/oral statement sub type
 
 A statement usually relates to matters of policy or government actions. It differs from a speech as there is no selected audience: a statement is given orally or in writing to Parliament. When creating a statement:
 
@@ -79,7 +83,8 @@ A statement usually relates to matters of policy or government actions. It diffe
 * give a date for when the statement was delivered
 * never use the blockquote markdown as the statement is a quote throughout
 
-#### Authored article
+
+#### Authored article sub-type
 
 An authored article is a republication of a piece written for publication elsewhere (usually a newspaper) by a minister. It does not include letters to newspapers. When creating an authored article:
 
