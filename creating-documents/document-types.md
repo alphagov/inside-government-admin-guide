@@ -53,10 +53,11 @@ This is for a press statement responding to coverage in the media (but not a par
 
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
 
+This document type has 6 sub-types.
 
 #### Speech: transcript/draft/speaking notes (sub-types)
 
-A speech is delivered to a specific audience and often asserts the government's message or position on an issue. When creating a speech:
+A speech is delivered to a specific audience, usually during an important event or visit, and often asserts the government's message or position on an issue. When creating a speech:
 
 * never include 'speech' in the title
 * specify the audience in the title or summary (eg Soldiers, Sailors, Airmen and Families Association)
@@ -156,8 +157,7 @@ Use 'national statistics' for anything that meets the UK Statistics Authority's 
 
 #### Research and analysis (sub-type)
 
-Use this for any research relevant to government policy.
-
+Use this for research documents relevant to government policy. The research is likely to be carried out within government. If the research has been carried out independently or commissioned from an outside source then it is probably an independent report (see below).
 
 #### Corporate report (sub-type)
 
@@ -261,3 +261,4 @@ Ministry of Defence only. News style content type announcing the death of a memb
 Definitions of UK government priorities in international locations.
 
 [Instructions](creating-a-new-doc.html)
+
