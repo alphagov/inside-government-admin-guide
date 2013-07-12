@@ -9,7 +9,7 @@ Before you can create a document on GOV.UK, you need to know which document type
 
 There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria and some further explanation about the format. 
 
-If you need to know style points such as structure, length, tone or how to write titles and summaries for different document formats, please consult the (https://www.gov.uk/designprinciples/insidegovernment).
+If you need to know style points such as structure, length, tone or how to write titles and summaries for different document formats, please consult the [style guide](https://www.gov.uk/designprinciples/insidegovernment).
 
 During transition, your 'content analysis' spreadsheet will map your existing content to GOV.UK document types.
 
