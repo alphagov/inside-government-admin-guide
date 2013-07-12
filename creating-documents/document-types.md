@@ -20,14 +20,14 @@ Some of the sub-types are shown to users in the filters on GOV.UK search pages. 
    
 News is found in the 'Announcements' section of the site. Our blog [explains why news comes under 'Announcements'](http://inside-inside-gov.tumblr.com/post/34783661077/announcements).
 
-A news article needs:
+When creating a news article:
 
-* to stand alone (ie is not simply promotion of a speech or publication)
-* tagging to policies
-* tagging to ministers where they are directly involved in the story
-* tagging to document series ONLY rarely - if the news story is permanently relevant to that series
-* clear [substantive change notes](http://alphagov.github.io/inside-government-admin-guide/creating-documents/make-a-change-note.html) if they are re-edited after publication
-* [blockquote Markdown](http://alphagov.github.io/inside-government-admin-guide/first-steps/markdown.html#blockquotes) for quotes
+* make sure it stands alone (ie is not simply promotion of a speech or publication)
+* tag it to policies
+* tag it to ministers where they are directly involved in the story
+* tag it to document series ONLY rarely - if the news story is permanently relevant to that series
+* write clear [substantive change notes](http://alphagov.github.io/inside-government-admin-guide/creating-documents/make-a-change-note.html) if it is re-edited after publication
+* use [blockquote Markdown](http://alphagov.github.io/inside-government-admin-guide/first-steps/markdown.html#blockquotes) for quotes, but no more than 2 consecutive sentences
 
 It has 3 sub-types: news story, press release and government response. 
 
