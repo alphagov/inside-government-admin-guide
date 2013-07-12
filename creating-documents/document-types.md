@@ -7,16 +7,16 @@ title: Inside Government Admin Guide - Document types
 
 Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
 
-There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria and some further explanation about the format. 
+There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria and some further explanation about each content format. 
 
-If you need to know style points such as structure, length, tone or how to write titles and summaries for different document formats, please consult the [style guide](https://www.gov.uk/designprinciples/insidegovernment).
+If you need to know style points such as structure, length, tone or how to write titles and summaries for different content formats, please consult the [style guide](https://www.gov.uk/designprinciples/insidegovernment).
 
 During transition, your 'content analysis' spreadsheet will map your existing content to GOV.UK document types.
 
 Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
    
 
-### News article
+### News article (type)
    
 News is found in the 'Announcements' section of the site. Our blog [explains why news comes under 'Announcements'](http://inside-inside-gov.tumblr.com/post/34783661077/announcements).
 
@@ -32,29 +32,29 @@ When creating a news article:
 It has 3 sub-types: news story, press release and government response. 
 
 
-#### News story
+#### News story (sub-type)
 
-A news story is written especially for GOV.UK so must keep to GOV.UK style. In particular this means jargon-free, plain English, with a logical structure and helpful sub-headers. See the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) for more guidance on structure, length etc.
+You write a news story especially for GOV.UK so you must keep to GOV.UK style. In particular it needs jargon-free, plain English, with a logical structure and helpful sub-headers. See the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) for more guidance on structure, length etc.
 
 
-#### Press release
+#### Press release (sub-type)
 
-This sub-type is for reproducing press releases once they have been sent out from departments or agencies. It should be published unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy. This sub-type is intended only for keeping a record of an organisation's press releases.
+This sub-type is for reproducing press releases once they have been sent out from departments or agencies. You should publish it unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy. This sub-type is intended only for keeping a record of an organisation's press releases.
 
 You can also use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format). 
 
 
-#### Government response
+#### Government response (sub-type)
 
 This is for a press statement responding to coverage in the media (but not a parliamentary statement, which should use speech format). It does not include press articles written by ministers or letters to newspapers from ministers (see speech format). 
 
 
-### Speech, statement or article
+### Speech, statement or article (type)
 
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
 
 
-#### Speech (transcript/draft/speaking notes) sub type
+#### Speech: transcript/draft/speaking notes (sub-types)
 
 A speech is delivered to a specific audience and often asserts the government's message or position on an issue. When creating a speech:
 
@@ -72,7 +72,7 @@ A speech is delivered to a specific audience and often asserts the government's 
 * never use the blockquote markdown as the speech is a quote throughout
 
 
-#### Written/oral statement sub type
+#### Statement to Parliament: written/oral (sub-type)
 
 A statement usually relates to matters of policy or government actions. It differs from a speech as there is no selected audience: a statement is given orally or in writing to Parliament. When creating a statement:
 
@@ -84,7 +84,7 @@ A statement usually relates to matters of policy or government actions. It diffe
 * never use the blockquote markdown as the statement is a quote throughout
 
 
-#### Authored article sub-type
+#### Authored article (sub-type)
 
 An authored article is a republication of a piece written for publication elsewhere (usually a newspaper) by a minister. It does not include letters to newspapers. When creating an authored article:
 
@@ -96,7 +96,7 @@ An authored article is a republication of a piece written for publication elsewh
 
 
 
-### Publication
+### Publication (type)
    
 A publication page carries the publication as an attachment: most publication pages carry just 1 stand-alone document.
 
@@ -123,71 +123,75 @@ At the top of the page, write a short GOV.UK style title (65 characters), free o
 Write the publication title in the box where you upload the attachment. You should reproduce the given title of the publication. This publication title is searchable on the public site.
 
 
-#### Policy paper sub-type
+#### Policy paper (sub-type)
 
 Use this for strategy, planning or implementation of a government policy. It includes white papers, operational plans, action plans etc. 
 
 A lot of publications are likely to fall into this category, but note that it excludes consultations, research and impact assessments. If it is a corporate report about your organisation, see below.
 
 
-#### Impact assessment sub-type
+#### Impact assessment (sub-type)
 
 This is a very specific content type for assessments of proposed initatives or regulatory changes. 
 
 Note that impact assessments are often published before or during consultations. They should not be uploaded within the consultation, but should have their own page.
 
 
-#### Guidance sub-type
+#### Guidance (sub-type)
 
-Use this for manuals, handbooks and any other stand-alone documents that offer advice. You can also write guidance in a digital format as an [HTML document] (this replaces the previous web-based content type, detailed guides).
+Use this for manuals, handbooks and any other stand-alone documents that offer advice. You can also write guidance in a digital format as an HTML document (this replaces the previous web-based content type, detailed guides).
 
 
-#### Form sub-type
+#### Form (sub-type)
 
 Use this for a document that needs to be completed by users. You can include a guidance document that goes with the form on the same page as a supporting document. 
 
 
-#### Statistics and national statistics sub-types
+#### Statistics and national statistics (sub-types)
 
 Use 'statistics' for data produced by members of the Government Statistical Service.
 
 Use 'national statistics' for anything that meets the UK Statistics Authority's code of practice; this content automatically displays the national statistics logo.
 
 
-#### Research and analysis
+#### Research and analysis (sub-type)
 
 Use this for any research relevant to government policy.
 
 
-#### Corporate reports
+#### Corporate report (sub-type)
 
 Use this for publications about what your organisation does; it includes annual reports, .
 
 
-#### Transparency data
+#### Transparency data (sub-type)
 
-Use this for spending, salaries, gifts and hospitality, .
-
-
+Use this for spending, salaries, gifts and hospitality.
 
 
-* 'FOI release' for responses to Freedom of information requests
+#### FOI release (sub-type) 
 
-* 'Independent reports' for reports commissioned about government from third parties
+for responses to Freedom of information requests
 
-#### Correspondence
+
+#### Independent report (sub-type)
+
+for reports commissioned about government from third parties
+
+
+#### Correspondence (sub-type)
 
 Use this for letters to individuals or organisations. Also use for newsletters
 
 
-#### Promotional material
+#### Promotional material (sub-type)
 
 Use this for posters and leaflets that promote government services. It can include resources for other government agents or local authorities to reproduce, such as logos and images. 
 
 Be careful with this content type. If the resource contains guidance, such as an information pack, then even if it is also promotional you should count it as the guidance sub-type. 
 
 
-#### Maps
+#### Maps (sub-type)
 
 
 
@@ -201,7 +205,7 @@ Be careful with this content type. If the resource contains guidance, such as an
 
 
 
-### Policy
+### Policy (type)
    
 Clear and complete definition of government policy on a specific issue. Policy supporting detail pages can be added after the policy is created and saved.
 
@@ -210,7 +214,7 @@ Clear and complete definition of government policy on a specific issue. Policy s
 [Instructions](creating-a-new-doc.html)
 
 
-### Consultation
+### Consultation (type)
    
 For all kinds of consultation including discussion documents and calls for evidence. All stages of a consultation including the government’s response are added to the same page.
 
@@ -218,7 +222,7 @@ For all kinds of consultation including discussion documents and calls for evide
 
 [Instructions](creating-a-new-doc.html)
 
-### Detailed guide 
+### Detailed guide (type)
    
 Information that answers a specific and discrete user need for detailed guidance (eg for stakeholders, niche or technical audiences).
 
@@ -227,7 +231,7 @@ Information that answers a specific and discrete user need for detailed guidance
 [Instructions](creating-a-new-doc.html)
 
 
-### Statistical data set
+### Statistical data set (type)
    
 ‘Live’ statistical data that’s frequently updated. If the data is a one off snapshot then use the publication types of 'Statistics' or 'National Statistics' instead.
 
@@ -236,14 +240,14 @@ Information that answers a specific and discrete user need for detailed guidance
 [Instructions](creating-a-new-doc.html)
 
 
-### Case study
+### Case study (type)
    
 A real world example that shows best practice, illustrates an issue or demonstrates policy in action. Should be useful on an ongoing basis, create a news story if not.
 
 [Instructions](creating-a-new-doc.html)
 
 
-### Fatality notice
+### Fatality notice (type)
    
 Ministry of Defence only. News style content type announcing the death of a member of the armed forces.
 
@@ -252,7 +256,7 @@ Ministry of Defence only. News style content type announcing the death of a memb
 [Instructions](creating-a-new-doc.html)
 
 
-### Worldwide priority
+### Worldwide priority (type)
    
 Definitions of UK government priorities in international locations.
 
