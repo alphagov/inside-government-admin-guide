@@ -4,7 +4,7 @@ pages = {
   "Your account" => [
     "Get an account",
     "Logging in",
-    "Forgot your passphrase?"
+    "Forgot your password?"
   ],
   "First steps" => [
     "Start screen",
