@@ -11,15 +11,15 @@ Please use the [support form](https://support.production.alphagov.co.uk/) for qu
 
 You can also ask GDS to:
 
-* delete pages
+* delete pages 
 * create friendly URLs (FURLs)
 * create topical events
 * create new organisations or ministerial roles
 * create worldwide organisations
 
-You can also ask us (or tell us) about your needs for Publisher:
+You can also tell us about your needs for Publisher:
 
-* tell us about new user needs
+* tell us about new user needs that current formats don't accommodate
 * request new features
 * report bugs or issues
 * request analytics reports
