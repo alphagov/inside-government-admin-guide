@@ -14,7 +14,7 @@ title: Inside Government Admin Guide - Index
 * [Document filters](first-steps/document-filters.html)
 * [Top navigation](first-steps/top-navigation.html)
 * [Markdown](first-steps/markdown.html)
-* [Help from GDS](first-steps/gds-only-tasks.html)
+* [Support from GDS](first-steps/support-from-GDS.html)
 
 
 ## Creating documents
