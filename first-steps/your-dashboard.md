@@ -13,7 +13,7 @@ From your dashboard there are links to support tools.
 
 Underneath this, your dashboard lists the most recent draft documents you have been working on and your organisation's force-published documents (which need ['second eye'](http://alphagov.github.io/inside-government-admin-guide/creating-documents/second-pair-of-eyes.html).
 
-Using the [top navigation](http://alphagov.github.io/inside-government-admin-guide/first-steps/top-navigation.html), you can:
+Using the top navigation, you can:
 
 *  click the plus sign to [create new content](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html) 
 *  click through to 'Documents', which lists all documents produced by departments and agencies, with a set of document filters to help you find particular documents
