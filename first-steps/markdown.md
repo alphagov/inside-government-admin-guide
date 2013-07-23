@@ -20,7 +20,7 @@ On every editing interface, you’ll see a ‘how to’ guide to Markdown like t
 
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
-The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/creating-a-new-doc.html) section has more about titles, summaries and sub-headers.
+The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html) section has more about titles, summaries and sub-headers.
 
 
 ### Links
@@ -94,15 +94,15 @@ As the Prime Minister said:
 > Britons never shall be slaves.
 
 *  Introduce a blockquote with a colon.
-*  The > in the line space is important. If you leave it out you will get 2 separate quotes, not 1 running quote.
+*  The > in the line space is important. If you leave it out you will get 2 separate quotes on separate lines, not 1 running quote.
 *  Leave 1 empty line space above and below your blockquote.
-*  Do not use blockquotes in speeches, they are for news articles and case studies only. 
+*  Do not use blockquotes in speeches: blockquotes are for news and case studies only. 
 
 For more advice on using blockquotes on GOV.UK, see the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) and [style guide: case studies](https://www.gov.uk/designprinciples/insidegovernment#case-studies).
 
 
 ### Images and attachments
 
-Covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
+These are covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
 
 
