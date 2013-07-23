@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Document filters
+title: How to publish content / Document hub
 ---
 
-## Document filters
+## Document hub
+
+Click on the 'Documents' link on the top navigation to get to the documents hub. 
+
+   ![Document hub 1](document-hub-1.png)
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list to find the document you want.
 
@@ -18,7 +22,7 @@ You can filter using consecutive words from the document's title or the slug of 
 
    ![Document filters 2](document-filters-2.png)
 
-* Type in a word or phrase and hit return.
+* Type in a word or phrase (must be consecutive words) and hit return.
 * Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer').
 
 
