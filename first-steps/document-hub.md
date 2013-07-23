@@ -43,6 +43,7 @@ You can filter documents by any department or agency, or you can find documents 
    
    ![Document filters 5](document-filters-5.png)
 
+
 ### Filter by world location   
 
 Government offices overseas can filter documents by their world location (generally a country).
