@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Start screen
+title: How to publish content / Your dashboard
 ---
 
 ## Your dashboard
