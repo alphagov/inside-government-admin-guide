@@ -11,6 +11,8 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
    ![Get an account](get-an-account.png)
    
+* Use Preview if you’re practising (all content on Preview is overwritten every week, so it is not a good place to create any documents you wish to keep.)
+* Use Production if you are creating content to go live.   
 * If you have not received an email, check your spam/junk folder. 
 * If you still can't find it but believe that you have been registered, follow the steps for [forgot passphrase](http://alphagov.github.io/inside-government-admin-guide/your-account/forgot-your-passphrase.html) to trigger an email. 
 * Set a passphrase that’s strong but memorable.
