@@ -35,7 +35,7 @@ title: Inside Government Admin Guide - Index
 * [Limiting access](creating-documents/limiting-access.html)
 
 
-## Create and edit organisation home pages and content
+## Create and edit organisations, people and groups
 * [Other content you can edit](editing-other-pages/you-can-edit.html)
 * [Homepage](editing-other-pages/homepage.html)
 * [People and roles](editing-other-pages/people-and-roles.html)
