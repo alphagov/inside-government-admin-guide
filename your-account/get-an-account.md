@@ -33,7 +33,5 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
    ![Get an account 5](get-an-account-5.png)
 
-* If it is your first time in Publisher, you’ll be asked to confirm we can use your email account. 
-* Just click ‘Authorise’ and you’re ready to go.
+If it is your first time in Publisher, you’ll be asked to confirm we can use your email account. Just click ‘Authorise’ and you’re ready to go.
 
-   ![Get an account 6](get-an-account-6.png)
