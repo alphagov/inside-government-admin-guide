@@ -35,3 +35,4 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
 If it is your first time in Publisher, you’ll be asked to confirm we can use your email account. Just click ‘Authorise’ and you’re ready to go.
 
+Find out more about getting started with the [top navigation](http://alphagov.github.io/inside-government-admin-guide/first-steps/top-navigation.html) or [your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
