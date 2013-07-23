@@ -8,11 +8,15 @@ title: How to publish content / Add attachments
 You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
 
 
-### Upload attachments individually
+### Upload attachment(s) individually
 
-* Select and upload a single attachment by clicking the 'Choose file' button.
+* On a saved document, select 'Edit'
 
-	![Add attachments 1](add-attachments-1.png)
+![Editing a docoument 3](editing-a-doc-3.png)
+
+* Select 'Upload an attachment' and upload a single attachment by clicking the 'Choose file' button.
+
+![Add attachments 1](add-attachments-1.png)
 
 * If your attachment is fully accessible then tick the box.
    * The [style guide section 13](https://www.gov.uk/designprinciples/accessiblepdfs) explains how to check if a document is accessible. 
@@ -24,7 +28,7 @@ You can add attachments individually or you can bulk-upload a zip file containin
 
 ### Save the page
 
-Once your document is saved, the attachments will be uploaded to the server. 
+Once your document is saved, the attachment(s) will be uploaded to the server. 
 
 * For publications and consultations, the attachments will be added to the page in the order they were uploaded - they can't be re-ordered later. 
 * For news, detailed guides and HTML publications, the attachments are all given 2 alternative Markdown codes.
@@ -47,17 +51,22 @@ The first attachment is number 1, the other attachments are numbered according t
 
 It’s easy to re-order or reposition the attachments by where you choose to place the Markdown code on the page. The number given to an attachment will not change, even if attachments are removed later.
 
-5. You can also upload files in bulk.
+### Bulk upload
 
-	Create a zip file containing all the documents you want to upload.
+You can also upload files in bulk.
 
-	Click the 'choose file' button and upload the zip file as normal.
+* Create a zip file containing all the documents you want to upload.
+* On a saved document, select 'Edit'
+
+![Editing a docoument 3](editing-a-doc-3.png)
+
+* Click the 'choose file' button and upload the zip file as normal.
 
 	![Add attachments 4](add-attachments-4.png)
 
-	When you see a "Bulk upload successful" message you can add titles and other metadata to the files.
+When you see a "Bulk upload successful" message you can add titles and other metadata to the files.
 
-	The bulk uploader can also be used to quickly overwrite previous versions of files. Just make sure that the new file has the same filename as the old one, and the uploader will do the rest.
+The bulk uploader can also be used to quickly overwrite previous versions of files. Just make sure that the new file has the same filename as the old one, and the uploader will do the rest.
 
 6. It's easy to replace any individual file with a new version.
 
