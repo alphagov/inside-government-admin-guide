@@ -5,9 +5,9 @@ title: How to publish content / Feature documents on your home page
 
 ## Feature documents on your home page
 
-Feature documents on your home page to draw attention to current stories or important publications or announcements. 
+Feature documents with photos on your home page to draw attention to current stories or important publications or announcements. 
 
-Each organisation can feature up to 6 documents (eg news stories, publications, speeches, consultations) on its homepage. 
+Each organisation can feature up to 6 documents (eg news stories, publications, speeches, consultations) on its home page. 
 
 ![Homepage 1](homepage-1.png)
 
