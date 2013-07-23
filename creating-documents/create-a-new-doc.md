@@ -5,30 +5,28 @@ title: Inside Government Admin Guide - Creating a new doc
 
 ## Creating a new document
 
-1. Click the ‘Create new document’ button.
+Click the ‘Create new document’ button.
 
 	![Create new document 1](creating-a-new-doc-1.png)
 	
-	Or use the plus sign in the top navigation.
+Or use the plus sign in the top navigation.
 
 	![Create new document 5](creating-a-new-doc-5.png)
 	
 
-2. A drop down menu appears. Pick the format you want.
+A drop down menu appears. Pick the format you want.
 
 	![Create new document 2](creating-a-new-doc-2.png)
 	
-3. A new document appears.
+A new document appears.
 
-	Enter text into the title, summary and body fields as needed.
-	
-	When you've entered some text, click 'preview' to see what your page will look like.
-	
-	Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/first-steps/markdown.html) - to add headings, bold text, quotes and more.
+* Enter text into the title, summary and body fields as needed.
+* When you've entered some text, click 'preview' to see what your page will look like.
+* Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/creating-documents/markdown.html) - to add headings, bold text, quotes and more.
 
 	![Create new document 3](creating-a-new-doc-3.png)
 	
-4. Make sure you save your work!
+Make sure you save your work: 'Save' will return you to the document hub; 'Save and continue editing' will take you back to the document to add images or attachments, make associations or re-edit content.
 
 	![Create new document 4](creating-a-new-doc-4.png)
 
