@@ -11,7 +11,7 @@ When you log into Publisher the first screen you see is your dashboard.
 
 From your dashboard there are links to support tools.
 
-Underneath this, your dashboard lists the most recent draft documents you have been working on and your organisation's force-published documents (which need ['second eye'](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html).
+Underneath this, your dashboard lists the most recent draft documents you have been working on and your organisation's force-published documents (which need ['second eye'](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html)).
 
 Using the top navigation, you can:
 
