@@ -12,6 +12,7 @@ Use the top navigation to access content that's about your department (eg your h
 * Click on 'IG Admin' to go to your dashboard.
 * Click on ‘Documents’ to go to the document hub.
 * Click on 'View website' to visit the live GOV.UK website.
+* Click on the plus sign to [create a new document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 * 'Document series' let you collect related content together (eg ‘spending over £25,000’ or ‘statutory guidance for headmasters on admissions’)
 * Click on your organisation's name to manage your homepage etc. If the wrong organisation is shown here please get in touch and we’ll fix it.
 	
