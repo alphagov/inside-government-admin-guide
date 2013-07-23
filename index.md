@@ -30,9 +30,9 @@ title: Inside Government Admin Guide - Index
  
 
 ## Workflow for managing content 
-* [Fact checking](creating-documents/fact-checking.html)
-* [Second pair of eyes](creating-documents/second-pair-of-eyes.html)
-* [Limiting access](creating-documents/limiting-access.html)
+* [Fact checking](workflow-content/fact-checking.html)
+* [Second pair of eyes](workflow-content/second-pair-of-eyes.html)
+* [Limiting access](workflow-content/limiting-access.html)
 
 
 ## Create and edit organisations, people and groups
