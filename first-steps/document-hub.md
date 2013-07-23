@@ -11,7 +11,7 @@ Click on the 'Documents' link on the top navigation to get to the documents hub.
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list to find the document you want.
 
-   ![Document filters 1a](document-filters-1.png)
+   ![Document filters 1](document-filters-1.png)
    
 You can use just one filter or several - they will all act together.
 
@@ -35,13 +35,13 @@ You can filter documents by any department or agency, or you can find documents 
 * Click on 'Me' to bring up documents that you have created or edited.
 * Click on 'My department' for anyone in your team. 
 * Use the dropdown menu for other organisations, or start typing the organisation name to find them more quickly.
-* Click on 'Everyone' to see all documents. 
-* Use the dropdown menu for other authors, or start typing a colleague's name to find them more quickly.
 
    ![Document filters 4](document-filters-4.png)
    
+* Click on 'Everyone' to see all documents. 
+* Use the dropdown menu for other authors, or start typing a colleague's name to find them more quickly.
+   
    ![Document filters 5](document-filters-5.png)
-
 
 ### Filter by world location   
 
