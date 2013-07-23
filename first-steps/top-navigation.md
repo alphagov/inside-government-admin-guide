@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Top navigation
+title: How to publish content / Top navigation
 ---
 
 ## Top navigation
