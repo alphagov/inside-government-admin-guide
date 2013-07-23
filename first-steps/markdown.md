@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Markdown
+title: How to publish content / Use Markdown
 ---
 
-## Markdown
+## Use Markdown to create headers, links, bullets, tables, acronyms or blockquotes
 
 Publisher uses ‘Markdown’ to format the content. Instead of using an editor tool, you can type simple Markdown commands within the copy to create the formatting you want. 
 
@@ -83,6 +83,22 @@ The Markdown is added at the base of the document.
 *  List both plurals and singulars, but not possessives like DFT's.
 *  List plurals ahead of singulars (eg HGVs must be before HGV).
 *  No need to list acronyms that appear only once.
+
+
+### Blockquotes
+
+As the Prime Minister said:
+
+> Rule, Britannia, rule the waves.
+>
+> Britons never shall be slaves.
+
+*  Introduce a blockquote with a colon.
+*  The > in the line space is important. If you leave it out you will get 2 separate quotes, not 1 running quote.
+*  Leave 1 empty line space above and below your blockquote.
+*  Do not use blockquotes in speeches, they are for news articles and case studies only. 
+
+For more advice on using blockquotes on GOV.UK, see the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) and [style guide: case studies](https://www.gov.uk/designprinciples/insidegovernment#case-studies).
 
 
 ### Images and attachments
