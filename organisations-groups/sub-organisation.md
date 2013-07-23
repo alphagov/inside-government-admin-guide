@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Sub-organisation
+title: How to publish content / Sub-organisations
 ---
 
-## Sub-organisation
+## Sub-organisations
 
 1. Sub-orgs are high profile groups that have sufficient public profile and publishing activity to warrant an org-lite presence, nested beneath a parent body. 
 
@@ -33,5 +33,6 @@ title: Inside Government Admin Guide - Sub-organisation
 	
 	They have a organisation homepage like yours which accepts featured stories and more.
 	
-	![Sub org 6](sub-organisation-6.png)
+	![Sub org 6](sub-organisation-6.png)
+
 
