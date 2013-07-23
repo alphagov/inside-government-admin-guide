@@ -3,9 +3,9 @@ layout: default
 title: How to publish content / Use Markdown
 ---
 
-## Use Markdown to create headers, links, bullets, tables, acronyms or blockquotes
+## Use Markdown for headers, links, bullets, tables, acronyms and blockquotes
 
-Publisher uses ‘Markdown’ to format the content. Instead of using an editor tool, you can type simple Markdown commands within the copy to create the formatting you want. 
+Publisher needs ‘Markdown’ commands to format the content. Instead of using an editor tool, you can type simple Markdown commands within the copy to create the formatting you want. 
 
 On every editing interface, you’ll see a ‘how to’ guide to Markdown like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
 
@@ -13,8 +13,9 @@ On every editing interface, you’ll see a ‘how to’ guide to Markdown like t
    
 ### Headers and sub-headers
 
-*  Use 2 hashtags (\##) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
-*  Don't use 1 hashtag or you will get a title heading in the middle of your document - the box where you enter the title will assign it the H1 style automatically, you don't need to use Markdown in this box.
+*  The title and summary are styled automatically, don't use Markdown in either of these boxes.
+*  In the body, use 2 hashtags (\##) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
+*  Don't use 1 hashtag or you will get a title heading in the middle of your document.
 
 ![Markdown 2](markdown-2.png)
 
