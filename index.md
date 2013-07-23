@@ -5,35 +5,37 @@ title: Inside Government Admin Guide - Index
 
 ## Your account
 * [Get an account](your-account/get-an-account.html)
-* [Logging in](your-account/logging-in.html)
-* [Forgot your passphrase?](your-account/forgot-your-password.html)
+* [Log in](your-account/log-in.html)
+* [Forgot your passphrase](your-account/forgot-your-passphrase.html)
 
 
 ## First steps
-* [Start screen](first-steps/start-screen.html)
-* [Document filters](first-steps/document-filters.html)
 * [Top navigation](first-steps/top-navigation.html)
-* [Markdown](first-steps/markdown.html)
+* [Your dashboard](first-steps/your-dashboard.html)
+* [Document hub for finding documents](first-steps/document-hub.html)
 * [Support from GDS](first-steps/support-from-GDS.html)
 
 
-## Creating documents
+## Create and publish documents
 * [Document types](creating-documents/document-types.html)
-* [Creating a new document](creating-documents/creating-a-new-doc.html)
+* [Create a new document](creating-documents/create-a-new-doc.html)
+* [Markdown for headers, links, bullets, tables, acronyms and blockquotes](creating-documents/markdown.html)
 * [Add images](creating-documents/add-images.html)
 * [Add attachments](creating-documents/add-attachments.html)
 * [Add associations](creating-documents/add-associations.html)
-* [Add links](creating-documents/add-links.html)
+* [Add internal links](creating-documents/add-links.html)
 * [Preview your work](creating-documents/preview-your-work.html)
-* [Editing a document](creating-documents/editing-a-doc.html)
+* [Scheduled publishing](creating-documents/scheduled-publishing.html)
+* [Edit a published document, including change notes](creating-documents/edit-a-published-doc.html)
+ 
+
+## Workflow for managing content 
 * [Fact checking](creating-documents/fact-checking.html)
 * [Second pair of eyes](creating-documents/second-pair-of-eyes.html)
-* [Scheduled publishing](creating-documents/scheduled-publishing.html)
-* [Local government alerts](creating-documents/local-gov-alerts.html)
 * [Limiting access](creating-documents/limiting-access.html)
 
 
-## Editing other pages
+## Create and edit organisation home pages and content
 * [Other content you can edit](editing-other-pages/you-can-edit.html)
 * [Homepage](editing-other-pages/homepage.html)
 * [People and roles](editing-other-pages/people-and-roles.html)
