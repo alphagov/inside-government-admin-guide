@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - You can edit
+title: How to publish content / Organisation home page and ‘About us’
 ---
 
-## Other content you can edit
+## Organisation home page and ‘About us’
 
 Use the top nav to create and edit these types
 
