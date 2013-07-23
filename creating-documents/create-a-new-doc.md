@@ -30,8 +30,7 @@ A new document appears.
 
 Make sure you save your work: 'Save' will return you to the document hub; 'Save and continue editing' will take you back to the document to add images or attachments, make associations or re-edit content.
 
-For most publications and speeches, [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) and [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) are mandatory so you will need to continue editing.
-
 ![Create new document 4](creating-a-new-doc-4.png)
 
+For most publications and speeches, [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) and [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) are mandatory so you will need to continue editing.
 
