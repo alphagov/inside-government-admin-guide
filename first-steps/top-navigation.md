@@ -21,7 +21,6 @@ Click the 'More' link to see more content managed sections.
 
 ![Top navigation 2](top-navigation-2.png)
 ![Top navigation 3](top-navigation-3.png)
-![Top navigation 3](top-navigation-4.png)
 
 * Click any of these links to see lists of content in each section. Some of this content is edited by you, other parts carry a message to ask GDS to carry out or approve content creation. 
 
