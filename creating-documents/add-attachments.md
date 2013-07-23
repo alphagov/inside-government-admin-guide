@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Adding attachments
+title: How to publish content / Add attachments
 ---
 
-## Adding attachments
+## Add attachments
 
 You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
 
