@@ -30,20 +30,18 @@ title: Inside Government Admin Guide - Index
  
 
 ## Workflow for managing content 
-* [Fact checking](workflow-content/fact-checking.html)
+* [Fact check for external stakeholders or policy teams](workflow-content/fact-checking.html)
 * [Second pair of eyes](workflow-content/second-pair-of-eyes.html)
-* [Limiting access](workflow-content/limiting-access.html)
+* [Limit editor access for sensitive documents](workflow-content/limiting-access.html)
 
 
-## Create and edit organisations, people and groups
-* [Other content you can edit](editing-other-pages/you-can-edit.html)
-* [Homepage](editing-other-pages/homepage.html)
-* [People and roles](editing-other-pages/people-and-roles.html)
-* [Document series](editing-other-pages/document-series.html)
-* [Sub-organisation](editing-other-pages/sub-organisation.html)
-* [Policy team](editing-other-pages/policy-team.html)
-* [Policy advisory group](editing-other-pages/policy-advisory-group.html)
-* [Governance group](editing-other-pages/governance-group.html)
+## Organisations, people and groups
+* [Organisation home page and 'About us'](organisations-groups/organisation-home-page.html)
+* [Feature stories on your homepage](organisations-groups/feature-stories-homepage.html)
+* [People and roles](organisations-groups/people-and-roles.html)
+* [Document series](organisations-groups/document-series.html)
+* [Sub-organisation](organisations-groups/sub-organisations.html)
+* [Policy team](organisations-groups/teams-and-groups.html)
 
 
 ## Worldwide network
