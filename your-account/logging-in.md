@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to publish content on GOV.UK - Logging in
+title: How to publish content / Log in
 ---
 
-## Logging in
+## Log in
 
 
 We have 2 separate environments in Publisher.
