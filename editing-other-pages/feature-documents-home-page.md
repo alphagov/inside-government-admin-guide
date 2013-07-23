@@ -1,41 +1,36 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Homepage
+title: How to publish content / Feature documents on your home page
 ---
 
-## Homepage
+## Feature documents on your home page
 
-### Featured documents
+Feature documents on your home page to draw attention to current stories or important publications or announcements. 
 
-1. Each organisation can feature up to six documents (eg news stories, speeches, consultations) on its homepage.
+Each organisation can feature up to 6 documents (eg news stories, publications, speeches, consultations) on its homepage. 
 
-	![Homepage 1](homepage-1.png)
+![Homepage 1](homepage-1.png)
 
-2. In Publisher click on your organisation's name
-
-	![Homepage 2](homepage-2.png)
+* In Publisher click on your organisation's name in the top navigation - you'll be taken to your department hub. 
+* Click on the 'Featured documents' tab.
 	
-	You'll be taken to your department's 'about us' pages. Click on the 'Featured documents' tab.
+![Homepage 3](homepage-3.png)
 	
-	![Homepage 3](homepage-3.png)
+* Pick the content you'd like to feature.
+* Upload an image to go with that feature (it must be 960 x 640 pixels, landscape).
+
+![Homepage 4](homepage-4.png)
 	
-3. Pick the content you'd like to feature.
+You can change the order of featured documents. The first document featured will be the most prominent, then you can feature up to 5 more - they will slot into place below the first feature leaving no gaps.
 
-	![Homepage 4](homepage-4.png)
+* Click and drag an item up or down in the list.
+* When you're done setting the order, click 'Save'.
+
+![Homepage 5](homepage-5.png)
 	
-4. You can change the order of Featured documents.
+* Click 'Unfeature' to remove featured documents from the home page, making space for new ones.
 
-	Click and drag an item up or down in the list.
-	
-	When you're done setting the order, click 'Save'.
-
-	![Homepage 5](homepage-5.png)
-	
-5. You can also unfeature content easily.
-
-	Click 'Unfeature' to remove content from the homepage.
-
-	![Homepage 6](homepage-6.png)
+![Homepage 6](homepage-6.png)
 	
 
 ### Top right links, What we do, Topics, Ministers and Managers
