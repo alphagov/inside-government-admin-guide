@@ -3,7 +3,7 @@ layout: default
 title: How to publish content / Add associations
 ---
 
-## Add associations (metadata and tagging)
+### Add associations (metadata and tagging)
 
 You can tag your document to organisations, topics, policies, ministers and international locations (depending on content format).
 
@@ -20,7 +20,7 @@ Associations are found below the document body text, just underneath the upload 
 	
 * To remove it, click the ‘x’.
 	
-## Choose which associations to use
+### Choose which associations to use
 
 Use associations sparingly. On policies or topics, for example, 1 is best and any more than 3 is too many.
 
