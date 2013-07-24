@@ -29,8 +29,7 @@ When creating a news article:
 * write clear [substantive change notes](http://alphagov.github.io/inside-government-admin-guide/creating-documents/make-a-change-note.html) if it is re-edited after publication
 * use [blockquote Markdown](http://alphagov.github.io/inside-government-admin-guide/first-steps/markdown.html#blockquotes) for quotes, but no more than 2 consecutive sentences
 
-It has 3 sub-types: news story, press release and government response. 
-
+### News article sub-types
 
 #### News story 
 
@@ -55,7 +54,7 @@ This is for a press statement responding to coverage in the media (but not a par
 
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
 
-This document type has 6 sub-types.
+### Speech, statement or article sub-types
 
 #### Speech: transcript/draft/speaking notes 
 
