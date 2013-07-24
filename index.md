@@ -10,7 +10,7 @@ title: Inside Government Admin Guide - Index
 
 
 ## First steps
-* [Top navigation](first-steps/top-navigation.html)
+* [Top navigation - finding your way around Publisher](first-steps/top-navigation.html)
 * [Your dashboard](first-steps/your-dashboard.html)
 * [Document hub for finding documents](first-steps/document-hub.html)
 * [Support from GDS](first-steps/support-from-GDS.html)
@@ -19,10 +19,10 @@ title: Inside Government Admin Guide - Index
 ## Create and publish documents
 * [Document types](creating-documents/document-types.html)
 * [Create a new document](creating-documents/create-a-new-doc.html)
-* [Markdown for headers, links, bullets, tables, acronyms and blockquotes](creating-documents/markdown.html)
+* [Use Markdown to format headers, links, bullets, tables, acronyms and blockquotes](creating-documents/markdown.html)
 * [Add images](creating-documents/add-images.html)
 * [Add attachments](creating-documents/add-attachments.html)
-* [Add associations](creating-documents/add-associations.html)
+* [Add associations - tagging and metadata](creating-documents/add-associations.html)
 * [Add internal links](creating-documents/add-links.html)
 * [Preview your work](creating-documents/preview-your-work.html)
 * [Scheduled publishing](creating-documents/scheduled-publishing.html)
@@ -45,7 +45,7 @@ title: Inside Government Admin Guide - Index
 
 
 ## Worldwide network
-* [Translating docs](worldwide-network/translating-docs.html)
+* [Translating content](worldwide-network/translating-docs.html)
 * [World locations](worldwide-network/world-locations.html)
 * [World location news article](worldwide-network/world-location-news-article.html)
 * [Worldwide organisations](worldwide-network/worldwide-organisations.html)
