@@ -19,7 +19,7 @@ A drop-down menu appears. Pick the [document type](http://alphagov.github.io/ins
 
 A new document appears.
 
-* You don't add the slug this is automatically created when you publish the page, based on your chosen title.
+* You don't add the slug: this is automatically created when you publish the page, based on your chosen title.
 * Enter text into the title, summary and body fields as needed.
 * When you've entered some text, click the preview toggle to see what your page will look like.
 * Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/creating-documents/markdown.html) - to add headings, links, quotes and more.
@@ -33,5 +33,5 @@ Make sure you save your work: 'Save' will return you to the document hub; 'Save 
 
 ![Create new document 4](creating-a-new-doc-4.png)
 
-For most publications and speeches, [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) and [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) are mandatory so you will need to continue editing.
+For most documents, you will need to add either [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) or [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) or both, so you will need to continue editing.
 
