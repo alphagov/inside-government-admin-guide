@@ -26,7 +26,7 @@ Use associations sparingly. On policies or topics, for example, 1 is best and an
 
 #### Associations for publications and consultations
 
-* Tag to policy/policies all publications and consultations except transparency data. You should know your sponsoring department's policies and be aware which content relates to which policy. 
+* Tag to policy/policies all publications and consultations where possible, except transparency data, fatality notices and FOI releases. You should know your sponsoring department's policies and be aware which content relates to which policy. 
 * Tag to topic/topics only if you cannot identify a policy - this acts as a back-up (tagging to topics is coming soon).
 * Tag to organisations and alternative format providers in all cases (this will default to your own organisation). You should already be aware of your alternative format provider. These fields are mandatory.
 * Tag to document series to help users to find content. You may wish to [create a document series](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/document-series.html) for your content and related documents, but be aware that document series form an information architcture for your organisation, so they can't be created in an ad hoc way.
@@ -38,7 +38,7 @@ Use associations sparingly. On policies or topics, for example, 1 is best and an
 
 Speeches are tagged to their speakers in all cases, so ministers do not appear in the associations list. 
 
-* Tag to policy/policies all announcements (inclulding news). You should know your sponsoring department's policies and be aware which content relates to which policy. 
+* Tag to policy/policies all announcements (including news). You should know your sponsoring department's policies and be aware which content relates to which policy. 
 * Tag to topic/topics only if you cannot identify a policy - this acts as a back-up (tagging to topics is coming soon).
 * Tag to organisations and alternative format providers in all cases (this will default to your own organisation). You should already be aware of your alternative format provider. These fields are mandatory.
 * Tag to document series only if relevant - document series are more suited to publications (see above).
