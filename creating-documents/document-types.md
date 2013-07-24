@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Document types
+title: How to publish documents / Document types
 ---
 
-## Document types
+# Document types
 
 Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
 
@@ -16,7 +16,7 @@ During transition, your 'content analysis' spreadsheet will map your existing co
 Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
    
 
-### News article (type)
+## News article 
    
 News is found in the 'Announcements' section of the site. Our blog [explains why news comes under 'Announcements'](http://inside-inside-gov.tumblr.com/post/34783661077/announcements).
 
@@ -32,72 +32,73 @@ When creating a news article:
 It has 3 sub-types: news story, press release and government response. 
 
 
-#### News story (sub-type)
+#### News story 
 
 You write a news story especially for GOV.UK so you must keep to GOV.UK style. In particular it needs jargon-free, plain English, with a logical structure and helpful sub-headers. See the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) for more guidance on structure, length etc.
 
 
-#### Press release (sub-type)
+#### Press release 
 
 This sub-type is for reproducing press releases once they have been sent out from departments or agencies. You should publish it unedited, as sent out. Press releases can be uploaded as PDFs or cut and pasted into body copy. This sub-type is intended only for keeping a record of an organisation's press releases.
 
 You can also use press release for an official statement by a department spokesperson or minister (but not a parliamentary statement, which should use speech format). 
 
 
-#### Government response (sub-type)
+#### Government response 
 
 This is for a press statement responding to coverage in the media (but not a parliamentary statement, which should use speech format). It does not include press articles written by ministers or letters to newspapers from ministers (see speech format). 
 
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
-### Speech, statement or article (type)
+
+## Speech, statement or article 
 
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
 
 This document type has 6 sub-types.
 
-#### Speech: transcript/draft/speaking notes (sub-types)
+#### Speech: transcript/draft/speaking notes 
 
 A speech is delivered to a specific audience, usually during an important event or visit, and often asserts the government's message or position on an issue. When creating a speech:
 
-* never include 'speech' in the title
-* specify the audience in the title or summary (eg Soldiers, Sailors, Airmen and Families Association)
+* never write 'speech' in the title
+* specify the audience in the summary (eg Soldiers, Sailors, Airmen and Families Association)
 * specify the message of the speech in the title and summary, keeping the title concise (65 characters)
-* tag to a specific minister or director (if the speaker doesn't exist in the system you can [create a page for that person](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/people-and-roles.html))
+* tag to a speaker by selecting the correct minister or director (if the speaker doesn't exist in the system you can [create a page for that person](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/people-and-roles.html))
 * assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date)
    * 'draft' is for the draft the speaker uses
    * 'speaking notes' (cue cards, PowerPoint notes) may be used if no draft is available
    * 'transcript' is for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’)
-* specify a location (eg The Banqueting House, Whitehall, London)
-* never be given in Parliament (these are oral statements to Parliament - see below)
-* give a date for when the speech was delivered
+* specify a location (eg The Banqueting House, Whitehall, London, but never Parliament as these are oral statements to Parliament - see below)
+* enter a date for when the speech was given
 * never use the blockquote markdown as the speech is a quote throughout
 
 
-#### Statement to Parliament: written/oral (sub-type)
+#### Statement to Parliament: written/oral 
 
 A statement usually relates to matters of policy or government actions. It differs from a speech as there is no selected audience: a statement is given orally or in writing to Parliament. When creating a statement:
 
+* never write 'statement' in the title
 * specify the purpose of the statement in the title and summary
-* tag to a specific minister (their photo will appear automatically in the left margin)
+* tag to a speaker by selecting the correct minister (their photo will appear automatically in the left margin)
 * assign a sub-type - written or oral
-* never specify a location - this is self-evidently Parliament
-* give a date for when the statement was delivered
+* never specify a location - this is self-evidently Parliament, so leave this field blank
+* enter a date for when the statement was given
 * never use the blockquote markdown as the statement is a quote throughout
 
 
-#### Authored article (sub-type)
+#### Authored article 
 
 An authored article is a republication of a piece written for publication elsewhere (usually a newspaper) by a minister. It does not include letters to newspapers. When creating an authored article:
 
-* tag to a specific minister (their photo will appear automatically in the left margin)
-* assign a statement type - written or oral
+* tag to the correct 'speaker' (ie a writer), a specific minister or director (their photo will appear automatically in the left margin)
 * include the URL of the original article in the box (coming soon!)
-* never specify a location - this is self-evidently Parliament
-* never use the blockquote markdown as the statement is a quote throughout
+driver
+
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
 
-
-### Publication (type)
+## Publication 
    
 A publication page carries the publication as an attachment: most publication pages carry just 1 stand-alone document.
 
@@ -117,148 +118,136 @@ Note that if the new document incorporates all the previous data (eg if you are 
 There are a lot of publication sub-types listed below. You need to assign a sub-type to every publication.
 
 
-#### Titles for publication pages and publications
+### Titles for publication pages and publications
 
 At the top of the page, write a short GOV.UK style title (65 characters), free of jargon and weighted for SEO. 
 
 Write the publication title in the box where you upload the attachment. You should reproduce the given title of the publication. This publication title is searchable on the public site.
 
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
-#### Policy paper (sub-type)
+### Publication sub-types
+
+#### Policy paper 
 
 Use this for strategy, planning or implementation of a government policy. It includes white papers, operational plans, action plans etc. 
 
-A lot of publications are likely to fall into this category, but note that it excludes consultations, research and impact assessments. If it is a corporate report about your organisation, see below.
+A lot of publications are likely to fall into this category, but note that it excludes annual reports and business plans (which are corporate reports) and consultations. 
 
 
-#### Impact assessment (sub-type)
+#### Corporate report 
 
-This is a very specific content type for assessments of proposed initatives or regulatory changes. 
-
-Note that impact assessments are often published before or during consultations. They should not be uploaded within the consultation, but should have their own page.
+Use this for publications about what your organisation does and how it works; it includes annual reports, business plans, structural reform plans (though strategic plans should be policy papers), reviews of performance such as efficiency reviews (though performance data would come under transparency data).
 
 
-#### Guidance (sub-type)
+#### Independent report 
+
+Use this for reports commissioned about government policy from third parties, including enquiries, investigations, research and reviews.
+
+
+#### Guidance 
 
 Use this for manuals, handbooks and any other stand-alone documents that offer advice. You can also write guidance in a digital format as an HTML document (this replaces the previous web-based content type, detailed guides).
 
 
-#### Form (sub-type)
+#### Form 
 
-Use this for a document that needs to be completed by users. You can include a guidance document that goes with the form on the same page as a supporting document. 
+Use this only for a document that needs to be completed by users online or in hard copy. Most forms have guidance included on them, but if it is a separate guidance document that goes with the form, then upload it to the same page as a supporting document. 
+
+#### Impact assessment 
+
+This is a very specific content type for assessments of proposed initatives or regulatory changes. 
+
+Note that impact assessments are often published before or during consultations. They should not be uploaded within the consultation, but should each have their own page.
 
 
-#### Statistics and national statistics (sub-types)
+#### Statistics and national statistics 
 
-Use 'statistics' for data produced by members of the Government Statistical Service.
+Use 'statistics' for official statistics produced by members of the Government Statistical Service.
 
-Use 'national statistics' for anything that meets the UK Statistics Authority's code of practice; this content automatically displays the national statistics logo.
+Use 'national statistics' for official statistical releases and reports that meet the UK Statistics Authority's code of practice: this content automatically displays the national statistics logo.
+
+There is a special tickbox you can use to [limit access to producing organisations prior to publication](http://alphagov.github.io/inside-government-admin-guide/workflow-content/limiting-access.html), which is particularly useful for statistics.
 
 
-#### Research and analysis (sub-type)
+#### Research and analysis 
 
 Use this for research documents relevant to government policy. The research is likely to be carried out within government. If the research has been carried out independently or commissioned from an outside source then it is probably an independent report (see below).
 
-#### Corporate report (sub-type)
 
-Use this for publications about what your organisation does; it includes annual reports, .
+#### Transparency data 
 
+Use this for documents that record spending, salaries, gifts and hospitality. Organise and name the documents according to your organisation's agreed [publication scheme](https://www.gov.uk/designprinciples/insidegovernment#publication-scheme), which will appear as a corporate page. 
 
-#### Transparency data (sub-type)
-
-Use this for spending, salaries, gifts and hospitality.
+The titles should include your organisation's acronym so that the document is not easily confused with others - 'DfT special advisers: gifts and hospitality received, 13 May to 31 July 2010'.
 
 
-#### FOI release (sub-type) 
+#### FOI release 
 
-for responses to Freedom of information requests
-
-
-#### Independent report (sub-type)
-
-for reports commissioned about government from third parties
+Use this for responses to Freedom of information requests. You can add the 
 
 
-#### Correspondence (sub-type)
+#### Correspondence 
 
-Use this for letters to individuals or organisations. Also use for newsletters
+Use this for letters to individuals or organisations. Also use for newsletters and bulletins (unless these are guidance, in which case use the guidance sub-type).
 
 
-#### Promotional material (sub-type)
+#### Promotional material 
 
 Use this for posters and leaflets that promote government services. It can include resources for other government agents or local authorities to reproduce, such as logos and images. 
 
 Be careful with this content type. If the resource contains guidance, such as an information pack, then even if it is also promotional you should count it as the guidance sub-type. 
 
-
-#### Maps (sub-type)
-
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
 
-
-	
-
-
-[Example](https://www.gov.uk/government/publications/camborne-pool-redruth-stage-1-east-west-link-inspectors-report)
-
-[Instructions](creating-a-new-doc.html)
-
-
-
-### Policy (type)
+## Policy 
    
 Clear and complete definition of government policy on a specific issue. Policy supporting detail pages can be added after the policy is created and saved.
 
-[Example](https://www.gov.uk/government/policies/reducing-greenhouse-gases-and-other-emissions-from-transport)
-
-[Instructions](creating-a-new-doc.html)
+You would need to read several examples of policy before creating a new one or editing an existing one. You need to discuss with GDS and your sponsoring department before you can create a new policy.
 
 
-### Consultation (type)
+## Consultation 
    
-For all kinds of consultation including discussion documents and calls for evidence. All stages of a consultation including the government’s response are added to the same page.
+For all kinds of consultation including discussion documents and calls for evidence. All content for the various stages of a consultation (open, closed, public response, government response) are added to the same page as the timeline progresses.
 
-[Example](https://www.gov.uk/government/consultations/speed-limit-exemptions)
+The consultation will close automatically as long as you have entered the correct closing date. The contact details will disappear and the status will change to 'closed'.
 
-[Instructions](creating-a-new-doc.html)
+The 2 response stages (public response and government response) can be added at different times or at the same time. They can be added as uploaded documents or as text only, with links to other documents (eg white papers, reports etc).
 
-### Detailed guide (type)
+Users can click on a request to be alerted when a consultation response is published.
+
+
+## Detailed guide 
    
-Information that answers a specific and discrete user need for detailed guidance (eg for stakeholders, niche or technical audiences).
+Guidance and information, usually task-based, that answers a specific and discrete user need for detailed guidance (eg for stakeholders, niche or technical audiences).
 
-[Example](https://www.gov.uk/driver-documents-required-for-international-road-haulage)
-
-[Instructions](creating-a-new-doc.html)
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
 
-### Statistical data set (type)
+## Statistical data set 
    
-‘Live’ statistical data that’s frequently updated. If the data is a one off snapshot then use the publication types of 'Statistics' or 'National Statistics' instead.
+‘Live’ statistical data that’s frequently updated. If the data is a one-off snapshot then use the publication types of statistics or national statistics instead.
 
 [Example](https://www.gov.uk/government/statistical-data-sets/drt01-practical-driving-riding-test-pass-rates)
 
-[Instructions](creating-a-new-doc.html)
 
-
-### Case study (type)
+## Case study 
    
 A real world example that shows best practice, illustrates an issue or demonstrates policy in action. Should be useful on an ongoing basis, create a news story if not.
 
-[Instructions](creating-a-new-doc.html)
 
-
-### Fatality notice (type)
+## Fatality notice 
    
 Ministry of Defence only. News style content type announcing the death of a member of the armed forces.
 
 [Example](https://www.gov.uk/government/fatalities/captain-walter-barrie-killed-in-afghanistan)
 
-[Instructions](creating-a-new-doc.html)
 
-
-### Worldwide priority (type)
+## Worldwide priority 
    
-Definitions of UK government priorities in international locations.
+Definitions of UK government priorities in international locations. These are only published by people authorised by the Foreign & Commonwealth Office.
 
-[Instructions](creating-a-new-doc.html)
+[Instructions on how to create a document.](creating-a-new-doc.html)
 
