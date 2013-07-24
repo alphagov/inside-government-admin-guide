@@ -19,8 +19,9 @@ A drop-down menu appears. Pick the [document type](http://alphagov.github.io/ins
 
 A new document appears.
 
+* You don't add the slug this is automatically created when you publish the page, based on your chosen title.
 * Enter text into the title, summary and body fields as needed.
-* When you've entered some text, click 'preview' to see what your page will look like.
+* When you've entered some text, click the preview toggle to see what your page will look like.
 * Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/creating-documents/markdown.html) - to add headings, links, quotes and more.
 * Assign a document type (below the body with a red asterisk for compulsory field).
 * Assign a lead department (this will be defaulted to your own department).
