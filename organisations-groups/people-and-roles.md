@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - People and roles
+title: How to publish content / People and roles
 ---
 
 ## People and roles
@@ -35,5 +35,8 @@ title: Inside Government Admin Guide - People and roles
 	
 	![People and roles 4](people-and-roles-4.png)
 	
-5. Now choose a person and set the date they started in the role.	Both the role and the person need to be saved before you can associate them.
-	![People and roles 4](people-and-roles-4.png)
+5. Now choose a person and set the date they started in the role.
+
+	Both the role and the person need to be saved before you can associate them.
+
+	![People and roles 4](people-and-roles-4.png)
