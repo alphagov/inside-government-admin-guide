@@ -5,32 +5,42 @@ title: Inside Government Admin Guide - Add links
 
 ## Add links
 
-1. Links can be added to any document format.
+### Add externallinks
 
-	Put the text you want to click in \[square brackets\], the web address in (curved brackets together with any hover text in "quote marks").
+Links can be added to the body copy of any document format.
 
-	![Add links 1](add-links-1.png)
+Put the text you want to click in \[square brackets\], the web address in (curved brackets together with any hover text in "quote marks").
 
-2. Click 'preview' to check your URLs are valid.
+![Add links 1](add-links-1.png)
 
-	An external link icon appears automatically on any non GOV.UK web addresses.
+Click the preview toggle to check your URLs are valid.
 
-	![Add links 2](add-links-2.png)
+An external link icon appears automatically on any non GOV.UK web addresses.
 
-### How to link to pages on GOV.UK
+![Add links 2](add-links-2.png)
 
+### Add internal links to GOV.UK pages
 
-#### Use the live url when linking to…
+Use the Publisher URL (of the form https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). Note that you should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
 
-* an anchor within a page
+#### Exception to this rule (important)
 
-* any page accessed via the top navigation
+Use the live URL (of the form https://www.gov.uk/government/organisations/ministry-of-defence/series/firing-notice) when linking to any page that is not a document (organisation pages, people, groups, document series, search pages etc).
 
-	![Add links 3](add-links-3.png)
+Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct URL. Don’t use any URLs accessed via Publisher. You cannot use the relative path, you will need the full URL.
 
-Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct url. Don’t use any urls accessed via the admin site.
+### Anchor links
 
+Publisher creates anchor links automatically, based on the H2s that you put into your document. If you wish to link to these bookmarked sections, you just need to add a hashtag sign \# and the H2 slug to the end of the live URL like this: https://www.gov.uk/maritime-security#ship-security-plans.
 
-#### Use the admin url when linking to...
-* any document made by the ‘create new document’ button
-![Add links 4](add-links-4.png)
+Anchor links for corporate pages include:
+
+* https://www.gov.uk/government/organisations/ministry-of-defence#corporate-info
+* https://www.gov.uk/government/organisations/ministry-of-defence#high-profile-units
+* https://www.gov.uk/government/organisations/ministry-of-defence#management
+* https://www.gov.uk/government/organisations/ministry-of-defence#ministers
+* https://www.gov.uk/government/organisations/ministry-of-defence#org-contacts
+* https://www.gov.uk/government/organisations/ministry-of-defence#people
+* https://www.gov.uk/government/organisations/ministry-of-defence#policies
+* https://www.gov.uk/government/organisations/ministry-of-defence#topics
+* https://www.gov.uk/government/organisations/ministry-of-defence#what-we-do
