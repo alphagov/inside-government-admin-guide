@@ -64,9 +64,13 @@ It’s easy to re-order or reposition the attachments by where you choose to pla
 You can also upload files in bulk.
 
 * Create a zip file containing all the documents you want to upload.
-* On a saved document, select 'Edit'
+* On a saved document, select 'Edit' and go to the attachments tab.
 
 ![Editing a docoument 3](editing-a-doc-3.png)
+
+* Select the zip file upload option.
+* 
+![Add attachments 10](add-attachments-10.png)
 
 * Click the 'choose file' button and upload the zip file. You will get a listing of all the uploaded files, awaiting their titles and metadata.
 
