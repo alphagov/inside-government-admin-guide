@@ -21,4 +21,4 @@ We have 2 separate environments in Publisher.
 
    ![Logging in 1](logging-in.png)
   
-You will land on the dashboard, from which you can access your draft documents, support and more. Find out more about [using your dashboard](http://alphagov.github.io/inside-government-admin-guide/your-account/your-dashboard). 
+You will land on the dashboard, from which you can access your draft documents, support and more. Find out more about [using your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html). 
