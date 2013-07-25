@@ -27,7 +27,24 @@ A new document appears.
 
 ### Title and summary
 
-There is general guidance on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data) as there is guidance on how to write titles for each one.
+There is general guidance on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data, consultations) as there is guidance on how to write titles for each one, with examples.
+
+Headings must:
+
+* be maximum 65 characters 
+* use active voice (for guidance) 
+* use plain English
+* be front loaded with search engine optimisation terms
+* be fully in context
+* avoid re-use of the content type, the speaker's name (for speeches) or the organisation name - these are all shown on the page and in search results
+
+Summaries must:
+
+* explain what is in the content
+* be full sentences or clear descriptions with a full stop
+* be maximum 140 characters
+* incorporate keywords and names that might be used in search
+* use plain English
 
 ### Body copy
 
