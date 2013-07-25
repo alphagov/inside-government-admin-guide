@@ -36,7 +36,7 @@ title: Inside Government Admin Guide - Index
 
 
 ## Organisations, people and groups
-* [Organisation home page and ‘About us’](editing-other-pages/organisation-home-page.html)
+* [Organisation home page and ‘About us’](organisations-groups/organisation-home-page.html)
 * [Feature documents on your homepage](editing-other-pages/feature-documents-homepage.html)
 * [People and roles: create and assign](editing-other-pages/people-and-roles.html)
 * [Document series: create, populate and delete](editing-other-pages/document-series.html)
