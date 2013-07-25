@@ -27,7 +27,7 @@ A new document appears.
 
 ### Title and summary
 
-There is general guidance on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data, consultations) as there is guidance on how to write titles for each one, with examples.
+There is general guidance in the style guide on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data, consultations) as there is guidance on how to write titles for each one, with examples.
 
 Titles must:
 
