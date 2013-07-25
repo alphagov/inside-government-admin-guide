@@ -23,11 +23,13 @@ An external link icon appears automatically on any non GOV.UK web addresses.
 
 Put the text you want to click in \[square brackets\] and the internal URL in curved brackets, with no space between them.
 
-Use the Publisher URL (of the form https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). You should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
+Use the Publisher URL (like https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). 
+
+You should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
 
 #### Exception to this rule (important)
 
-Use the live URL (of the form https://www.gov.uk/government/organisations/ministry-of-defence/series/firing-notice) when linking to any page that is not a document (organisation pages, people, groups, document series, search pages etc).
+Use the live URL (like https://www.gov.uk/government/organisations/ministry-of-defence/series/firing-notice) when linking to any page that is not a document (organisation pages, people, groups, document series, search pages etc).
 
 Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct URL. Don’t use any URLs accessed via Publisher. You cannot use the relative path, you will need the full URL.
 
