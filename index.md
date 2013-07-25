@@ -4,29 +4,29 @@ title: Inside Government Admin Guide - Index
 ---
 
 ## Your account
-* [Get an account](your-account/get-an-account.html)
+* [Get an account](your-account/get-an-account.html) (including types of account)
 * [Log in](your-account/log-in.html)
 * [Forgot your passphrase](your-account/forgot-your-passphrase.html)
 
 
 ## First steps
-* [Top navigation - finding your way around Publisher](first-steps/top-navigation.html)
+* [Find your way around Publisher](first-steps/top-navigation.html)
 * [Your dashboard](first-steps/your-dashboard.html)
-* [Document hub for finding documents](first-steps/document-hub.html)
+* [Find documents](first-steps/document-hub.html) - using filters on Publisher
 * [Support from GDS](first-steps/support-from-GDS.html)
 
 
 ## Create and publish documents
-* [Document types](creating-documents/document-types.html)
+* [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
 * [Create a new document](creating-documents/create-a-new-doc.html)
-* [Use Markdown to format headers, links, bullets, tables, acronyms and blockquotes](creating-documents/markdown.html)
-* [Add images](creating-documents/add-images.html)
-* [Add attachments](creating-documents/add-attachments.html)
-* [Add associations - tagging and metadata](creating-documents/add-associations.html)
-* [Add internal links](creating-documents/add-links.html)
+* [Use Markdown to format text](creating-documents/markdown.html) - headers, links, bullets, tables, acronyms, blockquotes
+* [Add images](creating-documents/add-images.html) - size and positioning
+* [Add attachments](creating-documents/add-attachments.html) - uploading to Publisher
+* [Add associations](creating-documents/add-associations.html) - tagging and metadata
+* [Add internal links](creating-documents/add-links.html) 
 * [Preview your work](creating-documents/preview-your-work.html)
 * [Scheduled publishing](creating-documents/scheduled-publishing.html)
-* [Edit a published document, including change notes](creating-documents/edit-a-published-doc.html)
+* [Edit a published document](creating-documents/edit-a-published-doc.html) (including change notes)
  
 
 ## Workflow for managing content 
