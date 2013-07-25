@@ -29,7 +29,7 @@ A new document appears.
 
 There is general guidance on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data, consultations) as there is guidance on how to write titles for each one, with examples.
 
-Headings must:
+Titles must:
 
 * be maximum 65 characters 
 * use active voice (for guidance) 
