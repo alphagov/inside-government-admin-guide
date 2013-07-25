@@ -17,12 +17,12 @@ You can also ask GDS to:
 * create new organisations or ministerial roles
 * create worldwide organisations
 
-You can also tell us about your needs for Publisher:
+You can also tell us about your needs for Publisher, or report problems like:
 
-* tell us about new user needs that current formats don't accommodate
-* request new features
-* report bugs or issues
-* request analytics reports
+* new user needs that current formats don't accommodate
+* new features
+* bugs or issues
+* analytics reports
 * general feedback
 
 Basically, anything which you think requires an action on our part should be raised through that form.
