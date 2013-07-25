@@ -16,11 +16,11 @@ Attachments can't be added until after the document has been saved.
 ![Editing a docoument 3](editing-a-doc-3.png)
 
 * Select 'Upload an attachment' 
-* Fill in the title: use the title of the document as it appears on the cover. 
-* Fill in the rest of the metadata as required. These fields are searchable and may help your users to find the document (eg reference numbers for FOI requests).
 
 ![Add associations 7](add-associations-7.png)
 
+* Fill in the title: use the title of the document as it appears on the cover. 
+* Fill in the rest of the metadata as required. These fields are searchable and may help your users to find the document (eg reference numbers for FOI requests).
 * Upload the first attachment by clicking the 'Choose file' button.
 
 ![Add attachments 6](add-attachments-6.png)
