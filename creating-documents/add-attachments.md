@@ -7,7 +7,7 @@ title: How to publish content / Add attachments
 
 You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
 
-Attachments can't be added until after the document has been saved.
+You will have to save the document before you add any attachments (you can't add attachments at the create document stage). 
 
 ## Upload attachment(s) individually
 
