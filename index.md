@@ -26,26 +26,26 @@ title: Inside Government Admin Guide - Index
 * [Add links](creating-documents/add-links.html) 
 * [Preview your work](creating-documents/preview-your-work.html) 
 * [Scheduled publishing](creating-documents/scheduled-publishing.html) 
-* [Edit a published document](creating-documents/edit-a-published-doc.html) - and add change notes
+* [Edit a published document](creating-documents/edit-a-published-doc.html) - add change notes
  
 
 ## Workflow for managing content 
-* [Fact check for external stakeholders or policy teams](workflow-content/fact-checking.html)
+* [Fact check](workflow-content/fact-checking.html) - for external stakeholders or policy teams
 * [Second pair of eyes](workflow-content/second-pair-of-eyes.html)
-* [Limit editor access for sensitive documents](workflow-content/limiting-access.html)
+* [Limit editor access](workflow-content/limiting-access.html) - for sensitive documents
 
 
 ## Organisations, people and groups
-* [Organisation home page and ‘What we do’](organisations-groups/organisation-home-page.html)
+* [Organisation home page](organisations-groups/organisation-home-page.html) - and ‘What we do’
 * [Feature documents on your homepage](organisations-groups/feature-documents-home-page.html)
-* [People and roles: create and assign](organisations-groups/people-and-roles.html)
-* [Document series: create, populate or delete](organisations-groups/document-series.html)
+* [People and roles](organisations-groups/people-and-roles.html) - create and assign
+* [Document series](organisations-groups/document-series.html) -create, populate or delete
 * [Sub-organisations](organisations-groups/sub-organisations.html)
 * [Teams and groups](organisations-groups/teams-groups.html)
 
 
 ## Worldwide network
-* [Translating content](worldwide-network/translating-docs.html)
+* [Translate content](worldwide-network/translating-docs.html)
 * [World locations](worldwide-network/world-locations.html)
 * [World location news article](worldwide-network/world-location-news-article.html)
 * [Worldwide organisations](worldwide-network/worldwide-organisations.html)
