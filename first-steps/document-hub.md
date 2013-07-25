@@ -1,64 +1,67 @@
 ---
 layout: default
-title: How to publish content / Document hub
+title: How to publish content / Find documents
 ---
 
-## Document hub
+## Find documents - using the filters on Publisher
 
 Click on the 'Documents' link on the top navigation to get to the documents hub. 
 
-   ![Document hub 1](document-hub-1.png)
+![Document hub 1](document-hub-1.png)
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list to find the document you want.
 
-   ![Document filters 1](document-filters-1.png)
+![Document filters 1](document-filters-1.png)
 
 You can use just one filter or several - they will all act together.
 
 
 ### Filter by title or slug
 
-You can filter using consecutive words from the document's title or the slug of the public-facing URL. 
+This looks like a search box but actually filters the text to find the words you type. You can filter using consecutive words from the document's title or the slug of the public-facing URL. 
 
-   ![Document filters 2](document-filters-2.png)
+![Document filters 2](document-filters-2.png)
 
-* Type in a word or phrase (must be consecutive words) and hit return.
-* Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer').
+Type in a word or phrase (must be consecutive words) and hit return.
+
+...or...
+
+Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer').
 
 
 ### Filter by author or organisation.
 
 You can filter documents by any department or agency, or you can find documents that have been created or edited by yourself or other colleagues.
 
-   ![Document filters 3](document-filters-3.png)
+![Document filters 3](document-filters-3.png)
 
 * Click on 'Me' to bring up documents that you have created or edited.
 * Click on 'My department' for anyone in your team. 
 * Use the dropdown menu for other organisations, or start typing the organisation name to find them more quickly.
 
-   ![Document filters 4](document-filters-4.png)
+![Document filters 4](document-filters-4.png)
 
 * Click on 'Everyone' to see all documents. 
 * Use the dropdown menu for other authors, or start typing a colleague's name to find them more quickly.
 
-   ![Document filters 5](document-filters-5.png)
+![Document filters 5](document-filters-5.png)
 
 
 ### Filter by world location   
 
 Government offices overseas can filter documents by their world location (generally a country).
 
-   ![Document filters 6](document-filters-6.png)
+![Document filters 6](document-filters-6.png)
 
 * Start typing a world location into the search box. 
 * Click on the search box to open a dropdown menu you can pick from.
 
-   
+
 ### Filter by kind
 
 You can filter documents by their type (publication, policy, news article etc).
 
-   ![Document filters 7](document-filters-7.png)
+![Document filters 7](document-filters-7.png)
 
 * Click on ‘Policies’ and the document list will update to show only policies.
 * Click ‘All’ to see every document type again.
@@ -68,8 +71,8 @@ You can filter documents by their type (publication, policy, news article etc).
 
 You can filter documents by their state (draft, scheduled, published etc).
 
-   ![Document filters 8](document-filters-8.png)
-   
+![Document filters 8](document-filters-8.png)
+
 * ‘All’ shows every document.
 * 'Imported (pre-draft)' is used by departments and agencies in transition. Click on it to see documents that have been imported that you need to tag and tidy.
 * 'Drafts' shows documents that are a work in progress.
