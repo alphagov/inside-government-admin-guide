@@ -38,13 +38,12 @@ There is general guidance on how to write [titles and summaries](https://www.gov
 * Assign a lead department (this will be defaulted to your own department).
 * Assign an email address for ordering this publication in an alternative format - choose from drop-down list and consult with your transition manager or department lead editor if you are not sure which one is correct.
 
-Make sure you save your work. 
+### Save the document
 
-* 'Save' will return you to the document listing.
-* 'Save and continue editing' will take you back to the document to add images or attachments, make associations or re-edit content.
+* 'Save' will return you to the main document list.
+* 'Save and continue editing' lets you return to your document to add either [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) or [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) or both.
 * 'Cancel' will stop the creation of your document.
 
 ![Create new document 4](creating-a-new-doc-4.png)
 
-For most documents, you will need to add either [attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) or [associations](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-associations.html) or both, so you will need to continue editing.
 
