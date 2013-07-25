@@ -20,12 +20,12 @@ title: How to publish content / Index
 * [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
 * [Create a new document](creating-documents/create-a-new-doc.html)
 * [Use Markdown to format text](creating-documents/markdown.html) - headers, bullets, tables, acronyms, blockquotes
-* [Add images](creating-documents/add-images.html) 
+* [Add images and videos](creating-documents/add-images.html) 
 * [Add attachments](creating-documents/add-attachments.html) 
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
 * [Add links](creating-documents/add-links.html) 
 * [Preview your work](creating-documents/preview-your-work.html) 
-* [Scheduled publishing](creating-documents/scheduled-publishing.html) 
+* [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/edit-a-published-doc.html) - add change notes
  
 
