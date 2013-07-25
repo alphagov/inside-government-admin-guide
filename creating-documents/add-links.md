@@ -23,7 +23,7 @@ An external link icon appears automatically on any non GOV.UK web addresses.
 
 Put the text you want to click in \[square brackets\] and the internal URL in curved brackets, with no space between them.
 
-Use the Publisher URL (of the form https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). Note that you should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
+Use the Publisher URL (of the form https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). You should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
 
 #### Exception to this rule (important)
 
@@ -46,3 +46,9 @@ Anchor links for corporate pages include:
 * https://www.gov.uk/government/organisations/ministry-of-defence#policies
 * https://www.gov.uk/government/organisations/ministry-of-defence#topics
 * https://www.gov.uk/government/organisations/ministry-of-defence#what-we-do
+
+### Style for links
+
+You should write clear link text to tell the user about the page they will land on if they click. It should be part of the running text, not single words and never 'click here' or similar. Make sure that there are not too many links in your body text and never more than 1 per sentence.
+
+You don't need to put hover text on links. 
