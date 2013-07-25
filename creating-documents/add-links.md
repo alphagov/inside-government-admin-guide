@@ -7,7 +7,7 @@ title: Inside Government Admin Guide - Add links
 
 ### Add external links
 
-Links can be added to the body copy of any document format.
+You can add links anywhere in body text, but not in titles, summaries or sub-headers.
 
 Put the text you want to click in \[square brackets\] and the external URL in curved brackets, with no space between them.
 
@@ -18,8 +18,6 @@ Click the preview toggle to check your URLs are valid.
 ![Preview your work 1](preview-your-work-1.png)
 
 An external link icon appears automatically on any non GOV.UK web addresses.
-
-![Add links 2](add-links-2.png)
 
 ### Add internal links to GOV.UK pages
 
