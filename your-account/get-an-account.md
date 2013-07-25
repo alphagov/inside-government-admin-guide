@@ -5,7 +5,7 @@ title: How to publish content / Get an account
 
 ## Get an account
 
-We have 2 separate environments, Production and Preview, and you need to create an account on each. You'll receive 2 emails inviting you to create these accounts.
+We have 2 separate environments, Production and Preview, and you need to create a login on each. You'll receive 2 emails inviting you to create these accounts.
 
 * Click on the 'Accept invitation' link in each email and follow the steps below for each account.
 
@@ -37,4 +37,18 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
 If it is your first time in Publisher, you’ll be asked to confirm we can use your email account. Just click ‘Authorise’ and you’re ready to go.
 
-Find out more about getting started with the [top navigation](http://alphagov.github.io/inside-government-admin-guide/first-steps/top-navigation.html) or [your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
+## Types of account
+
+Department and agency web editors will generally be given 'editor' status. If you don't publish content and will use Publisher only for writing and editing copy, you will be a 'writer' status. This means you won't be able to publish content, but you will be able to carry out [second eye](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html).
+
+Your manager will tell GDS which type of account you need. 
+
+## Requesting an account
+
+If you don't have an account and you need one, ask your manager to contact [GDS support](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so.
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Find out [how to use your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
