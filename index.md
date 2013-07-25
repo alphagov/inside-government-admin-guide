@@ -4,7 +4,7 @@ title: Inside Government Admin Guide - Index
 ---
 
 ## Your account
-* [Get an account](your-account/get-an-account.html) (including types of account)
+* [Get an account](your-account/get-an-account.html) - and types of account
 * [Log in](your-account/log-in.html)
 * [Forgot your passphrase](your-account/forgot-your-passphrase.html)
 
@@ -23,10 +23,10 @@ title: Inside Government Admin Guide - Index
 * [Add images](creating-documents/add-images.html) - size and positioning
 * [Add attachments](creating-documents/add-attachments.html) - uploading to Publisher
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
-* [Add internal links](creating-documents/add-links.html) 
-* [Preview your work](creating-documents/preview-your-work.html)
-* [Scheduled publishing](creating-documents/scheduled-publishing.html)
-* [Edit a published document](creating-documents/edit-a-published-doc.html) (including change notes)
+* [Add links](creating-documents/add-links.html) - and how to format internal links
+* [Preview your work](creating-documents/preview-your-work.html) - using preview toggle and preview button
+* [Scheduled publishing](creating-documents/scheduled-publishing.html) 
+* [Edit a published document](creating-documents/edit-a-published-doc.html) - including change notes
  
 
 ## Workflow for managing content 
@@ -37,11 +37,11 @@ title: Inside Government Admin Guide - Index
 
 ## Organisations, people and groups
 * [Organisation home page and ‘About us’](organisations-groups/organisation-home-page.html)
-* [Feature documents on your homepage](editing-other-pages/feature-documents-homepage.html)
-* [People and roles: create and assign](editing-other-pages/people-and-roles.html)
-* [Document series: create, populate and delete](editing-other-pages/document-series.html)
-* [Sub-organisations](editing-other-pages/sub-organisations.html)
-* [Teams and groups](editing-other-pages/teams-groups.html)
+* [Feature documents on your homepage](organisations-groups/feature-documents-homepage.html)
+* [People and roles: create and assign](organisations-groups/people-and-roles.html)
+* [Document series: create, populate and delete](organisations-groups/document-series.html)
+* [Sub-organisations](organisations-groups/sub-organisations.html)
+* [Teams and groups](organisations-groups/teams-groups.html)
 
 
 ## Worldwide network
