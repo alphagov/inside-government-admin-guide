@@ -1,28 +1,29 @@
 ---
 layout: default
-title: How to publish content / Top navigation
+title: How to publish content / Find your way
 ---
 
-## Top navigation
+## Find your way around Publisher
 
-Use the top navigation to access content that's about your department (eg your homepage, contact details, policy teams etc). 
+Use the top navigation to access content that's about your department (eg your home page, contact details, policy teams etc). 
 
 ![Top navigation 1](top-navigation-1.png)
 
-* Click on 'IG Admin' to go to your dashboard.
-* Click on ‘Documents’ to go to the document hub.
+* Click on 'IG Admin' to go to [your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
+* Click on ‘Documents’ to go to the [document listing](http://alphagov.github.io/inside-government-admin-guide/first-steps/document-hub.html).
 * Click on 'View website' to visit the live GOV.UK website.
 * Click on the plus sign to [create a new document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
-* 'Document series' let you collect related content together (eg ‘spending over £25,000’ or ‘statutory guidance for headmasters on admissions’)
-* Click on your organisation's name to manage your homepage etc. If the wrong organisation is shown here please get in touch and we’ll fix it.
-	
-	
-Click the 'More' link to see more content managed sections.
+* Click on 'Document series' to see a list of all your department's [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) and create new ones.
+* Click on your organisation's name to [manage your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html), corporate pages, people and groups. If the wrong organisation is shown here please get in touch and we’ll fix it.
 
 ![Top navigation 2](top-navigation-2.png)
+
+Click the 'More' link to see more content managed sections.
+
 ![Top navigation 3](top-navigation-3.png)
 
-* Click any of these links to see lists of content in each section. Some of this content is edited by you, other parts carry a message to ask GDS to carry out or approve content creation. 
+Click any of these links to access content creation. Some of this content is created and edited by you, but sometimes you'll need to ask GDS to carry out or approve content creation. You'll see a message in red if this is the case.
 
-	
+
+
 	
