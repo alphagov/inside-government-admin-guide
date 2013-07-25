@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Index
+title: How to publish content / Index
 ---
 
 ## Your account
