@@ -19,14 +19,14 @@ title: Inside Government Admin Guide - Index
 ## Create and publish documents
 * [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
 * [Create a new document](creating-documents/create-a-new-doc.html)
-* [Use Markdown to format text](creating-documents/markdown.html) - headers, links, bullets, tables, acronyms, blockquotes
-* [Add images](creating-documents/add-images.html) - size and positioning
-* [Add attachments](creating-documents/add-attachments.html) - uploading to Publisher
+* [Use Markdown to format text](creating-documents/markdown.html) - headers, bullets, tables, acronyms, blockquotes
+* [Add images](creating-documents/add-images.html) 
+* [Add attachments](creating-documents/add-attachments.html) 
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
-* [Add links](creating-documents/add-links.html) - and how to format internal links
-* [Preview your work](creating-documents/preview-your-work.html) - using preview toggle and preview button
+* [Add links](creating-documents/add-links.html) 
+* [Preview your work](creating-documents/preview-your-work.html) 
 * [Scheduled publishing](creating-documents/scheduled-publishing.html) 
-* [Edit a published document](creating-documents/edit-a-published-doc.html) - including change notes
+* [Edit a published document](creating-documents/edit-a-published-doc.html) - and add change notes
  
 
 ## Workflow for managing content 
