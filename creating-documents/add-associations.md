@@ -3,21 +3,21 @@ layout: default
 title: How to publish content / Add associations
 ---
 
-## Add associations (metadata and tagging)
+## Add associations (tagging and metadata)
 
 You can tag your document to organisations, topics, policies, ministers and international locations (depending on content format).
 
 Associations are found below the document body text, just underneath the upload images section. 
-	
+
 * Click within the association field drop-down menu appears showing all the possible values you can enter.  	
 * Start typing and it will narrow down your available options.
-	
-![Add associations 2](add-associations-2.png)
-	
-* Once you've selected an option it appears in a rectangle.
 
+![Add associations 2](add-associations-2.png)
+
+* Once you've selected an option it appears in a rectangle.
+* 
 ![Add associations 3](add-associations-3.png)
-	
+
 * To remove it, click the ‘x’.
 
 ### Mandatory associations
@@ -31,10 +31,10 @@ You must:
 * tag to a speaker for a speech (see below)
 
 ![Add associations 1](add-associations-1.png)
-	
-### Choose other associations to use
 
-Use associations sparingly. On policies or topics, for example, 1 is best and any more than 3 is too many.
+### Add more associations
+
+Use associations purposefully but sparingly. On policies or topics, for example, 1 is best and any more than 3 is too many.
 
 #### Associations for publications and consultations
 
