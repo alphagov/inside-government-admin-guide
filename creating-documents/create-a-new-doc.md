@@ -5,7 +5,7 @@ title: How to publish content / Create a new document
 
 ## Create a new document
 
-Click the ‘Create new document’ button.
+From the documents list, click the ‘Create new document’ button.
 
 ![Create new document 1](creating-a-new-doc-1.png)
 
@@ -19,7 +19,6 @@ A drop-down menu appears. Pick the [document type](http://alphagov.github.io/ins
 
 A new document appears.
 
-* You don't add the slug: this is automatically created when you publish the page, based on your chosen title.
 * Enter text into the title, summary and body fields as needed.
 * When you've entered some text, click the preview toggle to see what your page will look like.
 * Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/creating-documents/markdown.html) - to add headings, links, quotes and more.
