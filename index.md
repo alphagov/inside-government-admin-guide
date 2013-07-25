@@ -4,7 +4,7 @@ title: Inside Government Admin Guide - Index
 ---
 
 ## Your account
-* [Get an account](your-account/get-an-account.html) - and types of account
+* [Activate your account](your-account/get-an-account.html) 
 * [Log in](your-account/log-in.html)
 * [Forgot your passphrase](your-account/forgot-your-passphrase.html)
 
