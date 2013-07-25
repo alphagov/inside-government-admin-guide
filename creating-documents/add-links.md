@@ -5,13 +5,13 @@ title: Inside Government Admin Guide - Add links
 
 ## Add links
 
-### Add externallinks
+### Add external links
 
 Links can be added to the body copy of any document format.
 
-Put the text you want to click in \[square brackets\], the web address in (curved brackets together with any hover text in "quote marks").
+Put the text you want to click in \[square brackets\] and the external URL in curved brackets, with no space between them.
 
-![Add links 1](add-links-1.png)
+![Markdown 3](markdown-3.png)
 
 Click the preview toggle to check your URLs are valid.
 
@@ -21,6 +21,8 @@ An external link icon appears automatically on any non GOV.UK web addresses.
 
 ### Add internal links to GOV.UK pages
 
+Put the text you want to click in \[square brackets\] and the internal URL in curved brackets, with no space between them.
+
 Use the Publisher URL (of the form https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/221540) when linking to any document made by the ‘create new document’ button (publications, consultations, speeches etc). Note that you should delete the first part of the URL and use the relative path: /government/admin/publications/221540.
 
 #### Exception to this rule (important)
@@ -29,7 +31,7 @@ Use the live URL (of the form https://www.gov.uk/government/organisations/minist
 
 Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct URL. Don’t use any URLs accessed via Publisher. You cannot use the relative path, you will need the full URL.
 
-### Anchor links
+### Add anchor links
 
 Publisher creates anchor links automatically, based on the H2s that you put into your document. If you wish to link to these bookmarked sections, you just need to add a hashtag sign \# and the H2 slug to the end of the live URL like this: https://www.gov.uk/maritime-security#ship-security-plans.
 
