@@ -25,11 +25,11 @@ A new document appears.
 ![Create new document 3](creating-a-new-doc-3.png)
 
 
-## Title and summary
+### Title and summary
 
 There is general guidance on how to write [titles and summaries](https://www.gov.uk/designprinciples/detailedguides#detailed-guides). You should also check the style guide on specific content types (eg transparency data) as there is guidance on how to write titles for each one.
 
-## Body copy
+### Body copy
 
 * You can type directly into the text box for 'Body' or paste in any text from other sources. It does not need to be plain text.
 * Use the simple commands on the right of the page - called [Markdown](/inside-government-admin-guide/creating-documents/markdown.html) - to format headings, links, quotes and more.
