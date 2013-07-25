@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to publish content / Get an account
+title: How to publish content / Activate your account
 ---
 
-## Get an account
+## Activate your account
 
 We have 2 separate environments, Production and Preview, and you need to create a login on each. You'll receive 2 emails inviting you to create these accounts.
 
