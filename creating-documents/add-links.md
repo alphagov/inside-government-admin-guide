@@ -15,6 +15,8 @@ Put the text you want to click in \[square brackets\] and the external URL in cu
 
 Click the preview toggle to check your URLs are valid.
 
+![Preview your work 1](preview-your-work-1.png)
+
 An external link icon appears automatically on any non GOV.UK web addresses.
 
 ![Add links 2](add-links-2.png)
