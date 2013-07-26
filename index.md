@@ -26,7 +26,7 @@ title: How to publish content / Index
 * [Add links](creating-documents/add-links.html) 
 * [Preview your work](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
-* [Edit a published document](creating-documents/edit-a-published-doc.html) - add change notes
+* [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
  
 
 ## Workflow for managing content 
