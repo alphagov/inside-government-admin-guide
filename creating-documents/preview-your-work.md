@@ -3,7 +3,7 @@ layout: default
 title: How to publish content / Preview your work
 ---
 
-## Preview your work
+## Preview your work and submit for publication
 
 You can preview the body copy of your document in several ways. 
 
@@ -39,7 +39,9 @@ Make sure you don't accidentally put your home page live on the Production site 
 
 You can use [fact check](http://alphagov.github.io/inside-government-admin-guide/workflow-content/fact-checking.html) to send preview documents (policies, publications, consultations etc) to people without Publisher accounts. Fact check does not currently work for organisation home pages or corporate pages.
 
+### Submit a document for publication
 
+Click the green 'Submit' button. Your document should be picked up by [second pair of eyes](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) so it can be checked and published.
 
 
 
