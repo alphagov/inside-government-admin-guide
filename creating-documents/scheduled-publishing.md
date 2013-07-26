@@ -5,28 +5,27 @@ title: Inside Government Admin Guide - Scheduled publishing
 
 ## Scheduled publishing
 
-1. Any document type can be scheduled for publication.
+Any document type can be scheduled for publication.
 
-	![Scheduled publishing 1](scheduled-publishing-1.png)
- 
-2. Click the 'Schedule for publication' checkbox and date/ time controls appear.
+![Scheduled publishing 1](scheduled-publishing-1.png)
 
-	![Scheduled publishing 2](scheduled-publishing-2.png)
- 
-3. Set the date/ time you'd like the page to go live then save the page.
+Click the 'Schedule for publication' checkbox and date/ time controls appear.
 
-	![Scheduled publishing 3](scheduled-publishing-3.png)
- 
-4. Click the ‘Submit’ button.
+![Scheduled publishing 2](scheduled-publishing-2.png)
 
-	![Scheduled publishing 4](scheduled-publishing-4.png)
- 	
-	Content will only go live if:
+Set the date/ time you'd like the page to go live then save the page.
+
+![Scheduled publishing 3](scheduled-publishing-3.png)
+
+Click the ‘Submit’ button.
+
+![Scheduled publishing 4](scheduled-publishing-4.png)
+
+Content will only go live if:
 	
-	A colleague [Second pair of eyes](second-pair-of-eyes.html) the document
-	
-	It is 'Force Scheduled' (should only be used in emergencies)
+* it is force scheduled (should only be used in emergencies)
+* a colleague [second eyes](second-pair-of-eyes.html) the document more than 30 minutes prior to publication
 
 
-
+If you use scheduled publishing a lot, it's a good idea to [read the blog post on the caching and exact timings](https://insidegovuk.blog.gov.uk/2013/07/12/caches-scheduled-publishing-and-consultations/) for successful publication.
 
