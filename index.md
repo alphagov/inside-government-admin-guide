@@ -31,7 +31,7 @@ title: How to publish content / Index
 * [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html)
 
 ## Workflow for managing content 
-* [Fact check](workflow-content/fact-checking.html) - for external stakeholders or policy teams
+* [Fact check: sharing pages with colleagues](workflow-content/fact-checking.html) - for external stakeholders or policy teams
 * [Second pair of eyes](workflow-content/second-pair-of-eyes.html)
 * [Limit editor access](workflow-content/limiting-access.html) - for sensitive documents
 
