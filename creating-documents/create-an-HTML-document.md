@@ -9,7 +9,7 @@ First, create a publication page to house your HTML publication. [See guidance o
 
 * Scroll down to below the page body text to the box for HTML version.
 
-![HTML publication](HTML-publication.png)
+![HTML publication](creating-documents/HTML-publication.png)
 
 * Give the publication a title and summary, just as you would when attaching a file.
 * In the body text, use Markdown to format the text just as in the rest of Publisher.
