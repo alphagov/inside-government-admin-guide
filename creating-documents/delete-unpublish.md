@@ -13,7 +13,9 @@ Removing GOV.UK content after it’s been published is a poor experience for use
 
 ##Requests for short URLs
 
-Decisions are made by GDS based on user need. It is useful if you read [our blog post on friendly URLs](http://inside-inside-gov.tumblr.com/post/47775179301/short-urls-for-organisations-profile-pages) before getting in touch.
+URLs are automatically created from the page title when you publish the page. They cannot be changed and the path is fixed by Publisher. 
+
+Decisions on creating short URLs are made by GDS based on user need. It is useful if you read [our blog post on friendly URLs](http://inside-inside-gov.tumblr.com/post/47775179301/short-urls-for-organisations-profile-pages) before getting in touch.
 
 
 ##Impossible requests
