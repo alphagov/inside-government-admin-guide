@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Scheduled publishing
+title: How to publish content / Schedule a document
 ---
 
-## Scheduled publishing
+## Schedule a document for timed publication
 
 Any document type can be scheduled for publication.
 
