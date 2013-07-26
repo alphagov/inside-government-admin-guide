@@ -12,7 +12,7 @@ There is a simple passphrase reset request on the login screen. It is also usefu
    * [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk)
    * [https://signon.production.alphagov.co.uk](https://signon.production.alphagov.co.uk)
 
-* You should be prompted for the ‘betademo’ username and password.
+* You should be prompted for the GOV.UK username and password. This is NOT your personal username and password but the one that's the same for all users.
 
    ![Get an account 5](get-an-account-5.png)
 
@@ -24,4 +24,6 @@ There is a simple passphrase reset request on the login screen. It is also usefu
 
    ![Forgot your password 2](forgot-your-password-2.png)
 
-Password reset instructions will be sent to the email address if it is registered with us.
+Password reset instructions will be sent to the email address if it is registered with us. If you can't find them, check your spam filter.
+
+Some IT departments block these emails so that's also worth checking.

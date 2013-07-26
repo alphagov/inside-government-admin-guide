@@ -13,11 +13,11 @@ We have 2 separate environments in Publisher.
 
 (All content on Preview is overwritten every week, so it's not a good place to create any documents you wish to keep.)
 
-* You should be prompted for the ‘betademo’ username and password (same for all users).
+* You should be prompted for the username and password. This is NOT your personal username and password but the one that's the same for all users.
 
    ![Get an account 5](get-an-account-5.png)
    
-* Next enter your official government email address and your chosen passphrase.
+* Next enter your email address and your chosen passphrase.
 
    ![Logging in 1](logging-in.png)
   

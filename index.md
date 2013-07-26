@@ -22,12 +22,13 @@ title: How to publish content / Index
 * [Use Markdown to format text](creating-documents/markdown.html) - headers, bullets, tables, acronyms, blockquotes
 * [Add images and videos](creating-documents/add-images.html) 
 * [Add attachments](creating-documents/add-attachments.html) 
+* [Add remarks](creating-documents/add-remarks.html) 
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
 * [Add links](creating-documents/add-links.html) 
 * [Preview your work](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
- 
+* [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html)
 
 ## Workflow for managing content 
 * [Fact check](workflow-content/fact-checking.html) - for external stakeholders or policy teams
