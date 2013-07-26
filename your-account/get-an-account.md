@@ -5,7 +5,7 @@ title: How to publish content / Activate your account
 
 ## Activate your account
 
-We have 2 separate environments, Production and Preview, and you need to create a login on each. You'll receive 2 emails inviting you to create these accounts.
+We have 2 separate environments, Production and Preview, and you need to create a login on each. Ask GDS to create the accounts by filling in the [support form](https://www.gov.uk/support/internal). You’ll receive 2 emails inviting you to create these accounts.
 
 * Click on the 'Accept invitation' link in each email and follow the steps below for each account.
 * 
