@@ -1,31 +1,78 @@
 ---
 layout: default
-title: How to publish content / Organisation home page and ‘About us’
+title: How to publish content / Organisation home page and ‘What we do’
 ---
 
-## Organisation home page and ‘About us’
+## Organisation home page and ‘What we do’
 
-Use the top nav to create and edit these types
+Click on your organisation name to open your home page hub. 
 
-![You can edit 1](you-can-edit-1.png) 
+![Organisation 1](organisation-1.png) 
    
+From this hub you can edit the text on your home page, set your home page status, add corporate pages and write the text for 'What we do'.
 
-### Organisation homepage
+* From your organisation hub, click 'Details' tab.
+* Scroll down and click on the blue 'Edit' button.
+* Check your organisation's status on GOV.UK (this is below the description field and above 'Associations'). 
 
-Collects together featured stories, latest content, ‘what we do’ description, policies, topics, key people and contact information.
+![Organisation 2](organisation-2.png) 
 
-[Example](https://www.gov.uk/dft)
+#### Organisations in transition
 
-[Instructions](homepage.html)
+**Do not change the status to 'Live' unless your organistion is due to launch and you have agreed this with your transition manager**
+
+* If you make changes to the 'Name', 'Logo' or 'Description' fields these will appear immediately on the live site.
+* With the status set to 'Coming soon' or 'Currently transitioning' you can make changes below the status field that will not appear on the live site.
+
+#### Organisations that have gone live
+
+**Do not change the status from 'Live' to anything else or your organisation will disappear from GOV.UK**
+
+* If you make changes to any part of the details - 'Name', 'Logo', 'Description' or 'About us', these changes will appear instantly on the live site.
+
+### Complete the details 
+
+* From your organisation hub, click 'Details' tab.
+
+![Organisation 3](organisation-3.png) 
+
+* Scroll down and click on the blue 'Edit' button.
+
+The first part of the details will already be complete. Let your transition manager know if you need to change anything. 
+
+* You will need a default image for news articles. Upload this by clicking the 'Choose file' button. You need a jpeg, gif or png file of a generic photo that reflects your organisation, size 960 x 640 pixels, minimum 75 dpi.
+* There is no need to delete your old URL from the details, this will disappear once your organistion has launched.
+* You will need an email address for ordering publications or consultations in alternative formats: find out what it is if this is not filled in.
+* You will need to show your sponsoring department or agency, and the topics and categories where your organisation has responsibilities. Fill these in after consultation with your sponsoring organisation.
+* Fill in Mainstream links to feature on your home page - these will be pages that are popular with your users.
+
+### Write the 'What we do' section
+
+Refer to the [style guide 6.0: What we do](https://www.gov.uk/designprinciples/insidegovernment#what-we-do) for guidance on how to write this section.
+
+* 'What we do' is the short summary in a large font that appears on your home page. It comes from the 'description' field at the top of the details page and does not need to be repeated.
+* Scroll down to the bottom of the 'Details' tab: in the 'About us' box, write your organisation's priorities, responsibilities and 'Who we are' content.
+* Use [Markdown](http://alphagov.github.io/inside-government-admin-guide/creating-documents/markdown.html) to format your text.
+
+### Add contacts
+
+* From your organisation hub, click 'Contacts' tab.
+
+![Organisation 4](organisation-4.png) 
+
+* Edit the existing contact details and add new ones as needed to appear on your home page. 
+* You have to add a Freedom of Information contact, which must be shown on your home page.
+* Add other contacts (not for your home page) that appear frequently in your news and other documents - you will be able to pull these in from the list you create here.
 
 
-### About us
+### Add social media accounts
 
-A page for each department that includes headings for what we do, responsibilities, priorities, who we are, corporate information and corporate reports.
+These can be added by selecting the menu item which appears under the 'More' tab in your organisation hub.
 
-[Example](https://www.gov.uk/government/organisations/department-for-transport/about)
 
-[Instructions](homepage.html)
+Add people
+
+See [guidance on how to add people and assign roles.](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/people-and-roles.html)
 
 
 ### Corporate information
