@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to publish content / Requests to delete or unpublish documents
+title: How to publish content / Requests to delete or unpublish documents and create or delete URLs
 ---
 
 ##Requests to delete or unpublish documents
