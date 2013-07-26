@@ -35,9 +35,9 @@ If your pages are complete on the Production site, and the status of your organi
 
 Make sure you don't accidentally put your home page live on the Production site before your launch date. Check the URL before changing your status to live. 
 
-### Preview of pages for stakeholders or policy teams
+### Preview of documents for stakeholders or policy teams
 
-You can use [fact check](http://alphagov.github.io/inside-government-admin-guide/workflow-content/fact-checking.html) to send preview pages to people without Publisher accounts.
+You can use [fact check](http://alphagov.github.io/inside-government-admin-guide/workflow-content/fact-checking.html) to send preview documents (policies, publications, consultations etc) to people without Publisher accounts. Fact check does not currently work for organisation home pages or corporate pages.
 
 
 
