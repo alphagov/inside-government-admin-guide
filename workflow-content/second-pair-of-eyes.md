@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Second pair of eyes
+title: How to publish content / Second pair of eyes, force publishing and ‘looks good’
 ---
 
-## Second pair of eyes
+## Second pair of eyes, force publishing and ‘looks good’
 
 1. Documents should be submitted to a second pair of eyes to check against the [Style guide](https://www.gov.uk/designprinciples/styleguide).
 
