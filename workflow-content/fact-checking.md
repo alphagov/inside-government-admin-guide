@@ -1,21 +1,23 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Fact checking
+title: Publishing content / Fact checking: sharing documents with colleagues
 ---
 
-## Fact checking
+## Fact checking: sharing documents with colleagues
 
-1. We've made it easy for you to share documents with colleagues who don't have access to the Publisher.
+We’ve made it easy for you to share documents with colleagues who don’t have access to the Publisher. You can use this to allow people to comment on documents before they go live. To send things to multiple colleagues you'll need to send separate requests.
+Click the ‘Fact checking’ tab on the right of any document and write a message to your colleague.
 
-	Just click the 'Fact checking' tab on the right of any document and write a message to your colleague.
+![Fact checking 1](fact-checking-1.png)
 
-	![Fact checking 1](fact-checking-1.png)
+Your colleague will receive an email with a link to click.
 
-2. Your colleague will receive an email with a link to click.
-
-	This link takes them to a version of your page where they can leave comments.
+This link takes them to a version of your page where they can leave comments.
 	
-	![Fact checking 2](fact-checking-2.png)
+![Fact checking 2](fact-checking-2.png)
 	
-3. When they've checked the page, you'll receive an email with a link to click. 		This link takes you back to the Publisher where you can see their comments.
-	![Fact checking 3](fact-checking-3.png)
+When they've checked the page, you'll receive an email with a link to click. 
+	
+This link takes you back to the Publisher where you can see their comments.
+
+![Fact checking 3](fact-checking-3.png)
