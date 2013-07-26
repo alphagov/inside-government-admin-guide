@@ -21,8 +21,8 @@ You can add new people when new ministerial appointments are made (check with GD
 * Add a title, forename, surname and biography.
 * Upload an image - it must be 960 x 640 px and minimum 75 dpi.
 * Photos on a white background need a light tint overlay.
-	
-	![People and roles 2](people-and-roles-2.png)
+
+![People and roles 2](people-and-roles-2.png)
 
 For structuring biographies, see the [style guide 6.1: biographies](https://www.gov.uk/designprinciples/insidegovernment#corporate-pages-biographies).
 
@@ -39,6 +39,6 @@ You'll need to check with GDS before creating any ministerial roles. You can add
 * Save the role; find it again from the list and re-open it for editing.
 * Click 'New appointment' to assign the role to a new person.
 * Enter a start date - the old role-holder will automatically end their tenure on this date.
-	
-	![People and roles 4](people-and-roles-4.png)
+
+![People and roles 4](people-and-roles-4.png)
 	
