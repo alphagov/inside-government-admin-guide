@@ -5,7 +5,7 @@ title: How to publish content / Schedule a document
 
 ## Schedule a document for timed publication
 
-Any document type can be scheduled for publication.
+Any document type (policies, news, speeches, consultations, publications) can be scheduled for publication. 
 
 ![Scheduled publishing 1](scheduled-publishing-1.png)
 
