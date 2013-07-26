@@ -7,13 +7,11 @@ title: How to publish documents / Document types
 
 Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
 
-There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria and some further explanation about each content format. 
+There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria. 
 
 If you need to know style points such as structure, length, tone or how to write titles and summaries for different content formats, please consult the [style guide](https://www.gov.uk/designprinciples/insidegovernment).
 
 During transition, your 'content analysis' spreadsheet will map your existing content to GOV.UK document types.
-
-Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
    
 
 ## News article 
@@ -158,6 +156,7 @@ Use this for manuals, handbooks and any other stand-alone documents that offer a
 
 Use this only for a document that needs to be completed by users online or in hard copy. Most forms have guidance included on them, but if it is a separate guidance document that goes with the form, then upload it to the same page as a supporting document. 
 
+
 #### Impact assessment 
 
 This is a very specific content type for assessments of proposed initatives or regulatory changes. 
@@ -250,4 +249,10 @@ Ministry of Defence only: a news style content type announcing the death of a me
 Definitions of UK government priorities in international locations. These are only published by people authorised by the Foreign & Commonwealth Office.
 
 [Instructions on how to create a document.](creating-a-new-doc.html)
+
+
+==============================================================================================================
+
+
+Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
 
