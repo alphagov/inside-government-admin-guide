@@ -47,6 +47,8 @@ You can also use press release for an official statement by a department spokesp
 
 This is for a press statement responding to coverage in the media (but not a parliamentary statement, which should use speech format). It does not include press articles written by ministers or letters to newspapers from ministers (see speech format). 
 
+You can also use government response for letters to the press from government ministers or interviews with government ministers.
+
 [Instructions on how to create a document.](creating-a-new-doc.html)
 
 
@@ -58,20 +60,23 @@ This format covers all types of formal announcement made by government. Note tha
 
 #### Speech: transcript/draft/speaking notes 
 
-A speech is delivered to a specific audience, usually during an important event or visit, and often asserts the government's message or position on an issue. When creating a speech:
+A speech is given to a specific audience, usually during an important event or visit, and often asserts the government's message or position on an issue. 
+
+First assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date).
+
+   * 'Draft' is for the draft the speaker uses.
+   * 'Speaking notes' (cue cards, PowerPoint notes) may be used if no draft is available.
+   * 'Transcript' is for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’).
+
+When creating a speech:
 
 * never write 'speech' in the title
 * specify the audience in the summary (eg Soldiers, Sailors, Airmen and Families Association)
 * specify the message of the speech in the title and summary, keeping the title concise (65 characters)
 * tag to a speaker by selecting the correct minister or director (if the speaker doesn't exist in the system you can [create a page for that person](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/people-and-roles.html))
-* assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date)
-   * 'draft' is for the draft the speaker uses
-   * 'speaking notes' (cue cards, PowerPoint notes) may be used if no draft is available
-   * 'transcript' is for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’)
 * specify a location (eg The Banqueting House, Whitehall, London, but never Parliament as these are oral statements to Parliament - see below)
 * enter a date for when the speech was given
 * never use the blockquote markdown as the speech is a quote throughout
-
 
 #### Statement to Parliament: written/oral 
 
@@ -88,11 +93,11 @@ A statement usually relates to matters of policy or government actions. It diffe
 
 #### Authored article 
 
-An authored article is a republication of a piece written for publication elsewhere (usually a newspaper) by a minister. It does not include letters to newspapers. When creating an authored article:
+An authored article is a republication of a piece written for publication elsewhere (usually a newspaper) by a minister. It does not include letters to newspapers, these come under news as 'government responses'. When creating an authored article:
 
 * tag to the correct 'speaker' (ie a writer), a specific minister or director (their photo will appear automatically in the left margin)
 * include the URL of the original article in the box (coming soon!)
-driver
+
 
 [Instructions on how to create a document.](creating-a-new-doc.html)
 
@@ -183,7 +188,7 @@ The titles should include your organisation's acronym so that the document is no
 
 #### FOI release 
 
-Use this for responses to Freedom of information requests. You can add the 
+Use this for responses to Freedom of information requests. Add the reference number in the attachment associations - this is searchable.
 
 
 #### Correspondence 
@@ -209,7 +214,7 @@ You would need to read several examples of policy before creating a new one or e
 
 ## Consultation 
    
-For all kinds of consultation including discussion documents and calls for evidence. All content for the various stages of a consultation (open, closed, public response, government response) are added to the same page as the timeline progresses.
+Use this for all kinds of consultation including calls for evidence. All content for the various stages of a consultation (open, closed, public response, government response) are added to the same page as the timeline progresses.
 
 The consultation will close automatically as long as you have entered the correct closing date. The contact details will disappear and the status will change to 'closed'.
 
@@ -229,8 +234,6 @@ Guidance and information, usually task-based, that answers a specific and discre
    
 ‘Live’ statistical data that’s frequently updated. If the data is a one-off snapshot then use the publication types of statistics or national statistics instead.
 
-[Example](https://www.gov.uk/government/statistical-data-sets/drt01-practical-driving-riding-test-pass-rates)
-
 
 ## Case study 
    
@@ -239,9 +242,7 @@ A real world example that shows best practice, illustrates an issue or demonstra
 
 ## Fatality notice 
    
-Ministry of Defence only. News style content type announcing the death of a member of the armed forces.
-
-[Example](https://www.gov.uk/government/fatalities/captain-walter-barrie-killed-in-afghanistan)
+Ministry of Defence only: a news style content type announcing the death of a member of the armed forces.
 
 
 ## Worldwide priority 
