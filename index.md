@@ -28,7 +28,7 @@ title: How to publish content / Index
 * [Preview your work](creating-documents/preview-your-work.html) - and submit for publication
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
-* [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html)
+* [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
 * [Create an HTML publication](creating-documents/create-an-HTML-document.html) - for a publication page
 
 ## Workflow for managing content 
