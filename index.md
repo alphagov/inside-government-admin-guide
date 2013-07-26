@@ -42,7 +42,7 @@ title: How to publish content / Index
 * [People and roles](organisations-groups/people-and-roles.html) - create and assign
 * [Document series](organisations-groups/document-series.html) -create, populate or delete
 * [Sub-organisations](organisations-groups/sub-organisations.html)
-* [Teams and groups](organisations-groups/teams-groups.html)
+* [Teams, policy advisory groups and governance groups](organisations-groups/teams-groups.html)
 
 
 ## Worldwide network
