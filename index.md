@@ -33,7 +33,7 @@ title: How to publish content / Index
 
 ## Workflow for managing content 
 * [Fact check](workflow-content/fact-checking.html) - for external stakeholders or policy teams
-* [Second pair of eyes](workflow-content/second-pair-of-eyes.html)
+* [Second pair of eyes, force publishing and ‘looks good’](workflow-content/second-pair-of-eyes.html)
 * [Limit editor access](workflow-content/limiting-access.html) - for sensitive documents
 
 
