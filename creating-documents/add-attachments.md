@@ -54,7 +54,7 @@ The first attachment is number 1, the other attachments are numbered according t
 
 	![Add attachments 2](add-attachments-2.png)
 
-* [InlineAttachment:n] pulls in the attachment title as hypertext, adding the file type and size in brackets. You can also list these with bullet points (useful for several related attachments).
+* \[InlineAttachment:n\] pulls in the attachment title as hypertext, adding the file type and size in brackets. You can also list these with bullet points (useful for several related attachments).
 * !@n creates a grey tint box with the front cover of the attached document, and adds the file type and size under the title.
 
 It’s easy to re-order or reposition the attachments by where you choose to place the Markdown code on the page. The number given to an attachment will not change, even if attachments are removed later.
@@ -69,7 +69,7 @@ You can also upload files in bulk.
 ![Editing a docoument 3](editing-a-doc-3.png)
 
 * Select the zip file upload option.
-* 
+
 ![Add attachments 10](add-attachments-10.png)
 
 * Click the 'choose file' button and upload the zip file. You will get a listing of all the uploaded files, awaiting their titles and metadata.
