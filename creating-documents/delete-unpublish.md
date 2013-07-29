@@ -9,7 +9,7 @@ Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish co
 
 SPOCs need to log in and use the [support form](https://support.production.alphagov.co.uk) to make these requests (one form per request).
 
-Removing GOV.UK content after it’s been published is a poor experience for users so please only do this when necessary.
+Removing GOV.UK content after it’s been published is a poor experience for users so please only do this when necessary. 
 
 
 ##Requests for short URLs
