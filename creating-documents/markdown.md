@@ -14,7 +14,7 @@ On every editing interface, you’ll see a ‘how to’ guide to Markdown like t
 ### Headers and sub-headers
 
 *  The title and summary are styled automatically, don't use Markdown in either of these boxes.
-*  In the body, use 2 hashtags (\##) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
+*  In the body, use 2 hashtags (\#\#) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document.
 
 ![Markdown 2](markdown-2.png)
@@ -51,9 +51,9 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 *  Use dividers (\|) to make tables.
 *  You need 1 empty line space before the table starts and 1 at the end.
-*  Make sure every row has the same number of dividers - use \| | for an empty cell.
+*  Make sure every row has the same number of dividers - use \| \| for an empty cell.
 ![Markdown 5](markdown-5.png)
-*  Use \|---|---| as the second row to create a bold header row at the top.
+*  Use \|---\|---\| as the second row to create a bold header row at the top.
 *  No Markdown within a table, but you can use html if you need links in your table.
 
 
