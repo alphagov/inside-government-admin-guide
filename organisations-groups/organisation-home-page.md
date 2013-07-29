@@ -95,7 +95,7 @@ See [guidance on how to add people and assign roles.](http://alphagov.github.io/
 
 ![Homepage 14](homepage-14.png)   
 
-### Corporate information
+### Add corporate information pages
 
 Single pages designed specifically for the following information:
 
@@ -119,70 +119,6 @@ Single pages designed specifically for the following information:
 
 * Office access and opening times
 
-[Instructions](homepage.html)
 
-
-### Document series
-
-Collects together any other content type (eg statutory guidance on admissions for headteachers). Not surfaced anywhere, you need to link to them.
-
-[Example](https://www.gov.uk/government/organisations/hm-revenue-customs/series/briefings)
-
-[Instructions](document-series.html)
-
-
-### Role
-
-A particular position in government, what duties the role entails and its responsibilities. Used for senior leadership team only.
-
-[Example](https://www.gov.uk/government/ministers/prime-minister)
-
-[Instructions](people-and-roles.html)
-
-
-### Person
-
-The name of the individual in a particular role, along with their biographical information and photograph. Used for senior leadership team only.
-
-[Example](https://www.gov.uk/government/people/david-cameron)
-
-[Instructions](people-and-roles.html)
-
-
-### Field of operation
-
-Ministry of Defence only. Used to group fatality notices by territory.
-
-[Example](https://www.gov.uk/government/fields-of-operation/afghanistan)
-
-
-### Sub-organisation
-
-By agreement with GDS. A high profile unit that has sufficient public profile and publishing activity in its own right to warrant an org-lite presence, nested beneath its parent body.
-
-[Example](https://www.gov.uk/government/organisations/defence-equipment-and-support)
-
-[Instructions](sub-organisation.html)
-
-
-### Policy team
-
-Description and contact details of a team working on a policy.
-
-[Instructions](policy-team.html)
-
-
-### Policy advisory group
-
-Description, contact details and attached meeting papers of a group or commitee which has input to a policy. Can be made up of external experts or stakeholders.
-
-[Instructions](policy-advisory-group.html)
-
-
-### Governance group
-
-Used to show memberships of top level governance boards. Easy to show senior roles and people within your organisation.
-
-[Instructions](governance-group.html)
 
 
