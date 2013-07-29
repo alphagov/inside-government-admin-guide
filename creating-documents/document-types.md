@@ -104,7 +104,7 @@ An authored article is a republication of a piece written for publication elsewh
    
 A publication page carries the publication as an attachment: most publication pages carry just 1 stand-alone document.
 
-The document can appear as various file types (HTML, PDF, Word). Note that you enter [HTML documents] as text directly into Publisher, but for other document files (PDF, Word, Excel etc) you [upload documents from local servers as attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html).
+The document can appear as various file types (HTML, PDF, Word). Note that you enter HTML documents as text directly into Publisher, but for other document files (PDF, Word, Excel etc) you [upload documents from local servers as attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html).
 
 Sometimes a single publication page has multiple attachments (eg a statistical release would include the pre-release access list and perhaps some data files as supporting documents). You can also use a single publication page for serial collections of documents:
 
