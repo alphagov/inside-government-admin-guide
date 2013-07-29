@@ -59,7 +59,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 ### Call to action
 
-*  Use $CTA to make a tinted box to draw attention to a call to action.
+*  Use \$CTA to make a tinted box to draw attention to a call to action.
 *  This is only for short links to purposeful actions like applying for a licence.
 
 ![Markdown 6](markdown-6.png)
