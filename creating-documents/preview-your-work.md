@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to publish content / Preview your work
+title: How to publish content / Preview, submit and publish 
 ---
 
-## Preview your work and submit for publication
+## Preview, submit and publish 
 
 You can preview the body copy of your document in several ways. 
 
@@ -42,6 +42,8 @@ You can use [fact check](http://alphagov.github.io/inside-government-admin-guide
 ### Submit a document for publication
 
 Click the green 'Submit' button. Your document should be picked up by [second pair of eyes](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) so it can be checked and published.
+
+If no one is available and you need to publish your page quickly, you can force publish; ensure that the page is given a 'looks good' approval as soon as possible after this.
 
 
 
