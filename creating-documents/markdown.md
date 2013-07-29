@@ -76,7 +76,7 @@ The full name will show as alt text when the user hovers over the acronym where 
 The Markdown is added at the base of the document.
 
 *  Leave 1 empty line space then list acronyms, each one on a new line. 
-*  For each acronym, type an asterisk, square brackets and a colon - \*[SAD\]: Single Administrative Document - and then the full name.
+*  For each acronym, type an asterisk, square brackets and a colon - \*\[SAD\]: Single Administrative Document - and then the full name.
 
 ![Markdown 7](markdown-7.png)
 
