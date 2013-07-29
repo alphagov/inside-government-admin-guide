@@ -8,7 +8,7 @@ title: How to publish content / Activate your account
 We have 2 separate environments, Production and Preview, and you need to create a login on each. Ask GDS to create the accounts by filling in the [support form](https://www.gov.uk/support/internal). You’ll receive 2 emails inviting you to create these accounts.
 
 * Click on the 'Accept invitation' link in each email and follow the steps below for each account.
-* 
+
 ![Get an account](get-an-account.png)
 
 * Use Preview if you’re practising (all content on Preview is overwritten every week, so it is not a good place to create any documents you wish to keep.)
@@ -27,11 +27,7 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
 ![Get an account 4](get-an-account-4.png)
 
-* You will be prompted for the ‘betademo’ username and password that you have been given (the same for all users).
-
-   Username: betademo
-
-   Password: -----
+* You will be prompted for the password that you have been given (it's the same for all users).
 
 ![Get an account 5](get-an-account-5.png)
 
