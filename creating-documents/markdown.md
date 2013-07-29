@@ -17,7 +17,7 @@ On every editing interface, you’ll see a ‘how to’ guide to Markdown like t
 *  In the body, use 2 hashtags (\#\#) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
 *  Don't use 1 hashtag or you will get a title heading in the middle of your document.
 
-![Markdown 2](markdown-2.png)
+![Markdown 2](markdown-2.png) 
 
 *  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
