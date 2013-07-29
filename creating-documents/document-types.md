@@ -60,11 +60,11 @@ This format covers all types of formal announcement made by government. Note tha
 
 A speech is given to a specific audience, usually during an important event or visit, and often asserts the government's message or position on an issue. 
 
-First assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date).
+First assign a sub-type (this currently appears in the summary, but will soon be shown in brackets after the date):
 
-   * 'Draft' is for the draft the speaker uses.
-   * 'Speaking notes' (cue cards, PowerPoint notes) may be used if no draft is available.
-   * 'Transcript' is for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’).
+* 'draft'  for the draft the speaker uses
+* 'speaking notes' (cue cards, PowerPoint notes) if no draft is available
+* 'transcript' for verbatim reports of exactly what the speaker said (internally referred to as ‘checked against delivery’)
 
 When creating a speech:
 
