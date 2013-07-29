@@ -250,9 +250,5 @@ Definitions of UK government priorities in international locations. These are on
 
 [Instructions on how to create a document.](creating-a-new-doc.html)
 
-
-==============================================================================================================
-
-
 Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
 
