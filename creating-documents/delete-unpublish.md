@@ -5,7 +5,7 @@ title: How to publish content / Requests to delete or unpublish documents and cr
 
 ##Requests to delete or unpublish documents
 
-Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish content. Contact your SPOC if you need to do this. Include the internal Publisher and live GOV.UK URLs in your request.
+Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish content. Contact your SPOC if you need to do this. Include the internal Publisher and live GOV.UK URLs in your request. 
 
 SPOCs need to log in and use the [support form](https://support.production.alphagov.co.uk) to make these requests (one form per request).
 
