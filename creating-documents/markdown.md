@@ -90,12 +90,12 @@ The Markdown is added at the base of the document.
 
 As the Prime Minister said:
 
-> Rule, Britannia, rule the waves.
->
-> Britons never shall be slaves.
+\> Rule, Britannia, rule the waves.
+\>
+\> Britons never shall be slaves.
 
 *  Introduce a blockquote with a colon.
-*  The > in the line space is important. If you leave it out you will get 2 separate quotes on separate lines, not 1 running quote.
+*  The \> in the line space is important. If you leave it out you will get 2 separate quotes on separate lines, not 1 running quote.
 *  Leave 1 empty line space above and below your blockquote.
 *  Do not use blockquotes in speeches: blockquotes are for news and case studies only. 
 
