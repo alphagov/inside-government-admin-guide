@@ -97,7 +97,24 @@ See [guidance on how to add people and assign roles.](http://alphagov.github.io/
 
 ### Add corporate information pages
 
-Single pages designed specifically for the following information:
+You can add corporate information pages.
+
+![Homepage 21](homepage-21.png)	
+
+* Click on the 'Corp info' tab.
+
+![Homepage 22](homepage-22.png)	
+
+* Delete or add new corporate info pages as needed.
+
+![Homepage 23](homepage-23.png)	
+	
+* Pick a type (you can only use each type once), write your copy and save when you’re done.
+
+![Homepage 24](homepage-24.png)	
+
+
+The pages are designed specifically for the following information about your organisation and the [style guide: what we do](https://www.gov.uk/designprinciples/insidegovernment#what-we-do) contains guidance for each one:
 
 * [Personal information charter](https://www.gov.uk/government/organisations/department-for-transport/about/personal-information-charter) for standards followed by orgs when asking for info (required)
 
