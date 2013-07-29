@@ -38,13 +38,23 @@ From this hub you can edit the text on your home page, set your home page status
 
 * Scroll down and click on the blue 'Edit' button.
 
+![Homepage 10](homepage-10.png)   
+
 The first part of the details will already be complete. Let your transition manager know if you need to change anything. 
 
 * You will need a default image for news articles. Upload this by clicking the 'Choose file' button. You need a jpeg, gif or png file of a generic photo that reflects your organisation, size 960 x 640 pixels, minimum 75 dpi.
 * There is no need to delete your old URL from the details, this will disappear once your organistion has launched.
 * You will need an email address for ordering publications or consultations in alternative formats: find out what it is if this is not filled in.
 * You will need to show your sponsoring department or agency, and the topics and categories where your organisation has responsibilities. Fill these in after consultation with your sponsoring organisation.
-* Fill in Mainstream links to feature on your home page - these will be pages that are popular with your users.
+
+### Add Mainstream links
+
+Change the links top right by editing the 'Mainstream links' section.
+
+These links should only be used for the most popular tasks performed by your users. GDS may remove other types of links. If in doubt please talk to us.
+
+![Homepage 11](homepage-11.png)
+
 
 ### Write the 'What we do' section
 
@@ -61,19 +71,29 @@ Refer to the [style guide 6.0: What we do](https://www.gov.uk/designprinciples/i
 ![Organisation 4](organisation-4.png) 
 
 * Edit the existing contact details and add new ones as needed to appear on your home page. 
+* Delete, edit and add new accounts as needed. Accounts are shown in the order you add them.
+
+![Homepage 17](homepage-17.png)	
+
 * You have to add a Freedom of Information contact, which must be shown on your home page.
 * Add other contacts (not for your home page) that appear frequently in your news and other documents - you will be able to pull these in from the list you create here.
 
 
 ### Add social media accounts
 
-These can be added by selecting the menu item which appears under the 'More' tab in your organisation hub.
+These can be added by selecting the menu item under the 'More' tab in your organisation hub. They will appear on your home page under the 'Follow us' heading.
 
+![Homepage 15](homepage-15.png)   
 
-Add people
+Delete, edit and add new accounts as needed. Accounts are shown in the order you add them.
 
-See [guidance on how to add people and assign roles.](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/people-and-roles.html)
+![Homepage 17](homepage-17.png)	
 
+### Add people
+
+See [guidance on how to add people and assign roles.](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/people-and-roles.html) Once this is done you can go to the 'People' tab and drag people's names up and down to reorder them.
+
+![Homepage 14](homepage-14.png)   
 
 ### Corporate information
 
