@@ -34,7 +34,7 @@ Any changes made to these pages will go live as soon as you save them. So double
 
 * Click on the name of your organisation.
 
-![Worldwide organisation 6](worldwide-organisations-7.png)
+![Worldwide organisation 6](worldwide-organisations-6.png)
 
 * Click on the 'Offices' tab to add or edit contact details.
 
@@ -60,7 +60,7 @@ Any changes made to these pages will go live as soon as you save them. So double
 
 * Click on the name of your organisation.
 
-![Worldwide organisation 6](worldwide-organisations-7.png)
+![Worldwide organisation 6](worldwide-organisations-6.png)
 
 * Click on the 'Corporate information pages' tab.
 * Click on the page name to edit the page.
