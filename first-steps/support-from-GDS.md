@@ -11,8 +11,8 @@ Please use the [support form](https://support.production.alphagov.co.uk/) for qu
 
 You can also ask GDS to:
 
-* [delete pages](http://alphagov.github.io/inside-government-admin-guide/creating-documents/delete-unpublish.html) 
-* [create friendly URLs (FURLs)](http://alphagov.github.io/inside-government-admin-guide/creating-documents/delete-unpublish.html)
+* [delete pages](/creating-documents/delete-unpublish.html) 
+* [create friendly URLs (FURLs)](/creating-documents/delete-unpublish.html)
 * create topical events
 * create new organisations or ministerial roles
 * create worldwide organisations
