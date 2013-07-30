@@ -20,11 +20,7 @@ Click on a location to edit content, add translations and feature documents on t
 
 ![World locations 3](world-locations-3.png)
 
-Click the 'active' checkbox to make the page visible on the site.
-
-![World locations 4](world-locations-4.png)
-
-Mainstream links appear top right on the location page.
+* Add links to GOV.UK that your users might want to visit - these will appear top right on the location home page.
 
 ![World locations 5](world-locations-5.png)
 
