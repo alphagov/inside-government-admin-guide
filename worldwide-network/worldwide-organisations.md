@@ -15,13 +15,12 @@ You can create Worldwide organisations and edit them.
 * Before creating a new organisation, check it doesn't exist - you can use CTRL F to search the list.
 * If you need to create one, click on the ‘Create Worldwide organisation’ button.
 
-![Worldwide organisation 2](worldwide-organisations-2.png)
+![Worldwide organisation 3](worldwide-organisations-3.png)
 
 * Add or edit content as needed.
 
 Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
 
-![Worldwide organisation 3](worldwide-organisations-3.png)
 
 ### Add or edit translations
 
