@@ -1,76 +1,72 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Worldwide organisations
+title: How to publish content / Worldwide organisations
 ---
 
 ## Worldwide organisations
 
-1. You can create Worldwide organisations and edit them.
+You can create Worldwide organisations and edit them.
 
-	Click ‘Worldwide organisations’ to see a list.
-	
-	![Worldwide organisation 1](worldwide-organisations-1.png)
-	
-	Click on ‘Create Worldwide organisation’.
-	
-	![Worldwide organisation 2](worldwide-organisations-2.png)
-	
-2. Add content as needed.
+* Click 'More' then click on ‘Worldwide organisations’ to see a list.
 
-	Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
-	
-	![Worldwide organisation 3](worldwide-organisations-3.png)
-	
-3. Add translations as needed.
+![Worldwide organisation 1](worldwide-organisations-1.png)
 
-	Click on ‘Manage translations’.
+* Click on the title to edit an organisation.
+* Before creating a new organisation, check it doesn't exist - you can use CTRL F to search the list.
+* If you need to create one, click on the ‘Create Worldwide organisation’ button.
 
-	![Worldwide organisation 4](worldwide-organisations-4.png)
-	
-	Pick a locale and click the ‘Add translation’ button.
-	
-	![Worldwide organisation 5](worldwide-organisations-5.png)
-	
-5. Add more information as needed.
+![Worldwide organisation 2](worldwide-organisations-2.png)
 
-	Click on the name of your organisation.
-	
-	![Worldwide organisation 6](worldwide-organisations-6.png)
-	
-	Click on these tabs to add more info.
-	
-	![Worldwide organisation 7](worldwide-organisations-7.png)
-	
-6. Add, edit or delete contact info.
+* Add or edit content as needed.
 
-	![Worldwide organisation 8](worldwide-organisations-8.png)
-	
-7. FCO should specify an office type from the drop down menu. Other organisations should select ‘Other’.
+Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
 
-	![Worldwide organisation 9](worldwide-organisations-9.png)
-	
-8. FCO should check services provided by that office, if any.
+![Worldwide organisation 3](worldwide-organisations-3.png)
 
-	![Worldwide organisation 10](worldwide-organisations-10.png)
-	
-9. Phone number fields should contain numbers, nothing else.
+### Add or edit translations
 
-	![Worldwide organisation 11](worldwide-organisations-11.png)
-	
-10. Add, edit or delete soclal media accounts.
+* Click on the organistion.
+* Click on the ‘Translations’ tab.
+* Open translations to edit them or create a new translation by clicking the 'Create translation' button.
 
-	![Worldwide organisation 12](worldwide-organisations-12.png)
-	
-11. Add corporate info pages as needed.
+![Worldwide organisation 5](worldwide-organisations-5.png)
 
-	Click to add a new page.
+### Add or edit contact information and social media
 
-	![Worldwide organisation 13](worldwide-organisations-13.png)
-	
-12. Pick a page type and enter content as needed.
+* Click on the name of your organisation.
 
-	You can only use each page once.
+![Worldwide organisation 6](worldwide-organisations-7.png)
+
+* Click on the 'Offices' tab to add or edit contact details.
+
+![Worldwide organisation 8](worldwide-organisations-8.png)
+
+* FCO should specify an office type from the drop down menu. Other organisations should select ‘Other’.
+
+![Worldwide organisation 9](worldwide-organisations-9.png)
+
+* FCO should tick the services provided by that office, if any.
+
+![Worldwide organisation 10](worldwide-organisations-10.png)
+
+* Phone number fields should contain numbers, nothing else.
+
+![Worldwide organisation 11](worldwide-organisations-11.png)
+
+* Click on 'Access and opening times' to add or edit these details.
+* Click on 'Social media accounts' to add or edit social media details.
 	
-	Remember to save when you’re done.
-	
-	![Worldwide organisation 14](worldwide-organisations-14.png)
+
+### Corporate information pages 
+
+* Click on the name of your organisation.
+
+![Worldwide organisation 6](worldwide-organisations-7.png)
+
+* Click on the 'Corporate information pages' tab.
+* Click on the page name to edit the page.
+* To create a new page, pick a page type and enter content as needed.
+
+![Worldwide organisation 14](worldwide-organisations-14.png)
+
+You can only use each page once. Remember to save when you’re done.
