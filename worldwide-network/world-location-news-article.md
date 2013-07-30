@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Inside Government Admin Guide - World location news article
+title: How to publish content / World location news article
 ---
 
 ## World location news article
 
-1. Use a ‘World location news article’ if you want a story to appear in your location and NOT on your main department site.
+Use the ‘World location news article’ if you want a story to appear in your location and NOT on your main department site.
 
-	![World location news article 1](world-location-news-article-1.png)
-	
-2. This document type is very similar to a regular news article, except it contains worldwide associations not UK ones	[More on creating documents](/inside-government-admin-guide/creating-documents/creating-a-new-doc.html)
-	![World location news article 2](world-location-news-article-2.png)
+![World location news article 1](world-location-news-article-1.png)
+
+This document type is very similar to a regular news article, except it contains worldwide associations not UK ones
+
+[More on creating documents](/inside-government-admin-guide/creating-documents/creating-a-new-doc.html)
+
+![World location news article 2](world-location-news-article-2.png)
