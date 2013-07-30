@@ -9,7 +9,7 @@ The Government Digital Service (GDS) will be offering direct support to agencies
 
 Please use the [support form](https://support.production.alphagov.co.uk/) for queries about Publisher that are not answered in this manual. (You'll need to be logged in to access this form.)
 
-You can also ask GDS to:
+You can also use the form to ask GDS to:
 
 * [delete pages](/creating-documents/delete-unpublish.html) 
 * [create friendly URLs (FURLs)](/creating-documents/delete-unpublish.html)
