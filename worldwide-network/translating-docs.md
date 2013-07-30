@@ -1,9 +1,9 @@
 ---
 layout: default
-title: How to publish content / Translating content
+title: How to publish content / Add translated content
 ---
 
-## Translating content
+## Add translated content
 
 You can add one or more translations for any published document on GOV.UK in any of 48 languages - this includes all the languages used by the Foreign & Commonwealth Office, and Welsh for UK documents. Note that you need to input the translated text, this is not a translation tool.
 
