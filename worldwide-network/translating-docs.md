@@ -1,46 +1,31 @@
 ---
 layout: default
-title: Inside Government Admin Guide - Translating docs
+title: How to publish content / Translating content
 ---
 
-## Translating docs
+## Translating content
 
-1. It’s possible to add translations for many documents around the site.
+You can add one or more translations for any published document on GOV.UK in any of 48 languages - this includes all the languages used by the Foreign & Commonwealth Office, and Welsh for UK documents. Note that you need to input the translated text, this is not a translation tool.
 
-	[Create a document](/inside-government-admin-guide/creating-documents/creating-a-new-doc.html) as normal.
-	
-	![Translating docs 1](translating-docs-1.png)
-	
-2. Enter any text, images and attachments you need then save it.
+* First, [create a document](/inside-government-admin-guide/creating-documents/create-a-new-doc.html) in English as normal.
+* Click the 'Translations' tab.
+* Select the language for your translation.
 
-	![Translating docs 2](translating-docs-2.png)
-	
-3. Once the document is saved, you can add as many translations as you like.
+![Translating docs 4](translating-docs-4.png)
 
-	Click on the ‘Translations’ tab.
+* Type or paste in the translated title, summary and body copy then save your document.
 
-	![Translating docs 3](translating-docs-3.png)
-	
-	Pick a locale and click the ‘Add translation’ button.
-	
-	![Translating docs 4](translating-docs-4.png)
-	
-4. Add a translated title, summary and body copy then save your document.
+![Translating docs 5](translating-docs-5.png)
 
-	![Translating docs 5](translating-docs-5.png)
-	
-5. When you’re done, submit to second pair of eyes.
+* When you’re done, add another translation if you need to.
 
-	![Translating docs 6](translating-docs-6.png)
-	
-6. When you change the content within a document, make sure you describe what you’ve done in the ‘Change note’ field.
 
-	If you change the translated version, add a change note to the English version.
-	
-	Enter something short but useful, beginning with a past tense verb.
-	
-	![Translating docs 7](translating-docs-7.png)
-	
-7. If the change is minor (eg fixing a typo or a style correction) then click the ‘Minor change’ box.
+### Add attachments
 
-	![Translating docs 8](translating-docs-8.png)
+If you want to upload a Word document or PDF in the language, follow the guidance for [how to add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html). 
+
+Publications have all their attachments added to both the English and the language versions of the page; you can't alter this. 
+
+For news or HTML publications, you can add the attachments you select using Markdown, so you can add English attachments to your English version and translated attachments to your language version. 
+
+Not that after a document is published you need to add a [change note](http://alphagov.github.io/inside-government-admin-guide/creating-documents/editing-a-doc.html) when you edit it.
