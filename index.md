@@ -12,7 +12,7 @@ title: How to publish content / Index
 ## First steps
 * [Find your way around Publisher](first-steps/top-navigation.html)
 * [Your dashboard](first-steps/your-dashboard.html)
-* [Find documents](first-steps/document-hub.html) - using the filters on Publisher
+* [Find documents](first-steps/find-documents.html) - using the filters on Publisher
 * [Support from GDS](first-steps/support-from-GDS.html)
 
 
