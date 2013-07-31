@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to publish content / Organisation home page and ‘What we do’
+title: How to publish content / Organisation home page, ‘What we do’ and adding contacts
 ---
 
 ## Organisation home page and ‘What we do’

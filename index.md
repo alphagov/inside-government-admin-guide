@@ -25,6 +25,7 @@ title: How to publish content / Index
 * [Add remarks](creating-documents/add-remarks.html) 
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
 * [Add links](creating-documents/add-links.html) 
+* [Add contacts](organisations-groups/organisation-home-page.html#add_contacts)
 * [Preview your work](creating-documents/preview-your-work.html) - and submit for publication
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
@@ -38,7 +39,7 @@ title: How to publish content / Index
 
 
 ## Organisations, people and groups
-* [Organisation home page](organisations-groups/organisation-home-page.html) - and ‘What we do’
+* [Organisation home page, ‘What we do’ and adding contacts](organisations-groups/organisation-home-page.html) - and ‘What we do’
 * [Feature documents on your homepage](organisations-groups/feature-documents-home-page.html)
 * [People and roles](organisations-groups/people-and-roles.html) - create and assign
 * [Document series](organisations-groups/document-series.html) - create, populate or delete
