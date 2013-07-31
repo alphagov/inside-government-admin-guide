@@ -13,7 +13,7 @@ First, create a publication page to house your HTML publication. [See guidance o
 
 * Give the publication a title and summary, just as you would when attaching a file.
 * In the body text, use Markdown to format the text just as in the rest of Publisher.
-* Give the publication H2s - these are listed as bookmarks at the top so users can navigate the section.
+* Give the publication H2s using the \#\# Markdown - these are listed as bookmarks at the top so users can navigate the section.
 * Attach files to your page and position them in your publication using the usual Markdown.
 
 See an [example of an HTML publication.](https://www.gov.uk/government/publications/immigration-statistics-january-to-march-2013)
