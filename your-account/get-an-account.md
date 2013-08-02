@@ -5,7 +5,7 @@ title: How to publish content / Activate your account
 
 ## Activate your account
 
-We have 2 separate environments, Production and Preview, and you need to create a login on each. GDS has to create these accounts for you. Once this is done, you’ll receive 2 emails inviting you to activate these accounts.
+We have 2 separate environments, Production and Preview, and you need to create a login on each. GDS has to set up these accounts for you. Once this is done, you’ll receive 2 emails inviting you to activate these accounts.
 
 * Click on the 'Accept invitation' link in each email and follow the steps below for each account.
 
