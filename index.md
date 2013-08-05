@@ -18,6 +18,7 @@ title: How to publish content / Index
 
 ## Create and publish documents
 * [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
+* [Create an HTML publication](creating-documents/create-an-HTML-document.html) - for a publication page
 * [Create a new document](creating-documents/create-a-new-doc.html)
 * [Use Markdown to format text](creating-documents/markdown.html) - headers, bullets, tables, acronyms, blockquotes
 * [Add images and videos](creating-documents/add-images.html) 
@@ -30,7 +31,6 @@ title: How to publish content / Index
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
 * [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
-* [Create an HTML publication](creating-documents/create-an-HTML-document.html) - for a publication page
 
 ## Workflow for managing content 
 * [Fact check: sharing pages with colleagues](workflow-content/fact-checking.html) - for external stakeholders or policy teams
