@@ -226,7 +226,7 @@ Users can click on a request to be alerted when a consultation response is publi
    
 Guidance and information, usually task-based, that answers a specific and discrete user need for detailed guidance (eg for stakeholders, niche or technical audiences).
 
-[Instructions on how to create a document.](creating-a-new-doc.html)
+[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 
 ## Statistical data set 
