@@ -5,11 +5,11 @@ title: How to publish content / Add contacts to a page
 
 If your contact doesn't exist in publisher yet, you'll need to [create it](/inside-government-admin-guide/organisations-groups/organisation-home-page.html#add_contacts).
 
-## Add contacts to a page
+# Add contacts to a page
 
 While editing any field that supports markdown, begin typing the markdown command to insert a contact, like this:
 
->[contact:
+[contact:
 
 A dialogue box will appear, listing a few contacts, like this:
 
