@@ -19,6 +19,7 @@ Using the top navigation, you can:
 *  click through to 'Documents', which lists all documents produced by departments and agencies, with a set of document filters to help you find particular documents
 *  click through to 'Document series', where you can create [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) to group your documents
 *  click through to 'Your organisation', which is where you control the [home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html) for your department or agency
+*  also from 'Your organisation' you can [select content to add photos and feature on your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/feature-documents-home-page.html)
 
 
 
