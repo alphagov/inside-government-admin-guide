@@ -39,7 +39,7 @@ title: How to publish content / Index
 
 
 ## Organisations, people and groups
-* [Organisation home page, ‘What we do’ and adding contacts](organisations-groups/organisation-home-page.html) - and ‘What we do’
+* [Organisation home page, ‘What we do’ and adding contact details](organisations-groups/organisation-home-page.html)
 * [Feature documents on your homepage](organisations-groups/feature-documents-home-page.html)
 * [People and roles](organisations-groups/people-and-roles.html) - create and assign
 * [Document series](organisations-groups/document-series.html) - create, populate or delete
