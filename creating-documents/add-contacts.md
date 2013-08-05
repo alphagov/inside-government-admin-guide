@@ -7,9 +7,7 @@ If your contact doesn't exist in publisher yet, you'll need to [create it](/insi
 
 # Add contacts to a page
 
-While editing any field that supports markdown, begin typing the markdown command to insert a contact, like this:
-
-[contact:
+While editing any field that supports markdown, begin typing the markdown command to insert a contact, using this markdown "[contact:" (remove the quotes).
 
 A dialogue box will appear, listing a few contacts, like this:
 
