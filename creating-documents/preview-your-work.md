@@ -43,7 +43,7 @@ You can use [fact check](http://alphagov.github.io/inside-government-admin-guide
 
 Click the green 'Submit' button. Your document should be picked up by [second pair of eyes](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) so it can be checked and published.
 
-If no one is available and you need to publish your page quickly, you can force publish; ensure that the page is given a 'looks good' approval as soon as possible after this.
+If no one is available and you need to publish your page quickly, you can [force publish](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html); ensure that the page is given a 'looks good' approval as soon as possible after this.
 
 
 
