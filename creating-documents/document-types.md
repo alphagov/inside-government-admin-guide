@@ -24,8 +24,8 @@ When creating a news article:
 * tag it to policies
 * tag it to ministers where they are directly involved in the story
 * tag it to document series ONLY rarely - if the news story is permanently relevant to that series
-* write clear [substantive change notes](http://alphagov.github.io/inside-government-admin-guide/creating-documents/editing-a-doc.html#change_notes) if it is re-edited after publication
-* use [blockquote Markdown](http://alphagov.github.io/inside-government-admin-guide/creating-documents/markdown.html) for quotes, but no more than 2 consecutive sentences
+* write clear [substantive change notes](/inside-government-admin-guide/creating-documents/editing-a-doc.html#change_notes) if it is re-edited after publication
+* use [blockquote Markdown](/inside-government-admin-guide/creating-documents/markdown.html) for quotes, but no more than 2 consecutive sentences
 
 ### News article sub-types
 
@@ -71,7 +71,7 @@ When creating a speech:
 * never write 'speech' in the title
 * specify the audience in the summary (eg Soldiers, Sailors, Airmen and Families Association)
 * specify the message of the speech in the title and summary, keeping the title concise (65 characters)
-* tag to a speaker by selecting the correct minister or director (if the speaker doesn't exist in the system you can [create a page for that person](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/people-and-roles.html))
+* tag to a speaker by selecting the correct minister or director (if the speaker doesn't exist in the system you can [create a page for that person](/inside-government-admin-guide/organisations-groups/people-and-roles.html))
 * specify a location (eg The Banqueting House, Whitehall, London, but never Parliament as these are oral statements to Parliament - see below)
 * enter a date for when the speech was given
 * never use the blockquote markdown as the speech is a quote throughout
@@ -104,7 +104,7 @@ An authored article is a republication of a piece written for publication elsewh
    
 A publication page carries the publication as an attachment: most publication pages carry just 1 stand-alone document.
 
-The document can appear as various file types (HTML, PDF, Word). Note that you enter HTML documents as text directly into Publisher, but for other document files (PDF, Word, Excel etc) you [upload documents from local servers as attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html).
+The document can appear as various file types (HTML, PDF, Word). Note that you enter HTML documents as text directly into Publisher, but for other document files (PDF, Word, Excel etc) you [upload documents from local servers as attachments](/inside-government-admin-guide/creating-documents/add-attachments.html).
 
 Sometimes a single publication page has multiple attachments (eg a statistical release would include the pre-release access list and perhaps some data files as supporting documents). You can also use a single publication page for serial collections of documents:
 
@@ -115,7 +115,7 @@ Sometimes a single publication page has multiple attachments (eg a statistical r
 
 Serial collections are essentially the same content item that varies over time.
 
-Note that if the new document incorporates all the previous data (eg if you are adding data for the current month to an Excel file) you can [overwrite the attachment](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html) rather than uploading multiple attachments. This would be preferable for the user. The document stays at the same URL.
+Note that if the new document incorporates all the previous data (eg if you are adding data for the current month to an Excel file) you can [overwrite the attachment](/inside-government-admin-guide/creating-documents/add-attachments.html) rather than uploading multiple attachments. This would be preferable for the user. The document stays at the same URL.
 
 There are a lot of publication sub-types listed below. You need to assign a sub-type to every publication.
 
@@ -170,7 +170,7 @@ Use 'statistics' for official statistics produced by members of the Government S
 
 Use 'national statistics' for official statistical releases and reports that meet the UK Statistics Authority's code of practice: this content automatically displays the national statistics logo.
 
-There is a special tickbox you can use to [limit access to producing organisations prior to publication](workflow-content/limit-access.html), which is particularly useful for statistics.
+There is a special tickbox you can use to [limit access to producing organisations prior to publication](/inside-government-admin-guide/workflow-content/limit-access.html), which is particularly useful for statistics.
 
 
 #### Research and analysis 
