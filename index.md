@@ -25,7 +25,7 @@ title: How to publish content / Index
 * [Create an HTML publication](creating-documents/create-an-HTML-document.html) - as well as or instead of attached files
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
 * [Add links](creating-documents/add-links.html) 
-* [Add contacts](organisations-groups/organisation-home-page.html#add_contacts)
+* [Add contacts](creating-documents/add-contacts.html)
 * [Add remarks](creating-documents/add-remarks.html) 
 * [Preview, submit and publish](creating-documents/preview-your-work.html) - and submit for publication
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
