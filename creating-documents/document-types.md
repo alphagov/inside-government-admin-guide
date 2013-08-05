@@ -104,7 +104,8 @@ An authored article is a republication of a piece written for publication elsewh
    
 A publication page carries the publication as an attachment: most publication pages carry just 1 stand-alone document.
 
-The document can appear as various file types (HTML, PDF, Word). Note that you enter HTML documents as text directly into Publisher, but for other document files (PDF, Word, Excel etc) you [upload documents from local servers as attachments](/inside-government-admin-guide/creating-documents/add-attachments.html).
+The document can appear as various file types. Note that for the usual file types (PDF, Word, Excel etc) you [upload documents from local servers as attachments](/inside-government-admin-guide/creating-documents/add-attachments.html). Alternatively you can [create an HTML document in Publisher](/inside-government-admin-guidecreating-documents/create-an-HTML-document.html) to show on the publication page in a web-based format.
+
 
 Sometimes a single publication page has multiple attachments (eg a statistical release would include the pre-release access list and perhaps some data files as supporting documents). You can also use a single publication page for serial collections of documents:
 
@@ -117,16 +118,22 @@ Serial collections are essentially the same content item that varies over time.
 
 Note that if the new document incorporates all the previous data (eg if you are adding data for the current month to an Excel file) you can [overwrite the attachment](/inside-government-admin-guide/creating-documents/add-attachments.html) rather than uploading multiple attachments. This would be preferable for the user. The document stays at the same URL.
 
-There are a lot of publication sub-types listed below. You need to assign a sub-type to every publication.
+The publication sub-types are listed below. When creating a publication you need to:
+
+* assign a sub-type to every publication
+* tag to policy (always, except for transparency publications)
+* tag to [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) where possible
+* follow style for titles, remembering the difference between the page title and a publication title
+* follow style for summaries, explained in the [create a document section.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 
 ### Titles for publication pages and publications
 
 At the top of the page, write a short GOV.UK style title (65 characters), free of jargon and weighted for SEO. 
 
-Write the publication title in the box where you upload the attachment. You should reproduce the given title of the publication. This publication title is searchable on the public site.
+Type the publication title in the box where you upload the attachment. You should reproduce the given title of the publication. This publication title is searchable on the public site.
 
-[Instructions on how to create a document.](create-a-new-doc.html)
+[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 ### Publication sub-types
 
@@ -248,7 +255,7 @@ Ministry of Defence only: a news style content type announcing the death of a me
    
 Definitions of UK government priorities in international locations. These are only published by people authorised by the Foreign & Commonwealth Office.
 
-[Instructions on how to create a document.](create-a-new-doc.html)
+[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 Some of the sub-types are shown to users in the filters on GOV.UK search pages. It is worth having a look at how these filters work for [publications](https://www.gov.uk/government/publications) and [announcements](https://www.gov.uk/government/announcements). For example written and oral statements are grouped under the term 'Statements to Parliament', under Announcements.
 
