@@ -9,8 +9,8 @@ Use the top navigation to access content that's about your department (eg your h
 
 ![Top navigation 1](top-navigation-1.png)
 
-* Click on 'IG Admin' to go to [your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
-* Click on ‘Documents’ to go to the [document listing](http://alphagov.github.io/inside-government-admin-guide/first-steps/find-documents.html).
+* Click on 'IG Admin' to go to your dashboard - [find out more about your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
+* Click on ‘Documents’ to go to the documents list - [find out how the document filters work](http://alphagov.github.io/inside-government-admin-guide/first-steps/find-documents.html).
 * Click on 'View website' to visit the live GOV.UK website.
 * Click on the plus sign to [create a new document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html).
 * Click on 'Document series' to see a list of all your department's [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) and create new ones.
