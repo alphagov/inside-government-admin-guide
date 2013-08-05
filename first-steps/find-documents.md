@@ -7,7 +7,7 @@ title: How to publish content / Find documents
 
 Click on the 'Documents' link on the top navigation to get to the documents hub. 
 
-![Document hub 1](document-hub-1.png)
+![Document hub 1](document-hub-2.png)
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list to find the document you want.
 
