@@ -21,7 +21,7 @@ It will also return matches for the title of the contact itself, for example her
 
 ![Add contact dialogue 3](http://media.tumblr.com/d52b80731ac58337d5d7c46ecf871f56/tumblr_inline_mo0kkoVjzO1qz4rgp.png)
 
-Click on the contact you want to insert, and your markdown command will be automatically completed using the relevant contact reference number.
+Click on the contact you want to insert, and your Markdown command will be automatically completed using the relevant contact reference number.
 
 It’s a good idea to click the preview toggle to double-check it’s the contact you wanted.
 
