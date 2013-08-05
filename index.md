@@ -18,11 +18,11 @@ title: How to publish content / Index
 
 ## Create and publish documents
 * [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
-* [Create an HTML publication](creating-documents/create-an-HTML-document.html) - for a publication page
 * [Create a new document](creating-documents/create-a-new-doc.html)
 * [Use Markdown to format text](creating-documents/markdown.html) - headers, bullets, tables, acronyms, blockquotes
 * [Add images and videos](creating-documents/add-images.html) 
 * [Add attachments](creating-documents/add-attachments.html) 
+* [Create an HTML publication](creating-documents/create-an-HTML-document.html) - as well as or instead of attached files
 * [Add associations](creating-documents/add-associations.html) - tagging and metadata
 * [Add links](creating-documents/add-links.html) 
 * [Add contacts](organisations-groups/organisation-home-page.html#add_contacts)
