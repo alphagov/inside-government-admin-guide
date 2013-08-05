@@ -53,4 +53,3 @@ title: How to publish content / Index
 * [World location news article](worldwide-network/world-location-news-article.html)
 * [Worldwide organisations](worldwide-network/worldwide-organisations.html)
 
-
