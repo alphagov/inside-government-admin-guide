@@ -41,7 +41,7 @@ Your manager will tell GDS which type of account you need.
 
 ## Requesting an account
 
-If you don't have an account and you need one, ask your manager to contact [GDS support](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so.
+If you don't have an account and you need one, ask your manager to contact GDS support by using the form at [https://support.production.alphagov.co.uk/](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so.
 
 
 ----------------------------------------------------------------------------------------------------------------
