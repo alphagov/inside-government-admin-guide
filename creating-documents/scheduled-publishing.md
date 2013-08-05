@@ -24,7 +24,7 @@ Click the ‘Submit’ button.
 Content will only go live if:
 	
 * it is force scheduled (should only be used in emergencies)
-* a colleague [second eyes](second-pair-of-eyes.html) the document more than 30 minutes prior to publication
+* a colleague [second eyes](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) the document more than 30 minutes prior to publication
 
 
 If you use scheduled publishing a lot, it's a good idea to [read the blog post on the caching and exact timings](https://insidegovuk.blog.gov.uk/2013/07/12/caches-scheduled-publishing-and-consultations/) for successful publication.
