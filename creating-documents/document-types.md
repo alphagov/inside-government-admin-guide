@@ -170,7 +170,7 @@ Use 'statistics' for official statistics produced by members of the Government S
 
 Use 'national statistics' for official statistical releases and reports that meet the UK Statistics Authority's code of practice: this content automatically displays the national statistics logo.
 
-There is a special tickbox you can use to [limit access to producing organisations prior to publication](/inside-government-admin-guide/workflow-content/limit-access.html), which is particularly useful for statistics.
+There is a special tickbox you can use to [limit access to producing organisations prior to publication](/inside-government-admin-guide/workflow-content/limiting-access.html), which is particularly useful for statistics.
 
 
 #### Research and analysis 
@@ -201,7 +201,7 @@ Use this for posters and leaflets that promote government services. It can inclu
 
 Be careful with this content type. If the resource contains guidance, such as an information pack, then even if it is also promotional you should count it as the guidance sub-type. 
 
-[Instructions on how to create a document.](create-a-new-doc.html)
+[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 
 ## Policy 
