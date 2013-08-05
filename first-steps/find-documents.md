@@ -80,3 +80,5 @@ You can filter documents by their state (draft, scheduled, published etc).
 * 'Rejected' shows documents that have been rejected by a second pair of eyes.
 * 'Scheduled' lists documents that are scheduled to be published at a specified date and time.
 * 'Published' shows every document that’s live on GOV.UK.
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
