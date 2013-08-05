@@ -42,7 +42,7 @@ Tag publications and consultations to:
 
 * policy/policies, except transparency data, fatality notices and FOI releases (you should know your sponsoring department's policies and be aware which content relates to which policy)
 * topic/topics only if you cannot identify a policy - this acts as a back-up (tagging to topics is coming soon)
-* document series to help users to find content (you may wish to [create a document series](http://alphagov.github.io/inside-government-admin-guide/editing-other-pages/document-series.html) for your content and related documents, but be aware that document series form an information architcture for your organisation, so they can't be created in an ad hoc way)
+* document series to help users to find content (you may wish to [create a document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) for your content and related documents, but be aware that document series form an information architcture for your organisation, so they can't be created in an ad hoc way)
 * ministers only in cases of direct involvement (eg writing the foreword)
 * topical events only if relevant.
 * worldwide locations and priorities only if you are working for the Foreign & Commonwealth Office and know how to use these tags
