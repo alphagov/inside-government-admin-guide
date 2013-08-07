@@ -27,7 +27,7 @@ title: How to publish content / Index
 * [Add links](creating-documents/add-links.html) 
 * [Add contacts](creating-documents/add-contacts.html)
 * [Add remarks](creating-documents/add-remarks.html) 
-* [Preview, submit and publish](creating-documents/preview-your-work.html) - and submit for publication
+* [Preview, submit and publish](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - add change notes
 * [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
