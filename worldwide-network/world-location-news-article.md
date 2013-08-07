@@ -11,6 +11,6 @@ Use the ‘World location news article’ if you want a story to appear in your 
 
 This document type is very similar to a regular news article, except it contains worldwide associations not UK ones
 
-[More on creating documents](http://alphagov.github.io/inside-government-admin-guide/creating-documents/creating-a-new-doc.html)
+[More on creating documents](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 ![World location news article 2](world-location-news-article-2.png)
