@@ -224,6 +224,8 @@ Use this for all kinds of consultation including calls for evidence. All content
 
 The consultation will close automatically as long as you have entered the correct closing date. The contact details will disappear and the status will change to 'closed'.
 
+If it's closed but you haven't entered a response, the page will show "we are analysing your feedback". This message will be replaced with the response when there is one.
+
 The 2 response stages (public response and government response) can be added at different times or at the same time. They can be added as uploaded documents or as text only, with links to other documents (eg white papers, reports etc).
 
 Users can click on a request to be alerted when a consultation response is published.
