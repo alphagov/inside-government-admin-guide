@@ -15,7 +15,7 @@ Associations are found below the document body text, just underneath the upload 
 ![Add associations 2](add-associations-2.png)
 
 * Once you've selected an option it appears in a rectangle.
-* 
+
 ![Add associations 3](add-associations-3.png)
 
 * To remove it, click the ‘x’.
