@@ -5,7 +5,7 @@ title: How to publish content / Activate your account
 
 ## Activate your account
 
-We have 2 separate environments, Production and Preview, and you need to create a login on each. GDS has to set up these accounts for you. Once this is done, you’ll receive 2 emails inviting you to activate these accounts.
+We have 2 separate environments, Production and Preview, and you need to create a login on each. GDS has to set up these accounts for you. Once this is done, you’ll receive 2 emails inviting you to activate these accounts. You will also receive an email from GDS explaining in detail how to set up your passphrases and get access to Publisher.
 
 * Click on the 'Accept invitation' link in each email and follow the steps below for each account.
 
@@ -27,7 +27,7 @@ We have 2 separate environments, Production and Preview, and you need to create 
 
 ![Get an account 4](get-an-account-4.png)
 
-* You will be prompted for the password that you have been given (it's the same for all users).
+* You will be prompted for the general password that you have been given (it's the same for all users, not your personal email-based login). 
 
 ![Get an account 5](get-an-account-5.png)
 
@@ -35,16 +35,14 @@ If it is your first time in Publisher, you’ll be asked to confirm we can use y
 
 ## Types of account
 
-Department and agency web editors will generally be given 'editor' status. If you don't publish content and will use Publisher only for writing and editing copy, you will be a 'writer' status. This means you won't be able to publish content, but you will be able to carry out [second eye](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html).
+With 'writer' status you can create content. 'Editor' status means you can create and publish content and will be able to carry out [second eye](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) checks on content submitted by others.
 
 Your manager will tell GDS which type of account you need. 
 
 ## Requesting an account
 
-If you don't have an account and you need one, ask your manager to contact GDS support by using the form at [https://support.production.alphagov.co.uk/](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so.
+If you don't have an account and you need one, ask your manager to contact GDS support by using the form at [https://support.production.alphagov.co.uk/](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so. You will need to attend a training session on writing to GOV.UK style and using Publisher before being granted an account.
 
+## Your dashboard
 
-----------------------------------------------------------------------------------------------------------------
- 
- 
-Find out [how to use your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html). 
+Logging in takes you to your dashboard. Find out [how to use your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html). 
