@@ -20,7 +20,9 @@ Click the 'More' link to see more sections.
 
 ![Top navigation 3](top-navigation-3.png)
 
-Click any of these links to access content creation. Some of this content is created and edited by you, but sometimes you'll need to ask GDS to carry out or approve content creation. You'll see a message in red if this is the case.
+Click any of these links to create or edit your organisation's content. Sometimes you'll need to ask GDS to carry out or approve content creation. You'll see a message in red if this is the case.
+
+You may not create or edit any content that is not the responsibility of your organisation. 
 
 
 
