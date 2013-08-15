@@ -5,7 +5,7 @@ title: How to publish content / Find documents
 
 ## Find documents - using the filters on Publisher
 
-Click on the 'Documents' link on the top navigation to get to the documents hub. 
+Click on the 'Documents' link on the top navigation to get to the full list of documents on GOV.UK. 
 
 ![Document hub 1](document-hub-2.png)
 
@@ -18,18 +18,13 @@ You can use just one filter or several - they will all act together.
 
 ### Filter by title or slug
 
-This looks like a search box but actually filters the text to find the words you type. You can filter using consecutive words from the document's title or the slug of the public-facing URL. 
+You can filter using consecutive words from the document's title or the slug of the public-facing URL on GOV.UK (for example 'making-roads-safer').
 
 ![Document filters 2](document-filters-2.png)
 
-Type in a word or phrase (must be consecutive words) and hit return.
+The search filters the text to find the words you type. Type in consecutive words from the title or a slug (including hyphens) and hit return.
 
-...or...
-
-Type in the slug of a published document from the GOV.UK URL (for example 'making-roads-safer').
-
-
-### Filter by author or organisation.
+### Filter by author or organisation
 
 You can filter documents by any department or agency, or you can find documents that have been created or edited by yourself or other colleagues.
 
