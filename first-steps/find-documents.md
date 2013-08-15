@@ -31,7 +31,7 @@ You can filter documents by any department or agency, or you can find documents 
 ![Document filters 3](document-filters-3.png)
 
 * Click on 'Me' to bring up documents that you have created or edited.
-* Click on 'My department' for anyone in your team. 
+* Click on 'My department' for all documents written by members of your team. 
 * Use the dropdown menu for other organisations, or start typing the organisation name to find them more quickly.
 
 ![Document filters 4](document-filters-4.png)
@@ -69,9 +69,9 @@ You can filter documents by their state (draft, scheduled, published etc).
 ![Document filters 8](document-filters-8.png)
 
 * ‘All’ shows every document.
-* 'Imported (pre-draft)' is used by departments and agencies in transition. Click on it to see documents that have been imported that you need to tag and tidy.
+* 'Imported (pre-draft)' is used by departments and agencies in transition. Click on it to see documents that have been imported ready for editing.
 * 'Drafts' shows documents that are a work in progress.
-* 'Submitted' shows documents waiting for a second pair of eyes to look at them. You should ordinarily submit documents rather than publish them yourself.
+* 'Submitted' shows documents waiting for a second pair of eyes to look at them. You should always submit documents rather than publish them yourself except when you are obliged to [force publish](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes).
 * 'Rejected' shows documents that have been rejected by a second pair of eyes.
 * 'Scheduled' lists documents that are scheduled to be published at a specified date and time.
 * 'Published' shows every document that’s live on GOV.UK.
