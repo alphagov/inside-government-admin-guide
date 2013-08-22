@@ -5,9 +5,9 @@ title: How to publish content / Add associations
 
 ## Add associations (tagging and metadata)
 
-You can tag your document to organisations, topics, policies, ministers and international locations (depending on content format).
+You can tag your document to organisations, policies, topics, ministers and international locations (depending on the content format).
 
-Associations are found below the document body text, just underneath the upload images section. 
+You add associations in the section just below the document body text, just underneath the upload images section. 
 
 * Click within the association field drop-down menu appears showing all the possible values you can enter.  	
 * Start typing and it will narrow down your available options.
@@ -57,9 +57,9 @@ Tag publications and consultations to:
 * topical events only if relevant.
 * worldwide locations and priorities only if you are working for the Foreign & Commonwealth Office and know how to use these tags
 
-#### Associations for announcements
+#### Associations for announcements (news and speeches)
 
-Speeches are tagged to their speakers in all cases, so ministers do not appear in the associations list. Tag announcements to:
+You will need to tag speeches to their speakers in all cases, so ministers do not appear in the associations list. Tag announcements to:
 
 * policy/policies (you should know your sponsoring department's policies and be aware which content relates to which policy)
 * topic/topics only if you cannot identify a policy - this acts as a back-up
