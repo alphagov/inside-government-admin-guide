@@ -28,23 +28,26 @@ Publisher will require you to:
 * tag to an alternative format provider
 * tag to a speaker for a speech (see below)
 
-You must also:
-
-* add other lead and supporting organisations if they share responsibility for the document or policy etc
-* where possible tag content to a policy - all GOV.UK content with some exceptions should be relevant to what the currently elected government is doing 
+You must also add other lead and supporting organisations if they share responsibility for the document or policy etc
 
 ![Add associations 1](add-associations-1.png)
 
 
-### Tagging to a policy 
+### Tagging to policies and topics 
 
-Tagging to a policy or policies automatically tags the content to one or more topics (you will see these populating the 'topics' field as soon as you select a policy). It is useful because:
+Always tag content to a policy - all GOV.UK content should be relevant to what the currently elected government is doing. There are a few exceptions explained below.
+
+Tagging to a policy or policies is useful because:
 
 * end users can filter on policy or topic to view content
 * end users can view or subscribe to the tagged content via the 'latest' activity tab on each policy
 * GDS can alert info4local users to content tagged to policies relevant to local government
 
 Use associations purposefully but sparingly. On policies, 1 is best and any more than 3 is probably too many.
+
+Tagging to a policy automatically tags the content to 1 or more topics (you will see these populating the 'topics' field as soon as you select a policy). You can then 'fine tune' the topics, removing any that are not relevant and adding others.
+
+In a few instances explained below, you will need to tag to a topic because there is no suitable policy to tag to.
 
 #### Associations for publications and consultations
 
