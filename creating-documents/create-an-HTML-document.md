@@ -5,7 +5,7 @@ title: How to publish content / Create an HTML publication
 
 ## Create an HTML publication
 
-An HTML publication is NOT a document and cannot be created directly from the 'Create a document' button. It is an attachment on a publication, just as you would attach a PDF or a Word document. 
+An HTML publication cannot be created directly from the 'Create a document' button. It is an attachment on a publication, just as you would attach a PDF or a Word document. 
 
 So first you create a publication page to hold your HTML document, then you scroll down and add the HTML document text into the field labelled HTML version.
 
