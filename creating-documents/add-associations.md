@@ -47,6 +47,8 @@ Use associations purposefully but sparingly. On policies, 1 is best and any more
 
 Tagging to a policy automatically tags the content to 1 or more topics (you will see these populating the 'topics' field as soon as you select a policy). You can then 'fine tune' the topics, removing any that are not relevant and adding others.
 
+![Add associations 8](add-associations-8.png)
+
 In a few instances explained below, you will need to tag to a topic because there is no suitable policy to tag to.
 
 #### Associations for publications and consultations
