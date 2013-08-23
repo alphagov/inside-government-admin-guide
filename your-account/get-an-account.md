@@ -39,6 +39,8 @@ With 'writer' status you can create content. 'Editor' status means you can creat
 
 Your manager will tell GDS which type of account you need. 
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
+
 ## Requesting an account
 
 If you don't have an account and you need one, ask your manager to contact GDS support by using the form at [https://support.production.alphagov.co.uk/](https://support.production.alphagov.co.uk/) (you need to be logged in to access the support form). You'll need to be in a department or agency that has already transitioned to GOV.UK or is about to do so. You will need to attend a training session on writing to GOV.UK style and using Publisher before being granted an account.
