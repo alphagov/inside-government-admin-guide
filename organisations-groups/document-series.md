@@ -49,4 +49,6 @@ Before a document series can be deleted it needs to be empty. You will need to r
 * Find the series you want to delete (it should say 0 editions).
 * Click on the name to edit it.
 * Click the red 'Delete' button.
-	
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
+
