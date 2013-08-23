@@ -40,4 +40,4 @@ Teams are groups within organisations responsible for delivering an area of poli
 
 Note that 'team' is lower case, as in Green Deal team.
 
-[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide)
