@@ -30,7 +30,7 @@ To clear this label, ask a fellow editor to check the page and click the ‘Look
 
 ![Second pair of eyes 5](second-pair-of-eyes-5.png)
 
-[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide)
 
 
 
