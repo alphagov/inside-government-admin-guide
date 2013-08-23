@@ -106,4 +106,5 @@ For more advice on using blockquotes on GOV.UK, see the [style guide: news](http
 
 These are covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
