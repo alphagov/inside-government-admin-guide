@@ -27,3 +27,5 @@ Please note that the following tasks cannot be carried out in Publisher:
 * duplicating a page - you’ll need to create a new page and use copy and paste
 * moving a page from Preview to Production - you’ll need to create a new page and use copy and paste
 * changing a document’s type (eg from a news story to a publication) - you'll need to create a new page and use copy and paste
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
