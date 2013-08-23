@@ -73,5 +73,6 @@ You will need to tag speeches to their speakers in all cases, so ministers do no
 * topical events only if relevant
 * worldwide locations and priorities only if you are working for the Foreign & Commonwealth Office and know how to use these tags
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
