@@ -47,3 +47,4 @@ Users can read change notes by clicking the date of the article on the live page
 	
 It’s also a good idea to [add a remark internally](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-remarks.html) so other editors can see who requested the change and why. 
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
