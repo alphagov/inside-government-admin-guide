@@ -37,3 +37,7 @@ Preview the page and you’ll see there’s a link to the policy advisory group�
 ## Teams
 
 Teams are groups within organisations responsible for delivering an area of policy, eg the [HS2 team](https://www.gov.uk/government/policy-teams/high-speed-rail-team). The process of creating them is very similar to creating policy advisory teams. They also need to be associated with a policy. Do this by editing the policy page.
+
+Note that 'team' is lower case, as in Green Deal team.
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
