@@ -91,4 +91,5 @@ The bulk uploader can also be used to quickly overwrite previous versions of fil
 * You could also edit the title or other metadata for an existing attachment.
 * To delete a file, click 'Delete', you will be asked to confirm your action and then the file will be deleted (no need for further saving).
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
