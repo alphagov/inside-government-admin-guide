@@ -27,3 +27,5 @@ There is a simple passphrase reset request on the login screen. It is also usefu
 Password reset instructions will be sent to the email address if it is registered with us. If you can't find them, check your spam filter.
 
 Some IT departments block these emails so that's also worth checking.
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
