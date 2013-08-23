@@ -14,3 +14,5 @@ This document type is very similar to a regular news article, except it contains
 [More on creating documents](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
 ![World location news article 2](world-location-news-article-2.png)
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
