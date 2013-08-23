@@ -31,7 +31,7 @@ Please check with GDS before using this type. Once you have agreement, you can c
 
 ![Sub org 4](sub-organisation-4.png)	 
 
-Any sub-org will go live as soon as you save the page. So double check everything before you click ‘Save’. You can then find it in the departments and agencies list (use ctrl F to find it quickly) and you can add corporate content and featured stories.
+Any sub-org will go live as soon as you save the page. So double check everything before you click ‘Save’. You can then find it in the departments and agencies list (use ctrl F to find it quickly) and you can add corporate content and featured stories exactly as with an [organisation home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html).
 
-
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
 
