@@ -21,3 +21,5 @@ When they've checked the page, you'll receive an email with a link to click.
 This link takes you back to the Publisher where you can see their comments.
 
 ![Fact checking 3](fact-checking-3.png)
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
