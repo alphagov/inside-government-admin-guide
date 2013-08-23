@@ -32,6 +32,7 @@ You can change the order of featured documents. The first document featured will
 
 ![Homepage 6](homepage-6.png)
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
 
