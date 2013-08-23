@@ -30,6 +30,7 @@ Click any of these links to create or edit your organisation's content. Sometime
 
 You may not create or edit any content that is not the responsibility of your organisation. 
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
 	
