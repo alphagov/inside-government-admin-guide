@@ -45,5 +45,6 @@ Click the green 'Submit' button. Your document should be picked up by [second pa
 
 If no one is available and you need to publish your page quickly, you can [force publish](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html); ensure that the page is given a 'looks good' approval as soon as possible after this.
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
