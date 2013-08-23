@@ -5,34 +5,33 @@ title: How to publish content / Sub-organisations
 
 ## Sub-organisations
 
-1. Sub-orgs are high profile groups that have sufficient public profile and publishing activity to warrant an org-lite presence, nested beneath a parent body. 
+Sub-orgs are high profile groups that have sufficient public profile and publishing activity to warrant a presence, nested beneath a parent body. The sub-org will have a normal organisation homepage which can have its own corporate content and featured stories. However it will not be available for tagging. 
 
-	Please check with GDS before using this type.
-	
-	Any changes made to these pages will go live as soon as you save them. So double check everything before you click ‘Save’.
-	
-2. To create one, first click on ‘Departments & agencies’.
+![Sub org 6](sub-organisation-6.png)
 
-	![Sub org 1](sub-organisation-1.png)
-	
-	Click on ‘Create organisation’.
-	
-	![Sub org 2](sub-organisation-2.png)
-	
-3. Next change the organisation type to 'sub-organisation'.
+It will appear at the bottom of the sponsoring organisation's homepage under ‘High profile groups’.
 
-	![Sub org 3](sub-organisation-3.png)
-	
-4. Set the sponsoring department to your organisation.
+![Sub org 5](sub-organisation-5.png)
 
-	![Sub org 4](sub-organisation-4.png)	 
-	
-5. The sub-org appears at the bottom of your homepage under ‘High profile groups’.
+Please check with GDS before using this type. Once you have agreement, you can create the sub-org.
 
-	![Sub org 5](sub-organisation-5.png)	
-	
-	They have a organisation homepage like yours which accepts featured stories and more.
-	
-	![Sub org 6](sub-organisation-6.png)
+* First click on ‘Departments and agencies’.
+
+![Sub org 1](sub-organisation-1.png)
+
+* Click on the ‘Create organisation’ button.
+
+![Sub org 2](sub-organisation-2.png)
+
+* Select the organisation type, 'Sub-organisation'.
+
+![Sub org 3](sub-organisation-3.png)
+
+* Set the sponsoring department to your organisation.
+
+![Sub org 4](sub-organisation-4.png)	 
+
+Any sub-org will go live as soon as you save the page. So double check everything before you click ‘Save’. You can then find it in the departments and agencies list (use ctrl F to find it quickly) and you can add corporate content and featured stories.
+
 
 
