@@ -42,5 +42,5 @@ You'll need to check with GDS before creating any ministerial roles. You can add
 
 ![People and roles 4](people-and-roles-4.png)
 
-[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide)
 	
