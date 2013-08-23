@@ -29,3 +29,5 @@ Publications have all their attachments added to both the English and the langua
 For news or HTML publications, you can add the attachments you select using Markdown, so you can add English attachments to your English version and translated attachments to your language version. 
 
 Not that after a document is published you need to add a [change note](http://alphagov.github.io/inside-government-admin-guide/creating-documents/editing-a-doc.html) when you edit it.
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
