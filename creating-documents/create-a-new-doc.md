@@ -61,4 +61,5 @@ Summaries must:
 
 ![Create new document 4](creating-a-new-doc-4.png)
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
