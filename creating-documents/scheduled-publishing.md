@@ -29,3 +29,4 @@ Content will only go live if:
 
 If you use scheduled publishing a lot, it's a good idea to [read the blog post on the caching and exact timings](https://insidegovuk.blog.gov.uk/2013/07/12/caches-scheduled-publishing-and-consultations/) for successful publication.
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
