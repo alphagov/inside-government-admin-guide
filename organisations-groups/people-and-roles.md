@@ -41,4 +41,6 @@ You'll need to check with GDS before creating any ministerial roles. You can add
 * Enter a start date - the old role-holder will automatically end their tenure on this date.
 
 ![People and roles 4](people-and-roles-4.png)
+
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide.html)
 	
