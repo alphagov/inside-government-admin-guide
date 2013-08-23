@@ -43,6 +43,7 @@ You can embed videos directly into your page using Markdown. Only YouTube videos
 * Leave a line space above and below your link, and don’t use a bullet point.
 * The video will display in an embedded media player automatically.
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
 	
