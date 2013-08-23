@@ -26,6 +26,7 @@ Using the top navigation, you can:
 *  click through to 'Document series', where you can create [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) to group your documents
 *  click through to 'Your organisation', which is where you control the [home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html) for your department or agency and can [select the content to feature on your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/feature-documents-home-page.html)
 
+[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
    
