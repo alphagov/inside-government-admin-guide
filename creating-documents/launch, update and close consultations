@@ -4,9 +4,9 @@ title: How to publish content / Launch, update and conclude a consultation
 
 ## Launch, update and conclude a consultation
 
-Consultations stay on the same page of GOV.UK throughout their life cycle, with a status that changes automatically.
+Consultations stay on the same page of GOV.UK throughout their life cycle.
 
-* The status changes from open to closed on the closing date, and the contact details disappear.
+* The status changes automatically from open to closed on the closing date you specify, and the contact details disappear.
 * The status changes from closed to concluded when you upload the government response or enter text in the detail box.
 
 
