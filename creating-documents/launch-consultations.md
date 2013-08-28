@@ -25,6 +25,9 @@ Each consultation stays on the same page of GOV.UK throughout its life cycle.
 ![Create consultation 2](create-consultation-2.png)
 
 * Click 'Save and continue editing' and click on the attachments tab (this tab won't appear until you have saved the document).
+
+![Create consultation 5](create-consultation-5.png)
+
 * Upload the consultation document.
 * Add links to supporting documents such as impact assessments in the body copy (impact assessments should be publications in their own right).
 * Submit the consultation and ensure it goes to a [second pair of eyes](https://github.com/alphagov/inside-government-admin-guide/blob/gh-pages/creating-documents/launch-consultations.md).
