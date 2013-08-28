@@ -14,7 +14,7 @@ Consultations stay on the same page of GOV.UK throughout their life cycle.
 ### Launch a consultation
 
 * Create a consultation using the 'Create new document' menu.
-* Add a title, summary and enter some body copy of no more than 100 words, summarising the call for responses. 
+* Add a title and summary and enter some body copy of no more than 100 words, summarising the call for responses. 
 
 ![Create consultation 1](create-consultation-1.png)
 
@@ -26,8 +26,9 @@ Consultations stay on the same page of GOV.UK throughout their life cycle.
 
 * Click 'Save and continue editing' and click on the attachments tab (this tab won't appear until you have saved the document).
 * Upload the consultation document.
-* Add links to supporting documents (such as impact assessments) in the body copy (impact assessments should be publications in their own right).
-* Submit the consultation and ensure it is scheduled by another editor.
+* Add links to supporting documents such as impact assessments in the body copy (impact assessments should be publications in their own right).
+* Submit the consultation and ensure it goes to a [second pair of eyes](https://github.com/alphagov/inside-government-admin-guide/blob/gh-pages/creating-documents/launch-consultations.md).
+* The second eye will need to click 'Schedule' in order for the consultation to go live at the scheduled time.
 
 When the consultation reaches its closing date the status changes to 'Closed', with the message 'We are analysing your feedback'.
 
