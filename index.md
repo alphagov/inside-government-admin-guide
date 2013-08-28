@@ -30,10 +30,11 @@ title: How to publish content / Index
 * [Preview, submit and publish](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - including change notes
+* [Consultations: launch, update and conclude](/creating-documents/launch-consultations.html)
 * [Requests to delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
 
 ## Workflow for managing content 
-* [Fact check: sharing pages with colleagues](workflow-content/fact-checking.html) - for external stakeholders or policy teams
+* [Fact check: share pages with colleagues](workflow-content/fact-checking.html) - for external stakeholders or policy teams
 * [Second pair of eyes, force publishing and ‘looks good’](workflow-content/second-pair-of-eyes.html)
 * [Limit editor access](workflow-content/limiting-access.html) - for sensitive documents
 
