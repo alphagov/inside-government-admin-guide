@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to publish content / Launch, update and conclude a consultation
+---
 
 ## Launch, update and conclude a consultation
 
