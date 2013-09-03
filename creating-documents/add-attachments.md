@@ -30,11 +30,9 @@ You will have to save the document before you add any attachments (you can't add
    * If the attachment is not accessible you leave the box unticked - users are then given an email contact for requesting an alternative format.
 * Continue to upload more attachments by repeating the process.
 
-## Position the attachments
+## Order and position the attachments
 
-For publications and consultations, the attachments will be added to the page in the order they were uploaded. 
-
-They can be repositioned right away or later on.
+For publications and consultations, the attachments can be re-ordered right away or later on. Note that you cannot position the attachments in the body copy. The attachments will automatically appear below the summary and above the body copy.
 
 ![Add attachments 9](add-attachments-9.png)
 
@@ -43,7 +41,7 @@ They can be repositioned right away or later on.
 * Click 'Save attachment order' at the bottom of the tab: this completes your re-ordering and you can exit the document.
 
 
-For news, detailed guides and HTML publications, the attachments are all given 2 alternative Markdown codes so that they can be positioned within the body text. You can use either of these codes to position the attachment where you like in your document.
+For news stories, the attachments can be positioned anywhere in the text using Markdown. 
 
 ![Add attachments 3](add-attachments-3.png)
 
@@ -52,12 +50,14 @@ The first attachment is number 1, the other attachments are numbered according t
 * In the text, type \[InlineAttachment:1\] for a text link.
 * OR type !@1 for a tinted publication box (leave a line space above).
 
-	![Add attachments 2](add-attachments-2.png)
+![Add attachments 2](add-attachments-2.png)
 
-* \[InlineAttachment:n\] pulls in the attachment title as hypertext, adding the file type and size in brackets. You can also list these with bullet points (useful for several related attachments).
-* !@n creates a grey tint box with the front cover of the attached document, and adds the file type and size under the title.
+There are 2 options for adding an attachment.
 
-It’s easy to re-order or reposition the attachments by where you choose to place the Markdown code on the page. The number given to an attachment will not change, even if attachments are removed later.
+* \[InlineAttachment:1\] will pull in the attachment title as hypertext, adding the file type and size in brackets. You can also list these with bullet points (useful for several related attachments).
+* !@1 will show a more prominent link, including the front cover of the attached document, and adds the file type and size under the title.
+
+It’s easy to reposition the attachments by moving the position of the Markdown code on the page. The number given to an attachment will not change, even if other attachments are removed later.
 
 ## Bulk upload
 
