@@ -25,3 +25,4 @@ Click on the contact you want to insert, and your Markdown command will be autom
 
 It’s a good idea to click the preview toggle to double-check it’s the contact you wanted.
 
+< [Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
