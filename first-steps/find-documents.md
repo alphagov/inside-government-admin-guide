@@ -26,20 +26,13 @@ The search filters the text to find the words you type. Type in consecutive word
 
 ### Filter by author or organisation
 
-You can filter documents by any department or agency, or you can find documents that have been created or edited by yourself or other colleagues.
+You can find documents that have been created or edited by yourself or other colleagues. Click on 'Me' to see documents you have created or edited, or start typing a colleague's name to find them quickly.
 
 ![Document filters 3](document-filters-3.png)
 
-* Click on 'Me' to bring up documents that you have created or edited.
-* Click on 'My department' for all documents written by members of your team. 
-* Use the dropdown menu for other organisations, or start typing the organisation name to find them more quickly.
+Start typing a word from your organisation's name to bring it up quickly. This will show all the documents for which your department is a lead or a supporting organisation.
 
 ![Document filters 4](document-filters-4.png)
-
-* Click on 'Everyone' to see all documents. 
-* Use the dropdown menu for other authors, or start typing a colleague's name to find them more quickly.
-
-![Document filters 5](document-filters-5.png)
 
 
 ### Filter by world location   
@@ -61,6 +54,10 @@ You can filter documents by their type (publication, policy, news article etc).
 * Click on ‘Policies’ and the document list will update to show only policies.
 * Click ‘All’ to see every document type again.
 
+Scroll further down the list to find the document sub-types.
+
+![Document filters 9](document-filters-9.png)
+
 
 ### Filter by state
 
@@ -68,12 +65,28 @@ You can filter documents by their state (draft, scheduled, published etc).
 
 ![Document filters 8](document-filters-8.png)
 
-* ‘All’ shows every document.
 * 'Imported (pre-draft)' is used by departments and agencies in transition. Click on it to see documents that have been imported ready for editing.
 * 'Drafts' shows documents that are a work in progress.
 * 'Submitted' shows documents waiting for a second pair of eyes to look at them. You should always submit documents rather than publish them yourself except when you are obliged to [force publish](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes).
 * 'Rejected' shows documents that have been rejected by a second pair of eyes.
 * 'Scheduled' lists documents that are scheduled to be published at a specified date and time.
 * 'Published' shows every document that’s live on GOV.UK.
+* 'Force published (not reviewed)' shows all documents that [need a second eye](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html).
+
+
+### Filter by date
+
+You can filter documents by the last date they were edited, using the 'from' and 'to' fields. (The greyed out dates are just a guide to the format.)
+
+![Document filters 10](document-filters-10.png)
+
+
+### Clearing the filters
+
+![Document filters 11](document-filters-11.png)
+
+To clear a filter and return to showing 'all', you need to click on the 'X'.
+
+
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
