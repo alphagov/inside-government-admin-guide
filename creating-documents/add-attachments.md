@@ -21,13 +21,13 @@ You will have to save the document before you add any attachments (you can't add
 
 * Select 'Upload an attachment' 
 
-![Add attachments 7](add-attachments-7.png)
+![Add attachments 6](add-attachments-6.png)
 
-* Fill in the title: use the title of the document as it appears on the cover. 
+* Fill in the title - use the title of the document as it appears on the cover. 
 * Fill in the rest of the metadata as required. These fields are searchable and may help your users to find the document (eg reference numbers for FOI requests).
 * Upload the first attachment by clicking the 'Choose file' button.
 
-![Add attachments 6](add-attachments-6.png)
+![Add attachments 1](add-attachments-1.png)
 
 * If your attachment is fully accessible then tick the box.
    * The [style guide section 13](https://www.gov.uk/designprinciples/accessiblepdfs) explains how to check if a document is accessible. 
@@ -42,12 +42,12 @@ The attachments can be re-ordered right away or later on. Note that you cannot p
 
 ![Add attachments 9](add-attachments-9.png)
 
-* Click 'Edit' and go to the attachments tab (if you are not in 'Edit' the attachments can't be re-ordered).
+* If you need to find the attachments, click 'Edit' and go to the attachments tab (if you are not in 'Edit' the attachments can't be re-ordered).
 * Use your cursor (which should be a cross) to drag and reposition your attachments.
 * Click 'Save attachment order' at the bottom of the tab: this completes your re-ordering and you can exit the document.
 
 
-#### News stories
+#### News stories, corporate pages, groups
 
 Attachments can be positioned anywhere in the text using Markdown. There are 2 options for adding an attachment.
 
