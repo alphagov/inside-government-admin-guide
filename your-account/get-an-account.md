@@ -48,3 +48,5 @@ If you don't have an account and you need one, ask your manager to contact GDS s
 ## Your dashboard
 
 Logging in takes you to your dashboard. Find out [how to use your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html). 
+
+< [Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
