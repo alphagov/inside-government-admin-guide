@@ -9,14 +9,13 @@ Use the top navigation to access content that's about your department (eg your h
 
 ![Top navigation 1](top-navigation-1.png)
 
-* Click on 'IG Admin' to go to your dashboard - [find out more about your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
-* Click on ‘Documents’ to go to the documents list - [find out how the document filters work](http://alphagov.github.io/inside-government-admin-guide/first-steps/find-documents.html).
+* Click on 'Dashboard' to go to your dashboard - [find out more about your dashboard](http://alphagov.github.io/inside-government-admin-guide/first-steps/your-dashboard.html).
 * Click on 'View website' to visit the live GOV.UK website.
-* Click on the plus sign to [create a new document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html).
+* Click on 'Create new document' to [create a new document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html).
+* Click on ‘Documents’ to go to the documents list - [find out how the document filters work](http://alphagov.github.io/inside-government-admin-guide/first-steps/find-documents.html).
 * Click on 'Document series' to see a list of all your department's [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) and create new ones.
-* Click on your organisation's name to [manage your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html), corporate pages, people and groups. If the wrong organisation is shown here please get in touch and we’ll fix it.
-
-![Organisation 1](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-1.png) 
+* Click on 'Feature documents' to select content for your organisation's home page.
+* Click on 'Manage corporate information' to [manage your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html), corporate pages, people and groups. If the wrong organisation is shown here please get in touch and we’ll fix it.
 
 Click the 'More' link to see more sections.
 
