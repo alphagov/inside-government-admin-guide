@@ -11,13 +11,17 @@ You will have to save the document before you add any attachments (you can't add
 
 ## Upload attachment(s) individually
 
-* On a saved document, select 'Edit' and then go to the attachments tab.
+* On a saved document, select 'Edit draft'. 
 
 ![Editing a docoument 3](editing-a-doc-3.png)
 
+* Go to the attachments tab.
+
+![Add attachments 11](add-attachments-11.png)
+
 * Select 'Upload an attachment' 
 
-![Add associations 7](add-associations-7.png)
+![Add attachments 7](add-attachments-7.png)
 
 * Fill in the title: use the title of the document as it appears on the cover. 
 * Fill in the rest of the metadata as required. These fields are searchable and may help your users to find the document (eg reference numbers for FOI requests).
