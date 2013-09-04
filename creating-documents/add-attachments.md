@@ -19,7 +19,7 @@ You will have to save the document before you add any attachments (you can't add
 
 ![Add attachments 11](add-attachments-11.png)
 
-* Select 'Upload an attachment' 
+* Select 'Upload new attachment' 
 
 ![Add attachments 6](add-attachments-6.png)
 
@@ -76,7 +76,7 @@ You can also upload files in bulk.
 
 * Select the zip file upload option.
 
-![Add attachments 10](add-attachments-10.png)
+![Add attachments 8](add-attachments-8.png)
 
 * Click the 'choose file' button and upload the zip file. You will get a listing of all the uploaded files, awaiting their titles and metadata.
 
