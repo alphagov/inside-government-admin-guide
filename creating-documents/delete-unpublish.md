@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Requests to delete or unpublish documents and create or delete URLs
 ---
 
-##Requests to delete or unpublish documents
+Please note this manual is a draft version and will be revised shortly.
+
+#Requests to delete or unpublish documents
 
 Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish content. Contact your SPOC if you need to do this. Include the internal Publisher and live GOV.UK URLs in your request. 
 
