@@ -3,6 +3,8 @@ layout: default
 title: Inside Government Admin Guide - Add links
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Add links
 
 ### Add external links
