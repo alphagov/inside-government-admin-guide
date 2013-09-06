@@ -3,6 +3,8 @@ layout: default
 title: How to publish content on GOV.UK / Support from GDS
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Support from GDS
 
 The Government Digital Service (GDS) will be offering support to agencies in transition and departments and agencies that have transitioned. 
