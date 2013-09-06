@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Sub-organisations
 ---
 
-## Sub-organisations
+Please note this manual is a draft version and will be revised shortly.
+
+# Sub-organisations
 
 Sub-orgs are high profile groups that have sufficient public profile and publishing activity to warrant a presence, nested beneath a parent body. The sub-org will have a normal organisation homepage which can have its own corporate content and featured stories. However it will not be available for tagging. 
 
