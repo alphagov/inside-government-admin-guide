@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / People and roles
 ---
 
-## People and roles
+Please note this manual is a draft version and will be revised shortly.
+
+# People and roles
 
 People and their roles are covered by 2 separate sections of the Publisher. You need the person first, then you can assign a role to them by editing the role.
 
