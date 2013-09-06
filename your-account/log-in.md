@@ -5,6 +5,7 @@ title: How to publish content / Log in
 
 ## Log in
 
+Please note this manual is a draft version and will be revised shortly.
 
 We have 2 separate environments in Publisher.
 
