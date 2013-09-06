@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Create a new document
 ---
 
-## Create a new document
+Please note this manual is a draft version and will be revised shortly.
+
+# Create a new document
 
 Before you create a document you need to be sure you have selected the [correct type and sub-type](http://alphagov.github.io/inside-government-admin-guide/creating-documents/document-types.html) for your content. You also need to have read the style guide in detail so that you know [how to write for GOV.UK](https://www.gov.uk/designprinciples/styleguide).
 
