@@ -3,7 +3,9 @@ layout: default
 title: How to publish on GOV.UK / Policy advisory groups and teams
 ---
 
-## Policy advisory group
+Please note this manual is a draft version and will be revised shortly.
+
+# Policy advisory group
 
 Policy advisory groups are groups or commitees that have input to a policy eg the [HS2 Growth Taskforce](https://www.gov.uk/government/policy-advisory-groups/hs2-growth-taskforce). They are usually made up of external experts or stakeholders.
 
