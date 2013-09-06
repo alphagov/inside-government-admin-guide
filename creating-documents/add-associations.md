@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Add associations
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Add associations (tagging and metadata)
 
 You can tag your document to organisations, policies, topics, ministers and international locations (depending on the content format).
