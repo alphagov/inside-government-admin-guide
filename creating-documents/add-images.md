@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Add images and videos
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Add images and videos
 
 ### Add images
