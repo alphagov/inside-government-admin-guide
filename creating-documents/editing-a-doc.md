@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Edit a published document
 ---
 
-## Edit a published document
+Please note this manual is a draft version and will be revised shortly.
+
+# Edit a published document
 
 From the document list or from your dashboard, click on a document title to view it.
 
