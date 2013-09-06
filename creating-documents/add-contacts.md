@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Add contacts to a page
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 If your contact doesn't exist in publisher yet, you'll need to [create it](/inside-government-admin-guide/organisations-groups/organisation-home-page.html#add_contacts).
 
 # Add contacts to a page
