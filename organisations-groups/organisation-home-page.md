@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Organisation home page, ‘What we do’ and adding contacts
 ---
 
-## Organisation home page and ‘What we do’
+Please note this manual is a draft version and will be revised shortly.
+
+# Organisation home page and ‘What we do’
 
 Click on your organisation name to open your home page hub. 
 
