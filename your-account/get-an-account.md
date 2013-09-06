@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Activate your account
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Activate your account
 
 We have 2 separate environments, Production and Preview, and you need to create a login on each. GDS has to set up these accounts for you. Once this is done, you’ll receive 2 emails inviting you to activate these accounts. You will also receive an email from GDS explaining in detail how to set up your passphrases and get access to Publisher.
