@@ -11,7 +11,7 @@ You can add attachments individually or you can bulk-upload a zip file containin
 
 You will have to save the document before you add any attachments (you can't add attachments at the create document stage). 
 
-## Upload attachment(s) individually
+### Upload attachment(s) individually
 
 * On a saved document, select 'Edit draft'. 
 
