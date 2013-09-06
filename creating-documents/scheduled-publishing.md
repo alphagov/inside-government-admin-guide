@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Schedule a document
 ---
 
-## Schedule a document for timed publication
+Please note this manual is a draft version and will be revised shortly.
+
+# Schedule a document for timed publication
 
 Any document type (policies, news, speeches, consultations, publications) can be scheduled for publication. 
 
