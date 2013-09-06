@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / World location news article
 ---
 
-## World location news article
+Please note this manual is a draft version and will be revised shortly.
+
+# World location news article
 
 Use the ‘World location news article’ if you want a story to appear in your location and NOT on your main department site.
 
