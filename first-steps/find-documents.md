@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Find documents
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Find documents - using the filters on Publisher
 
 Click on the 'Documents' link on the top navigation to get to the full list of documents on GOV.UK. 
