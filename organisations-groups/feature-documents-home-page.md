@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Feature documents on your home page
 ---
 
-## Feature documents on your home page
+Please note this manual is a draft version and will be revised shortly.
+
+# Feature documents on your home page
 
 Feature documents with photos on your home page to draw attention to current stories or important publications or announcements. 
 
