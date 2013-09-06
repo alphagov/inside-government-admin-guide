@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Find your way
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Find your way around Publisher
 
 Use the top navigation to access content that's about your department (eg your home page, contact details, policy teams etc). 
