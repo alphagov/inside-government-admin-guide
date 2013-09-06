@@ -3,7 +3,9 @@ layout: default
 title: Inside Government Admin Guide - World locations
 ---
 
-## World locations
+Please note this manual is a draft version and will be revised shortly.
+
+# World locations
 
 You can’t create World locations, but you can edit them.
 
