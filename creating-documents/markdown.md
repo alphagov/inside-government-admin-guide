@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Use Markdown
 ---
 
-## Use Markdown for headers, links, bullets, tables, acronyms and blockquotes
+Please note this manual is a draft version and will be revised shortly.
+
+# Use Markdown for headers, links, bullets, tables, acronyms and blockquotes
 
 Publisher needs ‘Markdown’ commands to format the content. Instead of using an editor tool, you can type simple Markdown commands within the copy to create the formatting you want. 
 
