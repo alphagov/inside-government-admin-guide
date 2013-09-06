@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Your dashboard
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 ## Your dashboard
 
 When you log into Publisher the first screen you see is your dashboard. 
