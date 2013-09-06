@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Limiting access
 ---
 
-## Limiting access
+Please note this manual is a draft version and will be revised shortly.
+
+# Limiting access
 
 You can restrict access to selected documents. Please only use this if the information is confidential.
 
