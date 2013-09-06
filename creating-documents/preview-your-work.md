@@ -3,7 +3,9 @@ layout: default
 title: How to publish content / Preview, submit and publish 
 ---
 
-## Preview, submit and publish 
+Please note this manual is a draft version and will be revised shortly.
+
+# Preview, submit and publish 
 
 You can preview the body copy of your document in several ways. 
 
