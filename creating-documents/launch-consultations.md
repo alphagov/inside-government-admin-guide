@@ -3,7 +3,7 @@ layout: default
 title: How to publish content / Launch, update and conclude a consultation
 ---
 
-## Launch, update and conclude a consultation
+# Launch, update and conclude a consultation
 
 Each consultation stays on the same page of GOV.UK throughout its life cycle. The status starts as 'Open' and changes automatically:
 
