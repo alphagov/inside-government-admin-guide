@@ -215,25 +215,14 @@ Be careful with this content type. If the resource contains guidance, such as an
    
 Clear and complete definition of government policy on a specific issue. Policy supporting detail pages can be added after the policy is created and saved.
 
-You would need to read several examples of policy before creating a new one or editing an existing one. You need to discuss with GDS and your sponsoring department before you can create a new policy.
+You would need to read several examples of policy before creating a new one or editing an existing one. You need to have discussions with GDS and your sponsoring department before you can create a new policy.
 
 
 ## Consultation 
    
 Use this for all kinds of consultation including calls for evidence. All content for the various stages of a consultation (open, closed, public response, government response) are added to the same page as the timeline progresses.
 
-This page has [full instructions on launching, updating and concluding a consultation](http://alphagov.github.io/inside-government-admin-guide/creating-documents/launch-consultations.html). 
-
-## Detailed guide 
-   
-Guidance and information, usually task-based, that answers a specific and discrete user need for detailed guidance (eg for stakeholders, niche or technical audiences).
-
-[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
-
-
-## Statistical data set 
-   
-‘Live’ statistical data that’s frequently updated. If the data is a one-off snapshot then use the publication types of statistics or national statistics instead.
+This page has [full instructions on launching, updating and concluding a consultation](http://alphagov.github.io/inside-government-admin-guide/creating-documents/launch-consultations.html).
 
 
 ## Case study 
