@@ -3,6 +3,8 @@ layout: default
 title: How to publish documents / Document types
 ---
 
+Please note this manual is a draft version and will be revised shortly.
+
 # Document types
 
 Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
