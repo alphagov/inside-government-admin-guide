@@ -3,8 +3,7 @@ layout: default
 title: How to publish content / Document series
 ---
 
-Please note this manual is a draft version and will be revised shortly.
-
+Docoument series have now been replaced by [document collections](creating-documents/create-collections.html). We will remove this page shortly.
 # Document series - create and populate, or delete
 
 You can group related documents together by putting them into document series. There are 2 stages to this - creating the series and then populating it.
