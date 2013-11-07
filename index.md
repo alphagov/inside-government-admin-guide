@@ -27,6 +27,7 @@ title: How to publish content / Index
 * [Add links](creating-documents/add-links.html) 
 * [Add contacts](creating-documents/add-contacts.html)
 * [Add remarks](creating-documents/add-remarks.html) 
+* [Create and populate document collections](creating-documents/create-collections.html)
 * [Preview, submit and publish](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - including change notes
