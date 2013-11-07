@@ -26,43 +26,17 @@ It is best if the documents you want to put into the collection are already crea
 
 ### Populate the collection
 
-* Click on the 'Collection documents' tab and start adding documents to your collection - you can do this most easily by entering the slug in the search box, but search terms work too.
+* Click on the 'Collection documents' tab and start adding documents to your collection - you find the documents you want by entering the slug in the search box, but search terms work too.
+* Click on the 'Add' button for each document.
 
 ![Create collection 3](create-collection-3.png)
 
 ### Allocate documents to groups
 
-You can create the groups and allocate the documents to them using the tickboxes. Or you can create the groups and then add documents directly into the right ones.
+You can create the groups and allocate publications, detailed guides, speeches or news to them. 
 
 * Create each group using 'Add a new group' button - note that the 'body' text is not mandatory.
 * Switch existing documents into your new group by selecting them and then using the 'Move' blue button.
-* Add documents
-* Upload directly into the group
 
-![Preview your work 3](preview-your-work-3.png)
-
-Your page opens in a new window or tab. It is an exact preview of how it will appear on the site. 
-
-![Preview your work 4](preview-your-work-4.png)
-
-### Preview of organisation home page
-
-Sometimes before your organisation goes live you want to see what it will look like. In consultation with your transition manager, you can use the Preview site to do this. (It is the separate site for which you will have a separate login, at [https://whitehall-admin.preview.alphagov.co.uk/](https://whitehall-admin.preview.alphagov.co.uk/).)
-
-If your pages are complete on the Production site, and the status of your organisation is set to 'Coming soon' then you can wait for Production content to be copied to Preview, and then within Preview you can put your home page live. It will be visible on the web but is password protected by the betademo password.
-
-Make sure you don't accidentally put your home page live on the Production site before your launch date. Check the URL before changing your status to live. 
-
-### Preview of documents for stakeholders or policy teams
-
-You can use [fact check](http://alphagov.github.io/inside-government-admin-guide/workflow-content/fact-checking.html) to send preview documents (policies, publications, consultations etc) to people without Publisher accounts. Fact check does not currently work for organisation home pages or corporate pages.
-
-### Submit a document for publication
-
-Click the green 'Submit' button. Your document should be picked up by [second pair of eyes](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) so it can be checked and published.
-
-If no one is available and you need to publish your page quickly, you can [force publish](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html); ensure that the page is given a 'looks good' approval as soon as possible after this.
-
-[< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
-
+You can also add documents directly into a group using the 'Add' button.
 
