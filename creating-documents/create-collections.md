@@ -29,7 +29,7 @@ It is best if the documents you want to put into the collection are already crea
 * Click on the 'Collection documents' tab and start adding documents to your collection - you find the documents you want by entering the slug in the search box, but search terms work too.
 * Click on the 'Add' button for each document.
 
-![Create collection 3](create-collection-3.png)
+![Create collection 3](create-collections-3.png)
 
 ### Allocate documents to groups
 
