@@ -5,11 +5,31 @@ title: How to publish content / Add contacts to a page
 
 Please note this manual is a draft version and will be revised shortly.
 
-If your contact doesn't exist in publisher yet, you'll need to [create it](/inside-government-admin-guide/organisations-groups/organisation-home-page.html#add_contacts).
+You can add a contact using Markdown to an individual page, or you can add a contact from your directory.
 
-# Add contacts to a page
+## Add a contact using Markdown
 
-While editing any field that supports Markdown, begin typing the Markdown command to insert a contact, using this Markdown: \[contact:
+Use this layout:
+
+$A
+Name
+Address
+Address
+Postcode
+$A
+
+Email: <contact@organisation.gov.uk>
+
+Telephone: 020 1234 5678
+
+
+## Add a directory contact to a page
+
+If your contact doesn't exist in your directory yet, you'll need to [create it](/inside-government-admin-guide/organisations-groups/organisation-home-page.html#add_contacts).
+
+Once it is created you can add it again and again as a simple code, or using the look-up tool to find and add it. This means you don't have to remember all the contact details every time, and if the contact needs to be updated you only update a single record.
+
+In a document, begin typing \[contact:
 
 A dialogue box will appear, listing a few contacts, like this:
 
