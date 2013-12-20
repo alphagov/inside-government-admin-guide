@@ -9,16 +9,16 @@ You can add a contact using Markdown to an individual page, or you can add a con
 
 ## Add a contact using Markdown
 
-Use this layout:
+Use this layout and Markdown:
 
-$A
-Name
-Address
-Address
-Postcode
+$A  
+Name   
+Address  
+Address  
+Postcode  
 $A
 
-Email: <contact@organisation.gov.uk>
+Email: \<contact@ organisation.gov.uk\>
 
 Telephone: 020 1234 5678
 
