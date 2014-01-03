@@ -36,7 +36,7 @@ It’ll look something like this on the live site:
 ##Unpublish (consolidated into another GOV.UK page):
 Paste in the correct public-facing GOV.UK URL.
 
-*When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.*
+**When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.**
 
 
 
