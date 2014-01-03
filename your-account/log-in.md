@@ -5,14 +5,12 @@ title: How to publish content / Log in
 
 ## Log in
 
-Please note this manual is a draft version and will be revised shortly.
-
 We have 2 separate environments in Publisher.
 
 * Use Preview if you're practising - [https://signon.preview.alphagov.co.uk](https://signon.preview.alphagov.co.uk).
 * Use Production if you want the content to go live - [https://signon.production.alphagov.co.uk](https://signon.production.alphagov.co.uk).
 
-(All content on Preview is overwritten every week, so it's not a good place to create any documents you wish to keep.)
+(All content on Preview is overwritten every Wednesday, so it's not a good place to create any documents you wish to keep.)
 
 * You should be prompted for the username and password. This is NOT your personal username and password but the one that's the same for all users.
 

@@ -39,6 +39,8 @@ If it is your first time in Publisher, you’ll be asked to confirm we can use y
 
 With 'writer' status you can create content. 'Editor' status means you can create and publish content and will be able to carry out [second eye](http://alphagov.github.io/inside-government-admin-guide/workflow-content/second-pair-of-eyes.html) checks on content submitted by others.
 
+There is also the 'managing editor' status with the ability to unpublish content. Each organisation can only have 2 people with this status.
+
 Your manager will tell GDS which type of account you need. 
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
