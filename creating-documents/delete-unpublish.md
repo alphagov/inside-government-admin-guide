@@ -7,15 +7,13 @@ Removing GOV.UK content after it’s been published is a poor experience for use
 
 Get in touch with GDS using the [support form](https://gov.uk/support/internal) if your organisation doesn't have anyone with managing editor permissions.
 
-Here’s how to archive or unpublish:
+#How to archive or unpublish
 
-1. Click on the red ‘archive or unpublish’ button in the live version of the document:
+If you have managing editor permissions, Click on the red ‘archive or unpublish’ button in the live version of the document:
 
 ![Archive button](archive-button.png)
 
-2. Archive or unpublish the document.
-
-a) Archiving: 
+##Archive
 
 You can include Markdown in the public explanation box, eg a link. 
 
@@ -25,7 +23,7 @@ It’ll look like this on the live site:
 
 The item will still appear in search results.
 
-b) Unpublish (published in error): 
+##Unpublish (published in error): 
 Add a redirect URL if you have somewhere to redirect to (public-facing GOV.UK URLs only), and tick the ‘Redirect to URL automatically’ box. 
 You can include markdown in the public explanation box. 
 
@@ -35,10 +33,10 @@ It’ll look something like this on the live site:
 
 
 
-c) Unpublish (consolidated into another GOV.UK page):
+##Unpublish (consolidated into another GOV.UK page):
 Paste in the correct public-facing GOV.UK URL.
 
-^When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.^
+*When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.*
 
 
 
