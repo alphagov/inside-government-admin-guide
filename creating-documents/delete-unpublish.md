@@ -13,49 +13,40 @@ If you have managing editor permissions, Click on the red ‘archive or unpublis
 
 ![Archive button](archive-button.png)
 
+**Always give a full redirect URL you want to send users to if one is available.**
+
 ##Archive
 
 You can include Markdown in the public explanation box, eg a link. 
 
+![Explanation box](explanation-box.png)
+
 It’ll look like this on the live site:
 
-![Explanation box](explanation-box.png)
+![Archived](archived.png)
 
 The item will still appear in search results.
 
-##Unpublish (published in error): 
-Add a redirect URL if you have somewhere to redirect to (public-facing GOV.UK URLs only), and tick the ‘Redirect to URL automatically’ box. 
-You can include markdown in the public explanation box. 
+##Unpublish (published in error)
 
+Add a redirect URL if you have somewhere to redirect to (full GOV.UK URLs only), and tick the ‘Redirect to URL automatically’ box. 
+You can include Markdown in the public explanation box. 
 
 It’ll look something like this on the live site:
 
+![Published in error](published-in-error.png)
 
+##Unpublish (consolidated into another GOV.UK page)
 
-
-##Unpublish (consolidated into another GOV.UK page):
-Paste in the correct public-facing GOV.UK URL.
+Paste in the full GOV.UK URL you want users to be sent to.
 
 **When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.**
 
-
-
-
-
-
-
-#Requests to delete or unpublish documents
-
-Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish content. Contact your SPOC if you need to do this. Include the internal Publisher and live GOV.UK URLs in your request. 
-
-SPOCs need to log in and use the [support form](https://support.production.alphagov.co.uk) to make these requests (one form per request).
-
-
-##Changing URLs
+#Changing URLs
 
 URLs are automatically created from the page title when you publish the page and can only be changed by a developer. This will only be done in exceptional circumstances.
 
-##Requests for short URLs
+#Requests for short URLs
 
 Decisions on creating short URLs are made by GDS based on user need. It is useful if you read [our blog post on friendly URLs](http://inside-inside-gov.tumblr.com/post/47775179301/short-urls-for-organisations-profile-pages) before getting in touch.
 
