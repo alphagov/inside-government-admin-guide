@@ -3,8 +3,6 @@ layout: default
 title: How to publish content / Forgot your passphrase
 ---
 
-Please note this manual is a draft version and will be revised shortly.
-
 ## Forgot your passphrase
 
 There is a simple passphrase reset request on the login screen. It is also useful if you can't find your welcome email and want to get started.
