@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / How to archive or unpublish documents
 ---
 
+#Archive or unpublish content
+
 Removing GOV.UK content after it’s been published is a poor experience for users so please only do this when necessary. People with 'managing editor' permissions within departments and agencies can unpublish and archive documents in the departments and policy section of GOV.UK. Each organisation is entitled to have 2 people with managing editor permissions.
 
 Get in touch with GDS using the [support form](https://gov.uk/support/internal) if your organisation doesn't have anyone with managing editor permissions.
@@ -11,13 +13,15 @@ Get in touch with GDS using the [support form](https://gov.uk/support/internal) 
 
 If you have managing editor permissions, click on the red ‘Archive or unpublish’ button in the live version of the document:
 
-![Archive button](archive-button.png)
-
 **Always give a URL you want to send users to if there is one.**
+
+**When you unpublish, the content item is reverted to draft. Please leave it in draft - deleting it can cause data problems.**
+
+![Archive button](archive-button.png)
 
 ##Archive
 
-You can include Markdown in the public explanation box, eg a link. 
+Select the archive option for content that is no longer relevant. You can include Markdown in the public explanation box, eg a link. 
 
 ![Explanation box](explanation-box.png)
 
@@ -39,8 +43,6 @@ It’ll look like this on the live site:
 ##Unpublish (consolidated into another GOV.UK page)
 
 Paste in the full GOV.UK URL you want users to be sent to.
-
-**When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.**
 
 #Changing URLs
 
