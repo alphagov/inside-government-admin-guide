@@ -1,9 +1,50 @@
 ---
 layout: default
-title: How to publish content / Requests to delete or unpublish documents and create or delete URLs
+title: How to publish content / How to archive or unpublish documents
 ---
 
-Please note this manual is a draft version and will be revised shortly.
+Removing GOV.UK content after it’s been published is a poor experience for users so please only do this when necessary. People with 'Managing editor' permissions within departments and agencies can unpublish and archive documents in the departments and policy section of GOV.UK. Each organisation is entitled to have 2 people with managing editor permissions.
+
+Get in touch with GDS using the [support form](https://gov.uk/support/internal) if your organisation doesn't have anyone with managing editor permissions.
+
+Here’s how to archive or unpublish:
+
+1. Click on the red ‘archive or unpublish’ button in the live version of the document:
+
+![Archive button](archive-button.png)
+
+2. Archive or unpublish the document.
+
+a) Archiving: 
+
+You can include Markdown in the public explanation box, eg a link. 
+
+It’ll look like this on the live site:
+
+![Explanation box](explanation-box.png)
+
+The item will still appear in search results.
+
+b) Unpublish (published in error): 
+Add a redirect URL if you have somewhere to redirect to (public-facing GOV.UK URLs only), and tick the ‘Redirect to URL automatically’ box. 
+You can include markdown in the public explanation box. 
+
+
+It’ll look something like this on the live site:
+
+
+
+
+c) Unpublish (consolidated into another GOV.UK page):
+Paste in the correct public-facing GOV.UK URL.
+
+^When you unpublish or archive, the content item is reverted to draft. Please leave this in draft - deleting it can cause data problems.^
+
+
+
+
+
+
 
 #Requests to delete or unpublish documents
 
@@ -11,23 +52,13 @@ Only departmental 'single points of contact' (SPOCs) can ask GDS to unpublish co
 
 SPOCs need to log in and use the [support form](https://support.production.alphagov.co.uk) to make these requests (one form per request).
 
-Removing GOV.UK content after it’s been published is a poor experience for users so please only do this when necessary. 
 
+##Changing URLs
+
+URLs are automatically created from the page title when you publish the page and can only be changed by a developer. This will only be done in exceptional circumstances.
 
 ##Requests for short URLs
 
-URLs are automatically created from the page title when you publish the page. They cannot be changed and the path is fixed by Publisher. 
-
 Decisions on creating short URLs are made by GDS based on user need. It is useful if you read [our blog post on friendly URLs](http://inside-inside-gov.tumblr.com/post/47775179301/short-urls-for-organisations-profile-pages) before getting in touch.
-
-
-##Impossible requests
-
-Please note that the following tasks cannot be carried out in Publisher:
-
-* changing the URL of a page - you will need to create a new page and fix the URL to what you want, then request a deletion and redirection using the [support form](https://support.production.alphagov.co.uk)
-* duplicating a page - you’ll need to create a new page and use copy and paste
-* moving a page from Preview to Production - you’ll need to create a new page and use copy and paste
-* changing a document’s type (eg from a news story to a publication) - you'll need to create a new page and use copy and paste
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)

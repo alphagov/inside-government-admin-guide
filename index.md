@@ -15,7 +15,6 @@ title: How to publish content / Index
 * [Find documents](first-steps/find-documents.html) - using the filters on Publisher
 * [Support from GDS](first-steps/support-from-GDS.html)
 
-
 ## Create and publish documents
 * [Document types](creating-documents/document-types.html) - news, speeches, publications, consultations
 * [Create a new document](creating-documents/create-a-new-doc.html)
