@@ -18,7 +18,7 @@ Address
 Postcode  
 $A
 
-Email: \<contact@ organisation.gov.uk\>
+Email: \<contact@organisation.gov.uk>
 
 Telephone: 020 1234 5678
 
