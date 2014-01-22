@@ -11,7 +11,7 @@ You can add a contact using Markdown to an individual page, or you can add a con
 
 Use this layout and Markdown:
 
-Email: < contact@organisation.gov.uk >
+Email: < contact@organisation.gov.uk > (no spaces)
 
 Telephone: 020 1234 5678
 
