@@ -25,9 +25,9 @@ Using the top navigation, you can:
 
 *  click the button to [create new content](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html) 
 *  click on 'Documents', which lists all documents produced by departments and agencies, with a set of document filters to help you find particular documents
-*  click on 'Document series', where you can organise and create [document series](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/document-series.html) to group your documents
-*  click on 'Feature documents', which is where you select content to appear on your organisation's home page
+*  click on 'Featured documents', which is where you select content to appear on your organisation's home page
 *  click on 'Manage corporate information', which is where you control your organisation's [home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/organisation-home-page.html) for your department or agency and can [select the content to feature on your home page](http://alphagov.github.io/inside-government-admin-guide/organisations-groups/feature-documents-home-page.html)
+*  click on 'More' to reach other useful content.
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
