@@ -9,7 +9,7 @@ Please note this manual is a draft version and will be revised shortly.
 
 Click on the 'Documents' link on the top navigation to get to the full list of documents on GOV.UK. 
 
-![Document hub 1](top-navigation-2.png)
+![Document hub 1](top-navigation-1.png)
 
 There are thousands of documents on GOV.UK. The filters down the left hand side of the page help you to narrow down the list to find the document you want.
 
