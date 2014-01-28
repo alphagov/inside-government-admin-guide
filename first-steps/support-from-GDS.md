@@ -11,6 +11,8 @@ The Government Digital Service (GDS) will be offering support to agencies in tra
 
 Please use the [support form](https://support.production.alphagov.co.uk/) for queries about Publisher that are not answered in this manual. (You'll need to be logged in to access this form.)
 
+If you are the single point of contact (SPOC), you will be able to use the support form to request additional accounts.
+
 You can also use the form to ask GDS to:
 
 * [delete pages](http://alphagov.github.io/inside-government-admin-guide/creating-documents/delete-unpublish.html) 
