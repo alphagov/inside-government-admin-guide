@@ -7,7 +7,7 @@ Please note this manual is a draft version and will be revised shortly.
 
 # Document types
 
-Before you can create a document on GOV.UK, you need to know which document type to assign to it. This page will help you decide.
+Before you can create a document on GOV.UK, you need to know which content format to assign to it. This page will help you decide.
 
 There are around 10 document types; some of these types have sub-types, which are all listed here with their criteria. 
 
@@ -108,17 +108,40 @@ A publication page carries the publication as an attachment: most publication pa
 
 The document can appear as various file types. Note that for the usual file types (PDF, Word, Excel etc) you [upload documents from local servers as attachments](/inside-government-admin-guide/creating-documents/add-attachments.html). Alternatively you can [create an HTML document in Publisher](/inside-government-admin-guidecreating-documents/create-an-HTML-document.html) to show on the publication page in a web-based format.
 
+### Titles for publication pages and publications
 
-Sometimes a single publication page has multiple attachments (eg a statistical release would include the pre-release access list and perhaps some data files as supporting documents). You can also use a single publication page for serial collections of documents:
+At the top of the page, write a short GOV.UK style title (65 characters), free of jargon and weighted for SEO. Add a summary. 
+
+Then type the actual title of the publication in the box where you upload the attachment. This publication title is searchable on the public site.
+
+[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
+
+### Supporting documents
+
+Sometimes a single publication page has additional file attachments (eg a statistical release might include the pre-release access list and perhaps some data files as supporting documents). 
+
+### Series of documents
+
+You can also use a single publication page for series of documents:
 
 * periodicals
 * transparency data that is updated regularly, 
 * statistics where the same publication from previous releases needs to be to hand
 * reports or strategies that are updated, where previous versions need to be to hand
 
-Serial collections are essentially the same content item that varies over time.
+Series are essentially the same content item that varies over time.
 
 Note that if the new document incorporates all the previous data (eg if you are adding data for the current month to an Excel file) you can [overwrite the attachment](/inside-government-admin-guide/creating-documents/add-attachments.html) rather than uploading multiple attachments. This would be preferable for the user. The document stays at the same URL.
+
+### Sum of parts
+
+If you have a set of documents that together make up a single publication (eg if individual chapters have been published as PDFs) then these can be loaded on to the same publication page.
+
+### Document collections
+
+A [document collection](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-collections.html) is for a group of documents that are linked by theme. It can include publications, detailed guides and announcements. You shouldn't put groups of linked documents on to a single publication page: use the correct content format - document collection. 
+
+### Publication sub-types
 
 The publication sub-types are listed below. When creating a publication you need to:
 
@@ -128,16 +151,6 @@ The publication sub-types are listed below. When creating a publication you need
 * follow style for titles, remembering the difference between the page title and a publication title
 * follow style for summaries, explained in the [create a document section.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
 
-
-### Titles for publication pages and publications
-
-At the top of the page, write a short GOV.UK style title (65 characters), free of jargon and weighted for SEO. 
-
-Type the publication title in the box where you upload the attachment. You should reproduce the given title of the publication. This publication title is searchable on the public site.
-
-[Instructions on how to create a document.](/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
-
-### Publication sub-types
 
 #### Policy paper 
 
