@@ -37,7 +37,7 @@ Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to
 
 Use 'less than' and 'greater than' arrows around email addresses to make them a link, eg:
 
-  <this@example.com>
+![Email link](email-link.png)
 
 ### Add anchor links
 
