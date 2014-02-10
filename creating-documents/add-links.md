@@ -3,8 +3,6 @@ layout: default
 title: Inside Government Admin Guide - Add links
 ---
 
-Please note this manual is a draft version and will be revised shortly.
-
 ## Add links
 
 ### Add external links
@@ -34,6 +32,11 @@ You should delete the first part of the URL and use the relative path: /governme
 Use the live URL (like https://www.gov.uk/government/organisations/ministry-of-defence/series/firing-notice) when linking to any page that is not a document (organisation pages, people, groups, document series, search pages etc).
 
 Make sure you go to the [public version of GOV.UK](https://gov.uk/government) to get the correct URL. Don’t use any URLs accessed via Publisher. You cannot use the relative path, you will need the full URL.
+
+###Email links
+
+Use 'less than' and 'greater than' arrows around email addresses to make them a link, eg:
+\<this@example.com\>
 
 ### Add anchor links
 
