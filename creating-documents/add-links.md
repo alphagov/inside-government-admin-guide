@@ -59,7 +59,7 @@ Anchor links for corporate pages include:
 
 You should write clear link text to tell the user about the page they will land on if they click. It should be part of the running text, not single words and never 'click here' or similar. Make sure that there are not too many links in your body text and never more than 1 per sentence.
 
-You don't need to put hover text on links. 
+Don't use hover text on links. 
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
