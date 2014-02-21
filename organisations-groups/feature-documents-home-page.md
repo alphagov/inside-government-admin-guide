@@ -9,7 +9,7 @@ Please note this manual is a draft version and will be revised shortly.
 
 Feature documents with photos on your home page to draw attention to current stories or important publications or announcements. 
 
-Each organisation can feature up to 6 documents (eg news stories, publications, speeches, consultations) on its home page. 
+Each organisation can feature up to 6 documents (eg collections, detailed guides, news stories, publications, speeches, consultations) on its home page. 
 
 ![Homepage 1](homepage-1.png)
 
