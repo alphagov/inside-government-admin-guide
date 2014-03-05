@@ -58,7 +58,7 @@ Before creating a detailed guide, you must specify the [user need](https://www.g
 
 Detailed guides have some navigational functionality so you can divide them into sections using headings - H2s and H3s. The H2s show at the top left of the guide so the user can jump to those sections.
 
-##Guidance on creating detailed guides
+### Guidance on creating detailed guides
 
 * [Style for detailed guides](https://www.gov.uk/design-principles/style-guide/detailed-guides#style-guide)
 * [Tips and advice blog post](https://transition.blog.gov.uk/2014/02/24/how-to-write-effective-detailed-guides-for-gov-uk/)
