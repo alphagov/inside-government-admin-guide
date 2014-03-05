@@ -52,6 +52,18 @@ You can also use government response for letters to the press from government mi
 [Instructions on how to create a document.](create-a-new-doc.html)
 
 
+## Detailed guide 
+
+Before creating a detailed guide, you must specify the [user need](https://www.gov.uk/service-manual/user-centered-design/user-needs.html). GDS validates user needs to avoid unnecessary content appearing in a detailed guide.
+
+Detailed guides have some navigational functionality so you can divide them into sections using headings - H2s and H3s. The H2s show at the top left of the guide so the user can jump to those sections.
+
+##Guidance on creating detailed guides
+
+* [Style for detailed guides](https://www.gov.uk/design-principles/style-guide/detailed-guides#style-guide)
+* [Tips and advice blog post](https://transition.blog.gov.uk/2014/02/24/how-to-write-effective-detailed-guides-for-gov-uk/)
+* [When to use detailed guides and when to use HTML publications](https://transition.blog.gov.uk/2014/01/07/detailed-guides-when-and-how-to-use-them/)
+
 ## Speech, statement or article 
 
 This format covers all types of formal announcement made by government. Note that if an announcement has been made in this format, you don't need a news story about that announcement as it speaks for itself.
