@@ -31,6 +31,7 @@ title: How to publish content / Index
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - including change notes
 * [Consultations: launch, update and conclude](creating-documents/launch-consultations.html)
+* [Official documents: creating one](creating-documents/official-documents.html)
 * [Delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
 
 ## Workflow for managing content 
