@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to publish content / Official documents: creating one
+title: How to publish content / Creating an official document
 ---
 
 Please note this manual is a draft version and will be revised shortly.
