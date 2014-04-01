@@ -5,7 +5,7 @@ title: How to publish content / Creating an official document
 
 Please note this manual is a draft version and will be revised shortly.
 
-# Creating a document
+# Creating an official document
 
 Information about the [different types of official documents and how to prepare them for publication](http://nationalarchives.gov.uk/information-management/our-services/types-of-parliamentary-papers.htm) is available from the National Archives website.
  
