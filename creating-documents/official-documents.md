@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to publish content / Official document: creating one
+title: How to publish content / Official documents: creating one
 ---
 
 Information about the [different types of official documents and how to prepare them for publication](http://nationalarchives.gov.uk/information-management/our-services/types-of-parliamentary-papers.htm) is available from the National Archives website.
@@ -40,7 +40,7 @@ Fill in these fields:
 
 Fill in these fields:
 
-*ISBN  - web ISBN for the web-optimised PDF or print ISBN for print-ready PDF  if the document has ISBNs
+* ISBN  - web ISBN for the web-optimised PDF or print ISBN for print-ready PDF  if the document has ISBNs
 * Unique reference - the departmental unique reference number (URN) - if the document has been given one
 * House of Commons paper number - leave the field blank and tick the box labelled ‘Unnumbered’
 
