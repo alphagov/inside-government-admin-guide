@@ -3,6 +3,8 @@ layout: default
 title: How to publish content / Official documents: creating one
 ---
 
+#Creating a document
+
 Information about the [different types of official documents and how to prepare them for publication](http://nationalarchives.gov.uk/information-management/our-services/types-of-parliamentary-papers.htm) is available from the National Archives website.
  
 You should have both the [web-optimised and print-ready PDFs](http://nationalarchives.gov.uk/information-management/our-services/publishing-parliamentary-papers.htm) ready to upload before you start.
@@ -47,6 +49,7 @@ Fill in these fields:
 Then upload your attachment and save.
  
 If you have both web-optimised and print-ready PDFs, list the web-optimised first on the page, followed by the print-ready versions.
+
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
 
 
