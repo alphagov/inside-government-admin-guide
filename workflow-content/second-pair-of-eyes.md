@@ -7,6 +7,12 @@ Please note this manual is a draft version and will be revised shortly.
 
 # Second pair of eyes, force publishing and ‘looks good’
 
+Most kinds of content on GOV.UK follow a workflow from 'draft', through 'submitted' to 'published'. Some pages don't have a workflow, which means changes appear instantly on GOV.UK (there are warnings to tell you when this will happen), eg:
+
+- roles
+- people
+- organisation homepages
+
 Once a document is ready to be published and has no further amendments outstanding, it should be taken out of draft status and submitted for a second person to check against the [Style guide](https://www.gov.uk/designprinciples/styleguide) and for other errors. 
 
 Click the ‘Submit’ button and the content moves to the submitted documents list.
