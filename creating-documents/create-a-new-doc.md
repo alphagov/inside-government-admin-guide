@@ -9,6 +9,7 @@ Please note this manual is a draft version and will be revised shortly.
 
 Before you create a document you need to be sure you have selected the [correct type and sub-type](http://alphagov.github.io/inside-government-admin-guide/creating-documents/document-types.html) for your content. You also need to have read the style guide in detail so that you know [how to write for GOV.UK](https://www.gov.uk/designprinciples/styleguide).
 
+To create a publication, you need to have the publication itself to hand, as a PDF or other format. A publication is a document that has been officially released by your agency or department into the public domain. 
 
 From the documents list, click the ‘Create new document’ button.
 
