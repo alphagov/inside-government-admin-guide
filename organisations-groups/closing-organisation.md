@@ -3,12 +3,13 @@ layout: default
 title: How to publish content / Closing an organisation
 ---
 
-# Feature documents on your home page
-Closed organisations - scenarios and proposed wording
+# Closing an organisation
 
-There are 7 options in Publisher for describing ‘closed’ organisations, each of which generates slightly different wording for users, as follows.
+# What a closed organisation page will look like
 
-For many of these, you’ll need to enter the name of the organisation taking over from (superseding) the closed organisation and - if you have it - the closure date.
+There are different options in Publisher for describing ‘closed’ organisations, each of which generates slightly different wording for users, as follows.
+
+For many of these, you’ll need to enter the name of the organisation taking over from (superseding) the closed organisation and - if you have it - the date it closed.
 
 <table>
   <tr>
