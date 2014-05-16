@@ -43,7 +43,7 @@ or if date not known
 
 or if date not known
 [name of organisation] was replaced by [name of organisation].</td>
-    <td>Driving Standards Agency</td>
+    <td><a href="https://www.gov.uk/government/organisations/driving-standards-agency%20">Driving Standards Agency</a></td>
   </tr>
   <tr>
     <td>3. Split</td>
@@ -52,8 +52,7 @@ or if date not known
 
 or if date not known
 [name of organisation] was replaced by [name of organisation] and [name of organisation].</td>
-    <td>Department for Education and Skills
-</td>
+    <td><a href="https://www.gov.uk/government/organisations/department-for-education-and-skills">Department for Education and Skills</a></td>
   </tr>
   <tr>
     <td>4. Merged with other organisation</td>
@@ -62,16 +61,13 @@ or if date not known
 
 or if date not known
 [name of organisation] is now part of [name of organisation].</td>
-    <td>UK Government Decontamination Service</td>
+    <td><a href="https://www.gov.uk/government/organisations/uk-government-decontamination-service%20">UK Government Decontamination Service</a></td>
   </tr>
   <tr>
     <td>5. Change of name</td>
     <td>Organisation changes its name</td>
     <td>[name of organisation] is now called [name of new organisation].</td>
-    <td>HM Passport Service.
-
-
-</td>
+    <td><a href="https://www.gov.uk/government/organisations/hm-passport-office">HM Passport Service</a></td>
   </tr>
   <tr>
     <td>6. Left central government</td>
@@ -79,7 +75,7 @@ or if date not known
     <td>[name of organisation] is now independent of the UK government.
 
 [Note: link to the organisation’s website in the text summary field]</td>
-    <td>Design Council</td>
+    <td><a href="https://www.gov.uk/government/organisations/design-council%20">Design Council</a></td>
   </tr>
   <tr>
     <td>7. Devolved to regional government</td>
@@ -87,8 +83,7 @@ or if date not known
     <td>[name of organisation] is now run by the [name of new organisation] 
 (NB Scottish Government / Welsh Government / Northern Ireland Executive are modelled in the system].
 [Note: link to the organisation’s website in the text summary field]</td>
-    <td>Western Health and Social Services Board 
-</td>
+    <td><a href="https://www.gov.uk/government/organisations/western-health-and-social-services-board">Western Health and Social Services Board</a></td>
   </tr>
 </table>
 
