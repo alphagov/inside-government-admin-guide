@@ -9,7 +9,7 @@ title: How to publish content / Closing an organisation
 
 Open the organisation’s main page in Publisher. You can find ‘Departments & agencies’ under the ‘More’ tab.
 
-Change its ‘Status on GOV.UK’ from ‘Currently live’ to ‘Closed’.
+Change its ‘Status on GOV.UK’ from ‘Currently live’ to ‘Closed’. 
 
 Under the ‘Reason for closure’ menu that appears, choose the appropriate option as this affects what users will see. You can also choose the date the organisation closed.
 
