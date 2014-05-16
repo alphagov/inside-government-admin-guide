@@ -5,11 +5,19 @@ title: How to publish content / Closing an organisation
 
 # Closing an organisation
 
-# What a closed organisation page will look like
+##How to close an organisation
+
+Open the organisation’s main page in Publisher. You can find ‘Departments & agencies’ under the ‘More’ tab.
+
+Change its ‘Status on GOV.UK’ from ‘Currently live’ to ‘Closed’.
+
+Under the ‘Reason for closure’ menu that appears, choose the appropriate option as this affects what users will see. You can also choose the date the organisation closed.
+
+## What a closed organisation page will look like
 
 There are different options in Publisher for describing ‘closed’ organisations, each of which generates slightly different wording for users, as follows.
 
-For many of these, you’ll need to enter the name of the organisation taking over from (superseding) the closed organisation and - if you have it - the date it closed.
+You’ll often need to enter the name of the organisation taking over from (superseding) the closed organisation and - if you have it - the date it closed.
 
 <table>
   <tr>
