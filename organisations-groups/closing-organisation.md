@@ -34,7 +34,7 @@ You’ll often need to enter the name of the organisation taking over from (supe
 
 or if date not known
 [name of organisation] has closed down.</td>
-    <td>Agricultural Wages Committee</td>
+    <td><a href=“https://www.gov.uk/government/organisations/agricultural-wages-committee-x13%20”>Agricultural Wages Committee</a></td>
   </tr>
   <tr>
     <td>2. Replaced</td>
