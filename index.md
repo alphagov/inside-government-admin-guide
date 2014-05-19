@@ -46,7 +46,7 @@ title: How to publish content / Index
 * [People and roles](organisations-groups/people-and-roles.html) - create and assign
 * [Sub-organisations](organisations-groups/sub-organisations.html)
 * [Teams and groups](organisations-groups/policy-advisory-group.html)
-
+* [Closing an organisation](organisations-groups/closing-organisation.html)
 
 ## Worldwide network
 * [Add translated content](worldwide-network/translating-docs.html)
