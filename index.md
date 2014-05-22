@@ -32,7 +32,7 @@ title: How to publish content / Index
 * [Edit a published document](creating-documents/editing-a-doc.html) - including change notes
 * [Consultations: launch, update and conclude](creating-documents/launch-consultations.html)
 * [Official documents: creating one](creating-documents/official-documents.html)
-* [Delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
+* [Archive, delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs
 
 ## Workflow for managing content 
 * [Fact check: share pages with colleagues](workflow-content/fact-checking.html) - for external stakeholders or policy teams
