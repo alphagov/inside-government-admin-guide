@@ -21,6 +21,8 @@ If you have managing editor permissions, click on the red ‘Archive or unpublis
 
 ##Archive
 
+Archiving content means it's still available at the same URL. You won't be able to create any new versions of the content but you can edit the explanatory text that appears on the archived page.
+
 Select the archive option for content that is no longer relevant. You can include Markdown in the public explanation box, eg a link. 
 
 ![Explanation box](explanation-box.png)
@@ -29,7 +31,19 @@ It’ll look like this on the live site:
 
 ![Archived](archived.png)
 
-The item will still appear in search results.
+The item will appear in external search engine results but won't appear in GOV.UK internal search or document filter pages (like the publications page).
+
+The archived document will also no longer be listed in any of the following:
+
+- document collections it is part of
+- related document sections on the public site eg an organisation's 'Documents' section
+- the lists of policies, announcements, etc, on a person’s profile page
+- atom feeds
+- govdelivery notifications
+
+If the archived document is featured on an organisation’s homepage, it will continue to be listed there until it's un-featured.
+
+**Links from within the body copy won't be automatically removed from other pages.**
 
 ##Unpublish (published in error)
 
