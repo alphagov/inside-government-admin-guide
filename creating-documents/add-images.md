@@ -3,17 +3,15 @@ layout: default
 title: How to publish content / Add images and videos
 ---
 
-Please note this manual is a draft version and will be revised shortly.
-
 ## Add images and videos
 
 ### Add images
 
-Images can be added to news articles, speeches, case studies, detailed guides and supporting detail pages on policies.
+Images can be added to news articles, speeches, case studies, detailed guides and supporting detail pages on policies. Check the [image copyright standards for GOV.UK](https://insidegovuk.blog.gov.uk/gov-uk-standards-and-guidelines/image-copyright-standards-for-gov-uk/).
 
 * Upload an image by clicking the 'Choose file' button (accepted types are jpg, png, gif). 
 * All images should be 960 x 640 pixels, 72dpi minimum, landscape. [Pixlr.com](http://www.pixlr.com) is a good place to go to resize images.
-* Use alt text where you need to help users understand the visual content. If an image is not essential to understanding the content, use “”. For more details about alt tags and captions, see the [style guide 4.2](https://www.gov.uk/designprinciples/insidegovernment#images).
+* Use alt text where you need to help users understand the visual content. If an image is not essential to understanding the content, use “”. For more details about alt tags and captions, see the [style guide](https://www.gov.uk/design-principles/style-guide/images#images-alt-text).
 * When you've picked an image to use, another ‘new image’ box automatically appears so you can pick more.
 
 ![Add images 2](add-images-2.png)
