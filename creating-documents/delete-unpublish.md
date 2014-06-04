@@ -31,7 +31,7 @@ It’ll look like this on the live site:
 
 ![Archived](archived.png)
 
-The item will appear in external search engine results but won't appear in GOV.UK internal search or document filter pages (like the publications page).
+The item will appear in GOV.UK internal search and external search engine results but won't appear in document filter pages (like the publications page).
 
 The archived document will also no longer be listed in any of the following:
 
