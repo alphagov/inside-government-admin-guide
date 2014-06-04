@@ -7,7 +7,25 @@ Please note this manual is a draft version and will be revised shortly.
 
 # Add attachments
 
-You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted: pdf, csv, rtf, png, jpg, doc, docx, xls, xlsx, ppt, pptx, zip, rdf, txt, xml, ods, odt, odp.
+You can add attachments individually or you can bulk-upload a zip file containing multiple attachments. These formats are accepted:
+
+* `csv`
+* `doc`
+* `docx`
+* `jpg`
+* `odp`
+* `ods`
+* `odt`
+* `pdf`
+* `png`
+* `ppt`
+* `pptx`
+* `rdf`
+* `rtf`
+* `txt`
+* `xls`
+* `xlsx`
+* `xml`
 
 You will have to save the document before you add any attachments (you can't add attachments at the create document stage). 
 
