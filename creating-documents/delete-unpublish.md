@@ -15,8 +15,6 @@ If you have managing editor permissions, click on the red ‘Archive or unpublis
 
 **Always give a URL you want to send users to if there is one.**
 
-**When you unpublish, the content item is reverted to draft. Please leave it in draft - deleting it can cause data problems.**
-
 ![Archive button](archive-button.png)
 
 ##Archive
