@@ -47,6 +47,7 @@ or from another document:
 
 \[Sample link text](https://www.gov.uk/government/policies/managing-freshwater-fisheries#eel-decline)
 
+Note: you have to use the full public URL when linking to a paragraph in another document. The admin URL won't work.
 
 ### Style for links
 
