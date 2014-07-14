@@ -23,15 +23,15 @@ If you’re creating a new announcement, first search GOV.UK for anything simila
 
 A release title should:
 
-*be under 65 characters 
-*describe the statistics in the release in plain English 
-*include the coverage and time the statistics relate to
-*not include the word ‘statistics’ - it’s already on the page 
-*be in sentence case 
-*[optimised for search](https://www.gov.uk/design-principles/style-guide/style-points#style-titles) (frontload the most important information)
-*include colons instead of hyphens or dashes (for screen readers)
-*not contain jargon or technical language
-*spell out abbreviations or acronyms (unless well known, for example, UK, VAT or EU)
+* be under 65 characters 
+* describe the statistics in the release in plain English 
+* include the coverage and time the statistics relate to
+* not include the word ‘statistics’ - it’s already on the page 
+* be in sentence case 
+* be [optimised for search](https://www.gov.uk/design-principles/style-guide/style-points#style-titles) (frontload the most important information)
+* include colons instead of hyphens or dashes (for screen readers)
+* not contain jargon or technical language
+* spell out abbreviations or acronyms (unless well known, for example, UK, VAT or EU)
 
 Good examples: 
 'House building in England: October to December 2014’
