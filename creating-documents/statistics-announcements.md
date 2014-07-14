@@ -7,11 +7,11 @@ title: How to publish content / Statistical announcements
 
 Do not create or modify statistics or statistics announcements unless you have authorisation from the Office of National Statistics (ONS).
 
-#How statistical announcements work
+##How statistical announcements work
 
 When you create a statistical announcement it generates a calendar entry on the [statistics release calendar](https://www.gov.uk/government/statistics/announcements). They are similar to calendar entries on the PubHub.
 
-![Create consultation 1](create-consultation-1.png)
+![stats 1](stats1.png)
 
 You should then create the draft publication in Publisher, linked to the announcement. Once the statistics document is published, the announcement will no longer show in the release calendar. You need to create a publication even if the statistics publication will not be published on GOV.UK.
 
@@ -35,7 +35,9 @@ A release title should:
 
 Good examples: 
 'House building in England: October to December 2014’
+
 ‘UK overseas trade statistics: non-EU February 2014’
+
 ‘Cereal use by UK brewers, distillers and maltsters: November 2014’
 
 Search engines cut off titles after about 65 characters. This can lead to unhelpful truncation.
@@ -44,39 +46,40 @@ Search engines cut off titles after about 65 characters. This can lead to unhelp
 
 The summary gives more information about the statistic, and will show in most search engine results. It should:
 
-*be under 140 characters (including spaces)
-*expand on the title without repeating it
-*explain what the release is about in plain English (no jargon)
-*'frontload' the most important information at the beginning (not 'This release provides...')
-*end with a full stop (for people using screen readers)
-*explain any acronyms used in the title
+* be under 140 characters (including spaces)
+* expand on the title without repeating it
+* explain what the release is about in plain English (no jargon)
+* 'frontload' the most important information at the beginning (not 'This release provides...')
+* end with a full stop (for people using screen readers)
+* explain any acronyms used in the title
 
 Examples:
 
 ‘Staff headcount by sector and industry for central and local government and public corporations.’
+
 ‘A breakdown of Jobseeker's Allowance claimant count statistics, after changes to eligibility rules for Income Support from November 2008.’
 
 All text needs to be checked by the writer and another person before it is published, to avoid errors.
 
 ##Good example of a statistics release announcement
 
-(IMAGE)
+![stats 2](stats2.png)
 
 ##How to publish a new statistics announcement 
 
 Go to the ‘Statistics announcements’ tab in Publisher.
 
-(IMAGE)
+![stats 3](stats3.png)
 
 Use the ‘Create announcement’ button to start a new announcement.
 
-(IMAGE)
+![stats 4](stats4.png)
 
 All of the fields with a ‘*’ are mandatory, so you need to fill them in following the GOV.UK style guide (link to above, ‘how to write text for a statistical announcement’).
 
 Under ‘Statistics type’, only select the ‘National statistics’ option from the drop-down menu if your statistics are [accredited by ONS](http://www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics/list-of-national-statistics/index.html).
 
-(IMAGE)
+![stats 5](stats5.png)
 
 Once you’ve completed all the fields, select the ‘Save announcement’ button.
 
@@ -84,33 +87,33 @@ Once you’ve completed all the fields, select the ‘Save announcement’ butto
 
 Go to the ‘Statistics announcements’ tab in Publisher.
 
-(IMAGE)
+![stats 6](stats6.png)
 
 You’ll see a list of existing announcements. Select the announcement you want to edit.
 
 To amend the statistics type, title, summary, organisation or topic:
 
-*select the ‘Edit’ button
-*make your amends
-*have someone else check your text for errors
-*select ‘Save announcement’
+* select the ‘Edit’ button
+* make your amends
+* have someone else check your text for errors
+* select ‘Save announcement’
 
 To amend the release date:
 
-*select the ‘Change release date’ button
-*once you’ve amended the date you have the option to [add a change note](https://insidegovuk.blog.gov.uk/2013/09/09/when-should-you-add-change-notes/) to explain the change of date - this will appear on the page for the public to read
+* select the ‘Change release date’ button
+* once you’ve amended the date you have the option to [add a change note](https://insidegovuk.blog.gov.uk/2013/09/09/when-should-you-add-change-notes/) to explain the change of date - this will appear on the page for the public to read
 * select ‘change date’ to confirm the change
 
-(IMAGE)
+![stats 7](stats7.png)
 
 ##How to link an announcement to a draft statistics publication
 
 Once you’ve created your announcement you’ll see a message which says ‘This announcement is not yet linked to a document’. Underneath there are 2 options to link the announcement to a statistics document: 
 
-*‘Draft new document’ 
-*‘Link to an existing draft document’
+* ‘Draft new document’ 
+* ‘Link to an existing draft document’
 
-(IMAGE)
+![stats 8](stats8.png)
 
 ##Link to an existing draft document
 
@@ -126,19 +129,19 @@ It will auto-populate the publication type, title, summary and topic fields for 
 
 The body text should reassure the user that the release is (or isn’t) what they’re looking for. The body text should:
 
-*not be longer than 100 words
-*describe what the statistics are about and their purpose
-*be clear, concise and written in plain English
-*provide context if there are statistics with similar titles
-*not repeat the title and summary 
-*not summarise what the publication says
-*not include general information covered in the publication
+* not be longer than 100 words
+* describe what the statistics are about and their purpose
+* be clear, concise and written in plain English
+* provide context if there are statistics with similar titles
+* not repeat the title and summary 
+* not summarise what the publication says
+* not include general information covered in the publication
 
 ##How to create a statistics publication to GOV.UK
 
 Go to the ‘New document’ tab in Publisher and select ‘Publication’ from the drop down list. This will create a new publication page for you.
 
-(IMAGE)
+![stats 9](stats9.png)
 
 There are several mandatory fields you need to complete.
 
@@ -150,52 +153,52 @@ Complete the title and summary fields using the same wording you’ve used in th
 
 You then need to add the body text. This should reassure the user that it is (or isn’t) what they’re looking for. The body text should:
 
-*not be longer than 100 words
-*describe what the statistics are about and their purpose
-*be clear, concise and written in plain English
-*provide context if there are other similar statistics
-*not repeat the title and summary 
-*not summarise what the publication says
-*not include general information covered in the publication
+* not be longer than 100 words
+* describe what the statistics are about and their purpose
+* be clear, concise and written in plain English
+* provide context if there are other similar statistics
+* not repeat the title and summary 
+* not summarise what the publication says
+* not include general information covered in the publication
 
 You must provide an email address for users to order the publication in an alternative format. Select your organisation’s address from the list.
 
-(IMAGE)
+![stats 10](stats10.png)
 
 You also need to tag the publication to a topic, so choose the most appropriate one from the drop-down menu. You can add more than 1 topic if the publication covers a range of subjects.
 
-(IMAGE)
+![stats 11](stats11.png)
 
 Statistics will not usually be tagged to a policy.
 
 You should tag the publication to the relevant organisation(s).
 
-(IMAGE)
+![stats 12](stats12.png)
 
 If relevant, you can link the publication to a ‘Related statistical data set’.
 
-(IMAGE)
+![stats 13](stats13.png)
 
 Statistics are set by default to be visible only to publishers in the department that created them. Make sure you untick the box if you want to share the draft with colleagues in other departments.
 
 Once you’ve finished completing the relevant fields you can save the document:
 
-if you don’t have the publication ready to upload select ‘Save’ and you can return to upload it later
-if you do have the publication ready to upload, select ‘Save and continue editing’
+* if you don’t have the publication ready to upload select ‘Save’ and you can return to upload it later
+* if you do have the publication ready to upload, select ‘Save and continue editing’
 
 When the document is saved, a new tab will be available called ‘Attachments’. 
 
-(IMAGE)
+![stats 14](stats14.png)
 
 When you have your publication ready to upload, select the ‘attachments’ tab. Then select ‘Upload new file attachment’.
 
-(IMAGE)
+![stats 15](stats15.png)
 
 When you’ve uploaded your publication, go back to the ‘document’ tab, and select ‘Save’ (at the bottom of the page).
 
 When the document is ready, you should select the ‘Submit for 2nd eyes’ tab. Another editor can now [review the page](https://insidegovuk.blog.gov.uk/2014/05/29/what-to-check-before-you-publish-a-2i-checklist/) to make sure it is in style and ready to be published. 
 
-(IMAGE)
+![stats 16](stats16.png)
 
 If they find anything that needs to be amended, they should ‘reject’ the page and add notes about what needs to change. You should then make the changes and resubmit for review.
 
