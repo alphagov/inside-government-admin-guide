@@ -11,7 +11,7 @@ Each consultation stays on the same page of GOV.UK throughout its life cycle. Th
 * from 'Closed' to 'Concluded' when you upload the government response or enter text about the outcome in the detail box
 
 
-### Launch a consultation
+## Launch a consultation
 
 * Create a consultation using the 'Create new document' menu.
 * Add a title and summary and enter some body copy of no more than 100 words, summarising the call for responses. 
@@ -35,7 +35,7 @@ Each consultation stays on the same page of GOV.UK throughout its life cycle. Th
 
 When the consultation reaches its closing date the status changes to 'Closed', with the message 'We are analysing your feedback'.
 
-### Update a consultation
+## Update a consultation
 
 After the consultation has closed there may be some public feedback or other documents to add before the consultation process is fully concluded. 
 
@@ -50,7 +50,7 @@ After the consultation has closed there may be some public feedback or other doc
 When the consultation is updated, the status remains as 'Closed'. The new content shows at the top of the page under the title 'Detail of feedback received'.
 
 
-### Conclude a consultation
+## Conclude a consultation
 
 * Don't change the original text - this will move to the bottom with the sub heading 'Original consultation'.
 * When the government response is ready, open the document for editing and click on the 'Final outcome' tab.
