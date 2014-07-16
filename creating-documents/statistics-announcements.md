@@ -78,7 +78,7 @@ Use the ‘Create announcement’ button to start a new announcement.
 
 ![stats 4](stats4.png)
 
-All of the fields with a ‘*’ are mandatory, so you need to [write them correctly](http://alphagov.github.io/inside-government-admin-guide/creating-documents/statistics-announcements.html#how-to-write-text-for-a-new-statistics-announcement).
+All of the fields with a ‘*’ are mandatory, so you need to [write them correctly](https://www.gov.uk/design-principles/style-guide).
 
 Under ‘Statistics type’, only select the ‘National statistics’ option from the drop-down menu if your statistics are [accredited by the UK Statistics Authority](http://www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics/list-of-national-statistics/index.html).
 
