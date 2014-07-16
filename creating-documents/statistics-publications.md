@@ -1,16 +1,18 @@
 ---
 layout: default
-title: How to publish content / How to create a statistics publication
+title: How to publish content / How to create statistics publications
 ---
-#How to create a statistics publication to GOV.UK
+#How to create statistics publications to GOV.UK
 
-Go to the ‘New document’ tab in Publisher and select ‘Publication’ from the drop down list. This will create a new publication page for you.
+If you're also creating a statistics announcement, [do that first](http://alphagov.github.io/inside-government-admin-guide/creating-documents/statistics-announcements.html) then link to a new publication from the announcement.
+
+To create a publication page, go to the ‘New document’ tab in Publisher and select ‘Publication’ from the drop down list. This will create a new publication page for you.
 
 ![stats 9](stats9.png)
 
 There are several mandatory fields you need to complete.
 
-From the ‘publication type’ drop-down menu, select either ‘statistics’ or ‘statistics - national statistics’. Do not select ‘national statistics’ unless your statistics have been approved by ONS, as it will generate the national statistics logo on the document.
+From the ‘publication type’ drop-down menu, select either ‘statistics’ or ‘statistics - national statistics’. Do not select ‘national statistics’ unless your statistics have been [approved by the UK Statistics Authority](https://www.gov.uk/government/publications/how-national-and-official-statistics-are-assured), as it will generate the national statistics logo on the document.
 
 ![stats 10](stats10.png)
 
@@ -24,7 +26,6 @@ You then need to add the body text. This should reassure the user that it is (or
 * provide context if there are other similar statistics
 * not repeat the title and summary 
 * not summarise what the publication says
-* not include general information covered in the publication
 
 You must provide an email address for users to order the publication in an alternative format. Select your organisation’s address from the list.
 

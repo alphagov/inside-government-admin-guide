@@ -30,6 +30,8 @@ title: How to publish content / Index
 * [Preview, submit and publish](creating-documents/preview-your-work.html) 
 * [Schedule a document for timed publication](creating-documents/scheduled-publishing.html) 
 * [Edit a published document](creating-documents/editing-a-doc.html) - including change notes
+* [Statistics release announcements: creating and updating](creating-documents/statistics-announcements.html)
+* [Statistics publications: creating and updating](creating-documents/statistics-publications.html)
 * [Consultations: launch, update and conclude](creating-documents/launch-consultations.html)
 * [Official documents: creating one](creating-documents/official-documents.html)
 * [Archive, delete or unpublish documents](creating-documents/delete-unpublish.html) - and create or delete URLs

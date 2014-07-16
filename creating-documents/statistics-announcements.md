@@ -1,23 +1,23 @@
 ---
 layout: default
-title: How to publish content / Statistical announcements
+title: How to publish content / Statistics release announcements
 ---
 
-# Statistical announcements
+# Statistics release announcements
 
-Do not create or modify statistics or statistics announcements unless you have authorisation from the Office of National Statistics (ONS).
+Do not create or modify statistics or statistics release announcements unless you have authorisation from the UK Statistics Authority.
 
-##How statistical announcements work
+##How statistics announcements work
 
-When you create a statistical announcement it generates a calendar entry on the [statistics release calendar](https://www.gov.uk/government/statistics/announcements). They are similar to calendar entries on the PubHub.
+When you create a statistics announcement it generates a calendar entry on the [statistics release calendar](https://www.gov.uk/government/statistics/announcements). They are similar to calendar entries on the PubHub.
 
 ![stats 1](stats1.png)
 
-You should then create the draft publication in Publisher, linked to the announcement. Once the statistics document is published, the announcement will no longer show in the release calendar. You need to create a publication even if the statistics publication will not be published on GOV.UK.
+You should then create the draft publication in [Publisher](https://whitehall-admin.production.alphagov.co.uk/government/admin), linked to the announcement. Once the statistics document is published, the announcement will no longer show in the release calendar. You need to create a publication even if the statistics publication will not be published on GOV.UK.
 
-##How to write text for a statistical announcement
+##How to write text for a statistics announcement
 
-If you’re creating a new announcement, first search GOV.UK for anything similar. You should match title style from previous publications where you can.
+If you’re creating a new announcement, first search GOV.UK for anything similar. You should match title style from previous publications where you can. You must follow the [style guide](https://www.gov.uk/design-principles/style-guide) when writing for GOV.UK.
 
 ##Titles
 
@@ -29,9 +29,9 @@ A release title should:
 * not include the word ‘statistics’ - it’s already on the page 
 * be in sentence case 
 * be [optimised for search](https://www.gov.uk/design-principles/style-guide/style-points#style-titles) (frontload the most important information)
-* include colons instead of hyphens or dashes (for screen readers)
+* use a colon instead of hyphens or dashes and a comma if you need a second separator
 * not contain jargon or technical language
-* spell out abbreviations or acronyms (unless well known, for example, UK, VAT or EU)
+* not include abbreviations or acronyms (unless well known, for example, UK, VAT or EU)
 
 Good examples: 
 'House building in England: October to December 2014’
@@ -47,11 +47,14 @@ Search engines cut off titles after about 65 characters. This can lead to unhelp
 The summary gives more information about the statistic, and will show in most search engine results. It should:
 
 * be under 140 characters (including spaces)
-* expand on the title without repeating it
 * explain what the release is about in plain English (no jargon)
-* 'frontload' the most important information at the beginning (not 'This release provides...')
+* be a unique description specific to the release
+* not repeat the title
+* begin with the most important words, so search engines can find the document (not 'This release provides...')
 * end with a full stop (for people using screen readers)
 * explain any acronyms used in the title
+
+Remember: when a release title or summary is displayed in the release calendar or search engine results, users need to see whether this is what they want.
 
 Examples:
 
@@ -75,13 +78,13 @@ Use the ‘Create announcement’ button to start a new announcement.
 
 ![stats 4](stats4.png)
 
-All of the fields with a ‘*’ are mandatory, so you need to fill them in following the GOV.UK style guide (link to above, ‘how to write text for a statistical announcement’).
+All of the fields with a ‘*’ are mandatory, so you need to [write them correctly](http://alphagov.github.io/inside-government-admin-guide/creating-documents/statistics-announcements.html#how-to-write-text-for-a-new-statistics-announcement).
 
-Under ‘Statistics type’, only select the ‘National statistics’ option from the drop-down menu if your statistics are [accredited by ONS](http://www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics/list-of-national-statistics/index.html).
+Under ‘Statistics type’, only select the ‘National statistics’ option from the drop-down menu if your statistics are [accredited by the UK Statistics Authority](http://www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics/list-of-national-statistics/index.html).
 
 ![stats 5](stats5.png)
 
-Once you’ve completed all the fields, select the ‘Save announcement’ button.
+Once you’ve completed all the fields, someone else must look at your text before you click the ‘Save announcement’ button. Clicking the ‘Save announcement’ button publishes the announcement to GOV.UK.
 
 ##How to amend an existing announcement
 
@@ -101,7 +104,7 @@ To amend the statistics type, title, summary, organisation or topic:
 To amend the release date:
 
 * select the ‘Change release date’ button
-* once you’ve amended the date you have the option to [add a change note](https://insidegovuk.blog.gov.uk/2013/09/09/when-should-you-add-change-notes/) to explain the change of date - this will appear on the page for the public to read
+* once you’ve amended the date you must [add a change note](https://insidegovuk.blog.gov.uk/2013/09/09/when-should-you-add-change-notes/) to explain the change of date - this will appear on the page for the public to read
 * select ‘change date’ to confirm the change
 
 ![stats 7](stats7.png)
@@ -117,11 +120,11 @@ Once you’ve created your announcement you’ll see a message which says ‘Thi
 
 ##Link to an existing draft document
 
-If the draft of the statistics document is already in Publisher, then select ‘Link to an existing draft document.’ A search box will appear where you should enter the title of the document and select it from the list. This will link the 2 documents, so when you publish the statistics document, the announcement won’t show in the release calendar.
+If the draft of the statistics document is already in Publisher, then select ‘Link to an existing draft document.’ A search box will appear where you should enter the title of the document and select it from the list. This will link the 2 documents, so when you publish the statistics document, the announcement will no longer show in the release calendar.
 
 ##Draft a new document
 
-If the draft page for the document hasn’t yet been created you need to select ‘Draft new document’. This will automatically create a statistics publication page for your statistics document. Always search in Publisher first to make sure the document is not already there, and to make sure you have a unique title. 
+If the draft page for the document hasn’t yet been created you need to select ‘Draft new document’. This will automatically [create a statistics publication page](http://alphagov.github.io/inside-government-admin-guide/creating-documents/statistics-publications.html) for your statistics document. Always search in Publisher first to make sure the document is not already there, and to make sure you have a unique title. 
 
 It will auto-populate the publication type, title, summary and topic fields for you using the text from the announcement page. You will need to add the body text. Then you can save the page until you’re ready to upload the statistics publication.
 
@@ -135,4 +138,3 @@ The body text should reassure the user that the release is (or isn’t) what the
 * provide context if there are statistics with similar titles
 * not repeat the title and summary 
 * not summarise what the publication says
-* not include general information covered in the publication
