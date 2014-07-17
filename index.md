@@ -54,5 +54,5 @@ title: How to publish content / Index
 * [Add translated content](worldwide-network/translating-docs.html)
 * [World locations](worldwide-network/world-locations.html)
 * [World location news article](worldwide-network/world-location-news-article.html)
-* [Worldide organisations](worldwide-network/worldwide-organisations.html)
+* [Worldwide organisations](worldwide-network/worldwide-organisations.html)
 
