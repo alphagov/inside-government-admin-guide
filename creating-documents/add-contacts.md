@@ -5,22 +5,7 @@ title: How to publish content / Add contacts to a page
 
 Please note this manual is a draft version and will be revised shortly.
 
-You can add a contact using Markdown to an individual page, or you can add a contact from your directory.
-
-## Add a contact using Markdown
-
-Use this layout and Markdown:
-
-Email: < contact@organisation.gov.uk > (no spaces)
-
-Telephone: 020 1234 5678
-
-$A  
-Name   
-Address  
-Address  
-Postcode  
-$A
+You can add a contact to a page from your contact directory, or you can use Markdown.
 
 
 ## Add a directory contact to a page
@@ -46,5 +31,20 @@ It will also return matches for the title of the contact itself, for example her
 Click on the contact you want to insert, and your Markdown command will be automatically completed using the relevant contact reference number.
 
 It’s a good idea to click the preview toggle to double-check it’s the contact you wanted.
+
+## Add a contact using Markdown
+
+All email addresses you use frequently should be added to your contact directory. If you do need to add a one-off email address it will be treated as a link in Publisher, so the Markdown is:
+
+\[contact@organisation.gov.uk\]\(mailto:contact@organisation.gov.uk\)
+
+Telephone: 020 1234 5678
+
+$A  
+Name   
+Address  
+Address  
+Postcode  
+$A
 
 < [Back to contents](http://alphagov.github.io/inside-government-admin-guide/)

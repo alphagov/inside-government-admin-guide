@@ -12,20 +12,32 @@ You can add attachments individually or you can bulk-upload a zip file containin
 * `csv`
 * `doc`
 * `docx`
+* `dot`
+* `dxf`
+* `eps`
+* `gif`
+* `gml`
+* `ics`
 * `jpg`
-* `odp`
+* `kml`
 * `ods`
+* `odp`
 * `odt`
 * `pdf`
 * `png`
+* `ps`
 * `ppt`
 * `pptx`
 * `rdf`
 * `rtf`
 * `txt`
 * `xls`
+* `xlsm`
+* `xlst`
 * `xlsx`
 * `xml`
+* `xsd`
+* `zip`
 
 You will have to save the document before you add any attachments (you can't add attachments at the create document stage). 
 

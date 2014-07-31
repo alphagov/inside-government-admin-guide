@@ -7,23 +7,23 @@ Please note this manual is a draft version and will be revised shortly.
 
 # Use Markdown for headers, links, bullets, tables, acronyms and blockquotes
 
-Publisher needs ‘Markdown’ commands to format the content. Instead of using an editor tool, you can type simple Markdown commands within the copy to create the formatting you want. 
+Publisher uses [Markdown](http://daringfireball.net/projects/markdown/) with [Govspeak](https://github.com/alphagov/govspeak) extensions; plain text formats that are converted to HTML on GOV.UK.  Instead of a What You See Is What You Get (WYSIWYG) editor you use Markdown in the copy to create the HTML you want. 
 
-On every editing interface, you’ll see a ‘how to’ guide to Markdown like the one below. It’s under the tab called ‘Formatting help’. You can cut and paste the text if you get stuck.
+When editing a document in Publisher you will see a help guide to Markdown, like the one below. It’s on the right under the ‘Help’ tab in the ‘Formatting’ section. You can cut and paste the example text if you get stuck.
 
 ![Markdown 1](markdown-1.png)
    
-### Headers and sub-headers
+### Headings and sub-headings
 
-*  The title and summary are styled automatically, don't use Markdown in either of these boxes.
-*  In the body, use 2 hashtags (\#\#) for a section header and 3 or 4 hashtags for sub-headers. These are your H2s, H3s and H4s.
-*  Don't use 1 hashtag or you will get a title heading in the middle of your document.
+*  The document title and summary are styled automatically, don't use Markdown in either of these boxes.
+*  In the document body, use 2 hashtags (\#\#) for a section heading and 3 or 4 hashtags for sub-headings. These are your H2s, H3s and H4s.
+*  Don't use 1 hashtag, or you will get a title heading in the middle of your document.
 
 ![Markdown 2](markdown-2.png) 
 
-*  Use the headers in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
+*  Use the headings in sequence, ie an H3 needs to be preceded by an H2 and an H4 needs an H3.
 
-The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html) section has more about titles, summaries and sub-headers.
+The [Create a document](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html) section has more about titles, summaries and sub-headings.
 
 
 ### Links
@@ -36,7 +36,7 @@ The [Create a document](http://alphagov.github.io/inside-government-admin-guide/
 The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-links.html) section explains how to create internal and external links. 
 
 
-### Bullets
+### Bulleted lists
 
 *  Use asterisks (\*) to make bullets (hyphens also work).
 
@@ -46,7 +46,20 @@ The [Add links](http://alphagov.github.io/inside-government-admin-guide/creating
 *  You need 1 empty line space before the bullets start, and 1 at the end.
 *  Sub-items need an indent of 2 spaces.
 
-See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguide#bullet-points-and-steps) to check how to punctuate bullets.
+See the [style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-bullets) to check how to punctuate bullets.
+
+### Numbered lists
+
+*  Use numbers followed by a full stop (1.) to make numbered lists. The order of the numbers doesn't matter, as long as they are a numbers.
+
+![Markdown 8](markdown-8.png)
+
+*  Make sure there is 1 space after the full stop and that all the numbers line up. 
+*  You need 1 empty line space before the numbers start, and 1 at the end.
+*  Sub-items need an indent of 2 spaces.
+*  To manually number items use a backslash before the full stop (1\\. 3\\. 5\\.).
+
+See the [style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-steps) to check how to punctuate numbered lists.
 
 
 ### Tables
@@ -54,9 +67,11 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 *  Use dividers (\|) to make tables.
 *  You need 1 empty line space before the table starts and 1 at the end.
 *  Make sure every row has the same number of dividers - use \| \| for an empty cell.
+
 ![Markdown 5](markdown-5.png)
+
 *  Use \|---\|---\| as the second row to create a bold header row at the top.
-*  No Markdown within a table, but you can use html if you need links in your table.
+*  No Markdown within a table, but you can use HTML if you need links in your table.
 
 
 ### Call to action
@@ -66,7 +81,7 @@ See the [style guide, section 2.5](https://www.gov.uk/designprinciples/styleguid
 
 ![Markdown 6](markdown-6.png)
 
-See the [style guide, section 2.15](https://www.gov.uk/designprinciples/styleguide#links) for more advice about writing links.
+See the [style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-links) for more advice about using links.
 
 
 ### Acronyms
@@ -101,7 +116,7 @@ As the Prime Minister said:
 *  Leave 1 empty line space above and below your blockquote.
 *  Do not use blockquotes in speeches: blockquotes are for news and case studies only. 
 
-For more advice on using blockquotes on GOV.UK, see the [style guide: news](https://www.gov.uk/designprinciples/insidegovernment#news) and [style guide: case studies](https://www.gov.uk/designprinciples/insidegovernment#case-studies).
+For more advice on using blockquotes on GOV.UK, see the [style guide: news](https://www.gov.uk/design-principles/style-guide/news-stories-and-press-releases#style-guide) and [style guide: case studies](https://www.gov.uk/design-principles/style-guide/case-studies#style-guide).
 
 
 ### Images and attachments
@@ -109,4 +124,3 @@ For more advice on using blockquotes on GOV.UK, see the [style guide: news](http
 These are covered in the sections [Add images](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-images.html) and [Add attachments](http://alphagov.github.io/inside-government-admin-guide/creating-documents/add-attachments.html)
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
-
