@@ -10,7 +10,7 @@ title: How to publish content / Add images and videos
 Images can be added to news articles, speeches, case studies, detailed guides and supporting detail pages on policies. Check the [image copyright standards for GOV.UK](https://insidegovuk.blog.gov.uk/gov-uk-standards-and-guidelines/image-copyright-standards-for-gov-uk/).
 
 * Upload an image by clicking the 'Choose file' button (accepted types are jpg, png, gif). 
-* All images should be 72dpi minimum, landscape format. [Pixlr.com](http://www.pixlr.com) is a good place to go to resize images.
+* All images should be 960x640pixels (landscape) and 72dpi minimum. [Pixlr.com](http://www.pixlr.com) is a good place to go to resize images.
 * Use alt text where you need to help users understand the visual content. If alt text is not essential to understanding the content, use “”. For more details  using alt tags and captions, see the [style guide](https://www.gov.uk/design-principles/style-guide/images#images-alt-text).
 * When you've picked an image to use, another ‘new image’ box automatically appears so you can pick more.
 
