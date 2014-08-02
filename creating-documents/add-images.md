@@ -11,7 +11,7 @@ Images can be added to news articles, speeches, case studies, detailed guides an
 
 * Upload an image by clicking the 'Choose file' button (accepted types are jpg, png, gif). 
 * All images should be 72dpi minimum, landscape format. [Pixlr.com](http://www.pixlr.com) is a good place to go to resize images.
-* Use alt text where you need to help users understand the visual content. If an image is not essential to understanding the content, use “”. For more details about alt tags and captions, see the [style guide](https://www.gov.uk/design-principles/style-guide/images#images-alt-text).
+* Use alt text where you need to help users understand the visual content. If alt text is not essential to understanding the content, use “”. For more details  using alt tags and captions, see the [style guide](https://www.gov.uk/design-principles/style-guide/images#images-alt-text).
 * When you've picked an image to use, another ‘new image’ box automatically appears so you can pick more.
 
 ![Add images 2](add-images-2.png)
