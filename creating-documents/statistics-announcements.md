@@ -109,6 +109,22 @@ To amend the release date:
 
 ![stats 7](stats7.png)
 
+##Cancelling a statistics announcement
+
+You may be asked to cancel a statistics announcement from the release calendar because the statistics are no longer due to be published. When you cancel the announcement it will remain in the calendar until a month after the planned publication date. There will be a note on the page which explains why the statistics have been cancelled.
+
+**Important:** This is different to deleting a duplicate announcement or one published in error. In those cases you should raise a Zendesk ticket to ask for the announcement to be deleted.
+
+###How to cancel a statistics announcement
+
+Select the announcement you want to cancel from the list of statistics announcements.
+
+Click on the ‘Cancel statistics release’ button towards the bottom right of the page.
+
+A box will appear which asks you to give the ‘Official reason for cancellation’. This is a mandatory field which will appear on the website. 
+
+Once you’ve added your text to the box, select the ‘Publish cancellation’ button. The announcement is now cancelled and will stay at the top of the release calendar until a month after the planned publication date.
+
 ##How to link an announcement to a draft statistics publication
 
 Once you’ve created your announcement you’ll see a message which says ‘This announcement is not yet linked to a document’. Underneath there are 2 options to link the announcement to a statistics document: 
@@ -138,19 +154,3 @@ The body text should reassure the user that the release is (or isn’t) what the
 * provide context if there are statistics with similar titles
 * not repeat the title and summary 
 * not summarise what the publication says
-
-##Cancelling a statistics announcement
-
-You may be asked to cancel a statistics announcement from the release calendar because the statistics are no longer due to be published. When you cancel the announcement it will remain in the calendar until a month after the planned publication date. There will be a note on the page which explains why the statistics have been cancelled.
-
-**Important:** This is different to deleting a duplicate announcement or one published in error. In those cases you should raise a Zendesk ticket to ask for the announcement to be deleted.
-
-###How to cancel a statistics announcement
-
-Select the announcement you want to cancel from the list of statistics announcements.
-
-Click on the ‘Cancel statistics release’ button towards the bottom right of the page.
-
-A box will appear which asks you to give the ‘Official reason for cancellation’. This is a mandatory field which will appear on the website. 
-
-Once you’ve added your text to the box, select the ‘Publish cancellation’ button. The announcement is now cancelled and will stay at the top of the release calendar until a month after the planned publication date.
