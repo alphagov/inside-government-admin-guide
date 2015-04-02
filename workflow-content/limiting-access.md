@@ -3,14 +3,9 @@ layout: default
 title: How to publish content / Limiting access
 ---
 
-Please note this manual is a draft version and will be revised shortly.
+## The information in this guide has moved
 
-# Limiting access
+Please go to [Guidance for government digital publishing and services](https://www.gov.uk/government-digital-guidance/content-publishing).
 
-You can restrict access to selected documents. Please only use this if the information is confidential.
-
-![Limiting access 1](limiting-access-1.png)
-	
-When you tick this box, the document you're creating can only be edited and published by colleagues from departments it’s associated to (both lead and supporting departments). Once the document is published, it can be accessed by anyone.
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide)

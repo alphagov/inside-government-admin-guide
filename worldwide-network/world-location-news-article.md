@@ -3,18 +3,8 @@ layout: default
 title: How to publish content / World location news article
 ---
 
-Please note this manual is a draft version and will be revised shortly.
+## The information in this guide has moved
 
-# World location news article
-
-Use the ‘World location news article’ if you want a story to appear in your location and NOT on your main department site.
-
-![World location news article 1](world-location-news-article-1.png)
-
-This document type is very similar to a regular news article, except it contains worldwide associations not UK ones
-
-[More on creating documents](http://alphagov.github.io/inside-government-admin-guide/creating-documents/create-a-new-doc.html)
-
-![World location news article 2](world-location-news-article-2.png)
+Please go to [Guidance for government digital publishing and services](https://www.gov.uk/government-digital-guidance/content-publishing).
 
 [< Back to contents](http://alphagov.github.io/inside-government-admin-guide/)
